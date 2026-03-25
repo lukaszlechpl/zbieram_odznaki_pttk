@@ -1,10 +1,10 @@
 nazwa_obiektu;wojewodztwo;kategoria_obiektu;adres;wspolrzedne;wikipedia_opis;google_maps_link;stopien_odznaki;status
-Brazowy;;;;;;;Srebrny;RAW
-Razem;;;;;;;40;RAW
-W tym co najmniej:;;;;;;;;RAW
-Zabytkow architektury;;;;;;;8;RAW
-Muzeow, izb regionalnych;;;;;;;3;RAW
-Miejsc pamieci narodowej;;;;;;;4;RAW
-Rezerwatow przyrody;;;;;;;2;RAW
-Parkow zabytkowych;;;;;;;2;RAW
-Parkow krajobrazowych;;;;;;;2;RAW
+Brazowy;ogolnopolskie;wymaganie stopnia;Polska;MANUAL_CHECK;Poziom brazowy jest pierwszym etapem zdobywania odznaki krajoznawczej i wyznacza minimalny prog aktywnosci terenowej. Regulamin zaklada samodzielny dobor obiektow w zasiegu lokalnym oraz dokumentowanie ich poznania, co buduje podstawe do kolejnych stopni.;https://www.google.com/maps/search/Polska+obiekty+krajoznawcze;BRAZOWY;ETAP2_OK
+Razem;ogolnopolskie;wymaganie ilosciowe;Polska;MANUAL_CHECK;Pozycja okresla laczna liczbe obiektow wymaganych do zaliczenia danej czesci regulaminu. W praktyce jest to prog ilosciowy, ktory trzeba osiagnac lacznie z zachowaniem minimalnych limitow dla poszczegolnych kategorii obiektow krajoznawczych.;https://www.google.com/maps/search/Polska+obiekty+krajoznawcze;40;ETAP2_OK
+W tym co najmniej:;ogolnopolskie;warunek minimalny;Polska;MANUAL_CHECK;Wiersz sygnalizuje, ze poza laczna liczba obiektow obowiazuja dodatkowe minima w roznych kategoriach. Oznacza to koniecznosc zroznicowanego zwiedzania, a nie realizacji wymogu tylko jednym typem atrakcji.;https://www.google.com/maps/search/Polska+krajoznawstwo;WARUNEK;ETAP2_OK
+Zabytkow architektury;ogolnopolskie;kategoria obiektow;Polska;MANUAL_CHECK;Kategoria obejmuje obiekty architektury o wartosci historycznej i krajoznawczej, np. koscioly, zamki, ratusze czy zespoly urbanistyczne. W regulaminie wskazuje obowiazkowy udzial dziedzictwa materialnego w realizacji stopnia odznaki.;https://www.google.com/maps/search/Polska+zabytki+architektury;8;ETAP2_OK
+Muzeow, izb regionalnych;ogolnopolskie;kategoria obiektow;Polska;MANUAL_CHECK;Kategoria dotyczy placowek prezentujacych dziedzictwo lokalne i narodowe, w tym muzeow oraz izb regionalnych. Jej celem jest potwierdzenie, ze zdobywca korzysta z zrodel interpretacyjnych i poznaje kontekst historyczno-kulturowy odwiedzanych miejsc.;https://www.google.com/maps/search/Polska+muzea+izby+regionalne;3;ETAP2_OK
+Miejsc pamieci narodowej;ogolnopolskie;kategoria obiektow;Polska;MANUAL_CHECK;Miejsca pamieci narodowej to punkty zwiazane z wydarzeniami i postaciami istotnymi dla historii Polski. Wymog tej kategorii ma charakter edukacyjny i tozsamosciowy, uzupelniajac krajoznawstwo o element swiadomosci historycznej.;https://www.google.com/maps/search/Polska+miejsca+pamieci+narodowej;4;ETAP2_OK
+Rezerwatow przyrody;ogolnopolskie;kategoria obiektow;Polska;MANUAL_CHECK;Kategoria rezerwatow przyrody ma zapewnic kontakt z obszarami chronionymi o wysokich walorach przyrodniczych. Wlaczenie jej do regulaminu rownowazy komponent kulturowy i przyrodniczy odznaki oraz promuje odpowiedzialna turystyke.;https://www.google.com/maps/search/Polska+rezerwaty+przyrody;2;ETAP2_OK
+Parkow zabytkowych;ogolnopolskie;kategoria obiektow;Polska;MANUAL_CHECK;Parki zabytkowe to historyczne zalozenia zieleni zwiazane z rezydencjami, miastami i dawnymi kompozycjami krajobrazowymi. Wymog tej kategorii kieruje uwage na dziedzictwo ogrodowe i przemiany kultury przestrzeni w Polsce.;https://www.google.com/maps/search/Polska+parki+zabytkowe;2;ETAP2_OK
+Parkow krajobrazowych;ogolnopolskie;kategoria obiektow;Polska;MANUAL_CHECK;Parki krajobrazowe obejmuja obszary cenne przyrodniczo i kulturowo, gdzie ochrona laczy sie z turystyka i edukacja. Obecnosc tej kategorii w regulaminie wzmacnia komponent krajobrazowy odznaki i promuje poznawanie zroznicowania regionow kraju.;https://www.google.com/maps/search/Polska+parki+krajobrazowe;2;ETAP2_OK

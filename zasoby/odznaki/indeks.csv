@@ -3,7 +3,7 @@ nazwa;url;kategoria;plik_csv;plik_md;status_przetwarzania
 100 rzek;https://odznaki.org/odznaka/100-rzek/;B;;zasoby/odznaki/100-rzek.md;ETAP1_OK
 100-lecie Odzyskania Niepodległości;https://odznaki.org/odznaka/100-lecie-odzyskania-niepodleglosci/;A;zasoby/odznaki/100-lecie-odzyskania-niepodleglosci.csv;zasoby/odznaki/100-lecie-odzyskania-niepodleglosci.md;ETAP1_OK
 100. Rocznica Odzyskania Niepodległości;https://odznaki.org/odznaka/100-rocznica-odzyskania-niepodleglosci/;C;;zasoby/odznaki/100-rocznica-odzyskania-niepodleglosci.md;ETAP1_OK
-1000. rocznica Koronacji Pierwszych Królów Polski w Gnieźnie;https://odznaki.org/odznaka/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie/;B;zasoby/odznaki/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie.csv;zasoby/odznaki/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie.md;ETAP1_OK
+1000. rocznica Koronacji Pierwszych Królów Polski w Gnieźnie;https://odznaki.org/odznaka/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie/;B;zasoby/odznaki/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie.csv;zasoby/odznaki/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie.md;ETAP2_OK
 120 lat Polskiego Towarzystwa Krajoznawczego;https://odznaki.org/odznaka/120-lat-polskiego-towarzystwa-krajoznawczego/;C;;zasoby/odznaki/120-lat-polskiego-towarzystwa-krajoznawczego.md;ETAP1_OK
 150 rocznica Powstania Styczniowego;https://odznaki.org/odznaka/150-rocznica-powstania-styczniowego/;C;;zasoby/odznaki/150-rocznica-powstania-styczniowego.md;ETAP1_OK
 1794 - Szlak Pamięci Insurekcji Kościuszkowskiej;https://odznaki.org/odznaka/1794-szlak-pamieci-insurekcji-kosciuszkowskiej/;B;zasoby/odznaki/1794-szlak-pamieci-insurekcji-kosciuszkowskiej.csv;zasoby/odznaki/1794-szlak-pamieci-insurekcji-kosciuszkowskiej.md;ETAP1_OK
@@ -29,7 +29,7 @@ nazwa;url;kategoria;plik_csv;plik_md;status_przetwarzania
 75 lat z PTTK;https://odznaki.org/odznaka/75-lat-z-pttk/;C;;zasoby/odznaki/75-lat-z-pttk.md;ETAP1_OK
 80-lecie zakończenia II Wojny Światowej 1945-2025;https://odznaki.org/odznaka/80-lecie-zakonczenia-ii-wojny-swiatowej-1945-2025/;C;;zasoby/odznaki/80-lecie-zakonczenia-ii-wojny-swiatowej-1945-2025.md;ETAP1_OK
 966 - Narodziny Państwa Polskiego;https://odznaki.org/odznaka/966-narodziny-panstwa-polskiego/;D;;zasoby/odznaki/966-narodziny-panstwa-polskiego.md;ETAP1_OK
-Bacówki Edwarda Moskały;https://odznaki.org/odznaka/bacowki-edwarda-moskaly/;A;zasoby/odznaki/bacowki-edwarda-moskaly.csv;zasoby/odznaki/bacowki-edwarda-moskaly.md;ETAP1_OK
+Bacówki Edwarda Moskały;https://odznaki.org/odznaka/bacowki-edwarda-moskaly/;A;zasoby/odznaki/bacowki-edwarda-moskaly.csv;zasoby/odznaki/bacowki-edwarda-moskaly.md;ETAP2_OK
 Bazowa Odznaka Turystyczna;https://odznaki.org/odznaka/bazowa-odznaka-turystyczna/;B;;zasoby/odznaki/bazowa-odznaka-turystyczna.md;ETAP1_OK
 Chwała Polskich Skrzydeł;https://odznaki.org/odznaka/chwala-polskich-skrzydel/;C;;zasoby/odznaki/chwala-polskich-skrzydel.md;ETAP1_OK
 Cichociemni – Spadochroniarze Armii Krajowej;https://odznaki.org/odznaka/cichociemni-spadochroniarze-armii-krajowej/;C;;zasoby/odznaki/cichociemni-spadochroniarze-armii-krajowej.md;ETAP1_OK
@@ -93,14 +93,14 @@ Odznaka Fotografii Krajoznawczej;https://odznaki.org/odznaka/odznaka-fotografii-
 Odznaka Imprez na Orientacje;https://odznaki.org/odznaka/odznaka-imprez-na-orientacje/;C;;zasoby/odznaki/odznaka-imprez-na-orientacje.md;ETAP1_OK
 Odznaka Klubu Zdobywcow Odznak Turystyczno-Krajoznawczych;https://odznaki.org/odznaka/odznaka-klubu-zdobywcow-odznak-turystyczno-krajoznawczych/;C;;zasoby/odznaki/odznaka-klubu-zdobywcow-odznak-turystyczno-krajoznawczych.md;ETAP1_OK
 Odznaka Krajoznawcza Konstytucji 3 Maja;https://odznaki.org/odznaka/odznaka-krajoznawcza-konstytucji-3-maja/;C;;zasoby/odznaki/odznaka-krajoznawcza-konstytucji-3-maja.md;ETAP1_OK
-Odznaka Krajoznawcza Polski;https://odznaki.org/odznaka/odznaka-krajoznawcza-polski/;B;zasoby/odznaki/odznaka-krajoznawcza-polski.csv;zasoby/odznaki/odznaka-krajoznawcza-polski.md;ETAP1_OK
+Odznaka Krajoznawcza Polski;https://odznaki.org/odznaka/odznaka-krajoznawcza-polski/;B;zasoby/odznaki/odznaka-krajoznawcza-polski.csv;zasoby/odznaki/odznaka-krajoznawcza-polski.md;ETAP2_OK
 Odznaka Krajoznawcza im. Prymasa Tysiaclecia;https://odznaki.org/odznaka/odznaka-krajoznawcza-im-prymasa-tysiaclecia/;C;;zasoby/odznaki/odznaka-krajoznawcza-im-prymasa-tysiaclecia.md;ETAP1_OK
 Odznaka Krajoznawcza im. Swietej Barbary;https://odznaki.org/odznaka/odznaka-krajoznawcza-im-swietej-barbary/;C;;zasoby/odznaki/odznaka-krajoznawcza-im-swietej-barbary.md;ETAP1_OK
 Odznaka Narciarska Za wytrwaosc;https://odznaki.org/odznaka/odznaka-narciarska-za-wytrwalosc/;C;;zasoby/odznaki/odznaka-narciarska-za-wytrwalosc.md;ETAP1_OK
 Odznaka Organizatorow Turystycznych Imprez na Orientacje Lampion;https://odznaki.org/odznaka/odznaka-organizatorow-turystycznych-imprez-na-orientacje-lampion/;C;;zasoby/odznaki/odznaka-organizatorow-turystycznych-imprez-na-orientacje-lampion.md;ETAP1_OK
 Odznaka PTTK Geocaching Polska;https://odznaki.org/odznaka/odznaka-pttk-geocaching-polska/;C;;zasoby/odznaki/odznaka-pttk-geocaching-polska.md;ETAP1_OK
 Odznaka Pomorskiej Drogi sw. Jakuba;https://odznaki.org/odznaka/odznaka-pomorskiej-drogi-sw-jakuba/;C;;zasoby/odznaki/odznaka-pomorskiej-drogi-sw-jakuba.md;ETAP1_OK
-Odznaka Przyjaciela Naturalnego Srodowiska;https://odznaki.org/odznaka/odznaka-przyjaciela-naturalnego-srodowiska/;A;zasoby/odznaki/odznaka-przyjaciela-naturalnego-srodowiska.csv;zasoby/odznaki/odznaka-przyjaciela-naturalnego-srodowiska.md;ETAP1_OK
+Odznaka Przyjaciela Naturalnego Srodowiska;https://odznaki.org/odznaka/odznaka-przyjaciela-naturalnego-srodowiska/;A;zasoby/odznaki/odznaka-przyjaciela-naturalnego-srodowiska.csv;zasoby/odznaki/odznaka-przyjaciela-naturalnego-srodowiska.md;ETAP2_OK
 Odznaka Turysty Motorowego;https://odznaki.org/odznaka/odznaka-turysty-motorowego/;C;;zasoby/odznaki/odznaka-turysty-motorowego.md;ETAP1_OK
 Odznaka Turystyczna Disney i PTTK;https://odznaki.org/odznaka/odznaka-turystyczna-disney-i-pttk/;C;;zasoby/odznaki/odznaka-turystyczna-disney-i-pttk.md;ETAP1_OK
 Odznaka Turystyczno-Rekreacyjnych Imprez na Orientacje;https://odznaki.org/odznaka/odznaka-turystyczno-rekreacyjnych-imprez-na-orientacje/;C;;zasoby/odznaki/odznaka-turystyczno-rekreacyjnych-imprez-na-orientacje.md;ETAP1_OK
