@@ -1,0 +1,1 @@
+### PLIK: poznaj-polakow-w-walce-o-wolnosc-1904-1922.md ### Stopnie - Stopnie ### Regulamin - Weryfikacje odznak prowadzi Oddzia Wojskowy PTTK w Chemie. ### Kryteria zaliczania - Minimalna ilosc zwiedzonych nagrobkow, grobowcow, pyt nagrobnych na cmentarzach gdzie zostay pochowane te osoby, na poszczegolne stopnie odznaki wynosi:

@@ -1,0 +1,1 @@
+### PLIK: poznaj-miejsca-mocy-w-polsce.md ### Stopnie - Stopnie ### Regulamin - Kronike Odznaki weryfikuje i przyznaje odznaki: Oddzia Wojskowy PTTK, ul. Lubelska 139D/15, 22 109 CHEM 6 ### Kryteria zaliczania - Odznaka ma na celu zapoznanie sie z tymi miejscami, poznanie obiektow na nich stojacych itp.

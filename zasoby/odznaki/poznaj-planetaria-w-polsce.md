@@ -1,0 +1,1 @@
+### PLIK: poznaj-planetaria-w-polsce.md ### Stopnie - Stopnie ### Regulamin - Weryfikacje odznak prowadzi Oddzia Wojskowy PTTK w Chemie. ### Kryteria zaliczania - Minimalna ilosc zwiedzonych obiektow na poszczegolne stopnie odznaki wynosi:

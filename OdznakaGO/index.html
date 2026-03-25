@@ -9,7 +9,178 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        #map { height: 100vh; }
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+        #app {
+            height: 100vh;
+            display: flex;
+            overflow: hidden;
+        }
+        #content-area {
+            flex: 1;
+            min-width: 0;
+            position: relative;
+        }
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        #badge-view {
+            height: 100%;
+            width: 100%;
+            display: none;
+            background: #fff;
+            overflow: hidden;
+            display: none;
+            flex-direction: column;
+        }
+        #badge-source {
+            flex: 0 0 auto;
+            border-bottom: 1px solid #e5e7eb;
+            background: #f8fafc;
+            padding: 10px 14px;
+        }
+        #badge-content {
+            flex: 1 1 auto;
+            overflow: auto;
+            max-width: 900px;
+            width: 100%;
+            box-sizing: border-box;
+            padding: 20px 24px 48px;
+            color: #24292f;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            line-height: 1.6;
+        }
+        .markdown h1, .markdown h2, .markdown h3, .markdown h4, .markdown h5, .markdown h6 {
+            margin-top: 24px;
+            margin-bottom: 16px;
+            font-weight: 600;
+            line-height: 1.25;
+        }
+        .markdown h1 {
+            font-size: 2em;
+            padding-bottom: .3em;
+            border-bottom: 1px solid #d0d7de;
+        }
+        .markdown h2 {
+            font-size: 1.5em;
+            padding-bottom: .3em;
+            border-bottom: 1px solid #d0d7de;
+        }
+        .markdown h3 { font-size: 1.25em; }
+        .markdown h4 { font-size: 1em; }
+        .markdown h5 { font-size: .875em; }
+        .markdown h6 { font-size: .85em; color: #57606a; }
+        .markdown p, .markdown ul, .markdown ol, .markdown table, .markdown pre, .markdown blockquote {
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+        .markdown ul, .markdown ol {
+            padding-left: 2em;
+        }
+        .markdown li + li {
+            margin-top: .25em;
+        }
+        .markdown a {
+            color: #0969da;
+            text-decoration: none;
+        }
+        .markdown a:hover {
+            text-decoration: underline;
+        }
+        .markdown blockquote {
+            margin-left: 0;
+            padding: 0 1em;
+            color: #57606a;
+            border-left: .25em solid #d0d7de;
+        }
+        .markdown code {
+            padding: .2em .4em;
+            margin: 0;
+            font-size: 85%;
+            background-color: rgba(175,184,193,0.2);
+            border-radius: 6px;
+            font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, "Liberation Mono", monospace;
+        }
+        .markdown pre {
+            padding: 16px;
+            overflow: auto;
+            font-size: 85%;
+            line-height: 1.45;
+            background-color: #f6f8fa;
+            border-radius: 6px;
+        }
+        .markdown pre code {
+            padding: 0;
+            background-color: transparent;
+        }
+        .markdown hr {
+            height: .25em;
+            padding: 0;
+            margin: 24px 0;
+            background-color: #d0d7de;
+            border: 0;
+        }
+        .markdown table {
+            display: block;
+            width: max-content;
+            max-width: 100%;
+            overflow: auto;
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+        .markdown table th, .markdown table td {
+            padding: 6px 13px;
+            border: 1px solid #d0d7de;
+        }
+        .markdown table tr {
+            background-color: #ffffff;
+            border-top: 1px solid #d0d7de;
+        }
+        .markdown table tr:nth-child(2n) {
+            background-color: #f6f8fa;
+        }
+        #controls {
+            width: 50ch;
+            min-width: 50ch;
+            max-width: 50ch;
+            border-left: 1px solid #e5e7eb;
+            background: #f8fafc;
+            padding: 12px;
+            overflow: auto;
+        }
+        .badge-link {
+            display: block;
+            width: 100%;
+            text-align: left;
+            padding: 8px;
+            margin-bottom: 6px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            background: #fff;
+            cursor: pointer;
+        }
+        .badge-link:hover {
+            background: #eff6ff;
+        }
+        .panel-toggle {
+            width: 100%;
+            text-align: left;
+            background: #e2e8f0;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            padding: 8px;
+            margin-top: 12px;
+            margin-bottom: 8px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+        #badge-list {
+            max-height: calc(100vh - 140px);
+            overflow: auto;
+        }
         .leaflet-popup-content-wrapper {
             border-radius: 0.5rem;
         }
@@ -30,9 +201,23 @@
     </style>
 </head>
 <body>
-    <div id="map"></div>
+    <div id="app">
+        <div id="content-area">
+            <div id="map"></div>
+            <div id="badge-view">
+                <div id="badge-source"></div>
+                <div id="badge-content" class="markdown"></div>
+            </div>
+        </div>
+        <aside id="controls">
+            <button id="show-map-btn" class="badge-link" type="button">Widok mapy</button>
+            <button id="badge-list-toggle" class="panel-toggle" type="button">lista odznak</button>
+            <div id="badge-list"></div>
+        </aside>
+    </div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="app.js"></script>
 </body>
 </html>

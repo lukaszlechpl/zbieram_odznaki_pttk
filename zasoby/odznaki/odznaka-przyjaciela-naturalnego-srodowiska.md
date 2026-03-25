@@ -1,0 +1,1 @@
+### PLIK: odznaka-przyjaciela-naturalnego-srodowiska.md ### Stopnie - Stopnie ### Regulamin - Odznake przyznaje sie za wykazanie sie znajomoscia zwiedzanych obiektow okreslonych zasadami punktacji niniejszego Regulaminu. ### Kryteria zaliczania - Odznake przyznaje sie za wykazanie sie znajomoscia zwiedzanych obiektow okreslonych zasadami punktacji niniejszego Regulaminu.

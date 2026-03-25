@@ -1,0 +1,1 @@
+### PLIK: poznaj-parki-krajobrazowe-w-polsce.md ### Stopnie - Poznaj parki krajobrazowe w Polsce | Odznaki.org ### Regulamin - Odznake moze zdobywac osoba ktora ukonczya 7lat i spenia warunki regulaminowe n/w odznaki. ### Kryteria zaliczania - Parki Krajobrazowe zwiedzone ponad norme, ustalona dla danego stopnia odznaki, beda zaliczane na poczet odznaki wyzszego stopnia.

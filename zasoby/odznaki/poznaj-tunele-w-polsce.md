@@ -1,0 +1,1 @@
+### PLIK: poznaj-tunele-w-polsce.md ### Stopnie - Stopnie ### Regulamin - Weryfikacje odznak prowadzi Oddzia Wojskowy PTTK w Chemie. ### Kryteria zaliczania - Minimalna ilosc zwiedzonych obiektow fortyfikacyjnych, na poszczegolne stopnie odznaki wynosi:

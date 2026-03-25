@@ -1,0 +1,1 @@
+### PLIK: parki-narodowe-przyszlosci.md ### Stopnie - Towarzystwo Krajoznawcze "Krajobraz" ### Regulamin - Regulaminy oraz grafiki odznak sa wasnoscia ich autorow. ### Kryteria zaliczania - W te wakacje odwiedz minimum dwa sposrod az 25 czekajacych na powoanie parkow narodowych.
