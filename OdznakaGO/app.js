@@ -24,7 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // Przetwarzanie tylko odznak z kategorii A i B, które mają zdefiniowany plik CSV
                 if ((category === 'A' || category === 'B') && csvFile) {
-                    const csvResponse = await fetch(`zasoby/odznaki/${csvFile}`);
+                    const csvPath = resolveCsvPath(csvFile);
+                    const csvResponse = await fetch(csvPath);
                     if (!csvResponse.ok) continue; // Pomiń, jeśli plik nie istnieje
                     const csvText = await csvResponse.text();
                      // Pomijamy nagłówek (pierwsza linia)
@@ -55,6 +56,17 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch (error) {
             console.error("Błąd podczas ładowania danych odznak:", error);
         }
+    }
+
+    // Obsługa obu wariantów z indeks.csv:
+    // - sama nazwa pliku, np. "plik.csv"
+    // - pełna ścieżka, np. "zasoby/odznaki/plik.csv"
+    function resolveCsvPath(csvFile) {
+        const normalized = String(csvFile).trim().replace(/\\/g, '/');
+        if (normalized.startsWith('zasoby/')) {
+            return normalized;
+        }
+        return `zasoby/odznaki/${normalized}`;
     }
 
     // 4. Renderowanie Markerów na mapie
