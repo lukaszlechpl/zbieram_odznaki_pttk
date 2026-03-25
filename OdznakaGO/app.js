@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     const MAX_VISIBLE_POINTS = 100;
-    const GEOCODE_MAX_REQUESTS = 10;
-    const GEOCODE_WINDOW_MS = 5 * 60 * 1000;
     const map = L.map('map').setView([52.237, 19.145], 6);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -10,8 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const displayLayer = L.layerGroup().addTo(map);
     const pointsByCoord = new Map();
-    const geocodeCache = loadGeocodeCache();
-    const geocodeRequestTimestamps = [];
+    const missingCoordsLoggedCsvFiles = new Set();
     const badgeEntries = [];
 
     const mapContainer = document.getElementById('map');
@@ -52,11 +49,14 @@ document.addEventListener('DOMContentLoaded', () => {
                         const [name, , , address, coordsRaw] = point;
                         if (!name && !address) continue;
 
-                        let coords = parseCoordinates(coordsRaw);
-                        if (!coords && canRunGeocodeFallback()) {
-                            coords = await geocodePoint(name, address);
+                        const coords = parseCoordinates(coordsRaw);
+                        if (!coords) {
+                            if (!missingCoordsLoggedCsvFiles.has(csvPath)) {
+                                missingCoordsLoggedCsvFiles.add(csvPath);
+                                console.info(`Plik CSV wymaga uzupelnienia wspolrzednych: ${csvPath}`);
+                            }
+                            continue;
                         }
-                        if (!coords) continue;
 
                         const coordKey = `${coords[0].toFixed(5)},${coords[1].toFixed(5)}`;
                         if (!pointsByCoord.has(coordKey)) {
@@ -183,45 +183,6 @@ document.addEventListener('DOMContentLoaded', () => {
         return [lat, lon];
     }
 
-    async function geocodePoint(name, address) {
-        const query = [name, address, 'Polska'].filter(Boolean).join(', ');
-        const cacheKey = query.toLowerCase();
-        if (geocodeCache[cacheKey]) return geocodeCache[cacheKey];
-
-        try {
-            markGeocodeFallbackCall();
-            const url = `https://nominatim.openstreetmap.org/search?format=json&limit=1&q=${encodeURIComponent(query)}`;
-            const response = await fetch(url, {
-                headers: { 'Accept': 'application/json' }
-            });
-            if (!response.ok) return null;
-            const result = await response.json();
-            if (!Array.isArray(result) || result.length === 0) return null;
-            const lat = Number(result[0].lat);
-            const lon = Number(result[0].lon);
-            if (Number.isNaN(lat) || Number.isNaN(lon)) return null;
-            const coords = [lat, lon];
-            geocodeCache[cacheKey] = coords;
-            saveGeocodeCache(geocodeCache);
-            return coords;
-        } catch {
-            return null;
-        }
-    }
-
-    function canRunGeocodeFallback() {
-        const now = Date.now();
-        while (geocodeRequestTimestamps.length > 0 && now - geocodeRequestTimestamps[0] > GEOCODE_WINDOW_MS) {
-            geocodeRequestTimestamps.shift();
-        }
-        return geocodeRequestTimestamps.length < GEOCODE_MAX_REQUESTS;
-    }
-
-    function markGeocodeFallbackCall() {
-        const now = Date.now();
-        geocodeRequestTimestamps.push(now);
-    }
-
     function renderPoints(points) {
         displayLayer.clearLayers();
         if (!points.length) return;
@@ -324,22 +285,6 @@ document.addEventListener('DOMContentLoaded', () => {
             columns.push(current);
             return columns.map((value) => value.trim());
         });
-    }
-
-    function loadGeocodeCache() {
-        try {
-            return JSON.parse(localStorage.getItem('odznakago-geocode-cache') || '{}');
-        } catch {
-            return {};
-        }
-    }
-
-    function saveGeocodeCache(cache) {
-        try {
-            localStorage.setItem('odznakago-geocode-cache', JSON.stringify(cache));
-        } catch {
-            // Ignore cache save errors (quota/private mode)
-        }
     }
 
     function escapeHtml(value) {
