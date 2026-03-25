@@ -1,78 +1,78 @@
-nazwa_obiektu;wojewodztwo;kategoria_obiektu;adres;wspolrzedne;wikipedia_opis;google_maps_link;stopien_odznaki
-10;Goab;Puawy;puawski;;;DO_UZUPELNIENIA;lubelskie
-11;Gorzno;Garwolin;garwolinski;;;DO_UZUPELNIENIA;mazowieckie
-12;Grodek;Hrubieszow;hrubieszowski;;;DO_UZUPELNIENIA;lubelskie
-13;Hrebenne;Lubycza Krolewska;tomaszowski;;;DO_UZUPELNIENIA;lubelskie
-14;Huszlew;Huszlew;osicki;;;DO_UZUPELNIENIA;mazowieckie
-15;Jabeczna;Sawatycze;bialski;;;DO_UZUPELNIENIA;lubelskie
-16;Janowiec;Janowiec;puawski;;;DO_UZUPELNIENIA;lubelskie
-17;Kazimierz Dolny;Kazimierz Dolny;puawski;;;DO_UZUPELNIENIA;lubelskie
-18;Kazimierz Dolny;Kazimierz Dolny;puawski;;;DO_UZUPELNIENIA;lubelskie
-19;Kazimierz Dolny;Kazimierz Dolny;puawski;;;DO_UZUPELNIENIA;lubelskie
-20;Kazimierz Dolny;Kazimierz Dolny;puawski;;;DO_UZUPELNIENIA;lubelskie
-21;Kazimierz Dolny;Kazimierz Dolny;puawski;;;DO_UZUPELNIENIA;lubelskie
-22;Kazimierz Dolny;Kazimierz Dolny;puawski;;;DO_UZUPELNIENIA;lubelskie
-23;Kock;Kock;lubartowski;;;DO_UZUPELNIENIA;lubelskie
-24;Koden;Koden;bialski;;;DO_UZUPELNIENIA;lubelskie
-25;Korczew;Korczew;siedlecki;;;DO_UZUPELNIENIA;mazowieckie
-26;Kostomoty;Koden;bielski;;;DO_UZUPELNIENIA;lubelskie
-27;Kozowka;Kamionka;lubartowski;;;DO_UZUPELNIENIA;lubelskie
-28;Krasnobrod;Krasnobrod;zamojski;;;DO_UZUPELNIENIA;lubelskie
-29;Krasnobrod;Krasnobrod;zamojski;;;DO_UZUPELNIENIA;lubelskie
-30;Krupe;Krasnystaw;krasnostawski;;;DO_UZUPELNIENIA;lubelskie
-31;Kryow;Mircze;hrubieszowski;;;DO_UZUPELNIENIA;lubelskie
-32;Lesna Podlaska;Lesna Podlaska;bialski;;;DO_UZUPELNIENIA;lubelskie
-33;Liw;Liw;wegrowski;;;DO_UZUPELNIENIA;mazowieckie
-34;Lubartow;Lubartow;lubartowski;;;DO_UZUPELNIENIA;lubelskie
-35;Krynica;Krasnystaw;krasnostawski;;;DO_UZUPELNIENIA;lubelskie
-36;Lublin;Lublin;Lublin;;;DO_UZUPELNIENIA;lubelskie
-37;Lublin;Lublin;Lublin;;;DO_UZUPELNIENIA;lubelskie
-38;Lublin;Lublin;Lublin;;;DO_UZUPELNIENIA;lubelskie
-39;Lublin;Lublin;Lublin;;;DO_UZUPELNIENIA;lubelskie
-40;Lublin;Lublin;Lublin;;;DO_UZUPELNIENIA;lubelskie
-41;Lublin;Lublin;Lublin;;;DO_UZUPELNIENIA;lubelskie
-42;Lublin;Lublin;Lublin;;;DO_UZUPELNIENIA;lubelskie
-43;azek Ordynacki;Janow Lubelski;janowski;;;DO_UZUPELNIENIA;lubelskie
-44;eczna;eczna;eczynski;;;DO_UZUPELNIENIA;lubelski
-45;Modliborzyce;Modliborzyce;janowski;;;DO_UZUPELNIENIA;lubelskie
-46;Naeczow;Naeczow;puawski;;;DO_UZUPELNIENIA;lubelskie
-47;Naeczow;Naeczow;puawski;;;DO_UZUPELNIENIA;lubelskie
-48;Neple;Terespol;bialski;;;DO_UZUPELNIENIA;lubelskie
-49;Niezdow;Opole Lubelskie;opolski;;;DO_UZUPELNIENIA;lubelskie
-50;Ortel Krolewski;Piszczac;bialski;;;DO_UZUPELNIENIA;lubelskie
-51;Piotrawin;aziska;opolski;;;DO_UZUPELNIENIA;lubelskie
-52;Podzamcze Bychawskie;Bychawa;lubelski;;;DO_UZUPELNIENIA;lubelskie
-53;Puawy;Puawy;puawski;;;DO_UZUPELNIENIA;lubelskie
-54;Radzyn Podlaski;Radzyn Podlaski;radzynski;;;DO_UZUPELNIENIA;lubelskie
-55;Rejowiec;Rejowiec;chemski;;;DO_UZUPELNIENIA;lubelskie
-56;Rozwadow;Ulan-Majorat;radzynski;;;DO_UZUPELNIENIA;lubelskie
-57;Sandomierz;Sandomierz;sandomierski;;;DO_UZUPELNIENIA;swietokrzyskie
-58;Sandomierz;Sandomierz;sandomierski;;;DO_UZUPELNIENIA;swietokrzyskie
-59;Sandomierz;Sandomierz;sandomierski;;;DO_UZUPELNIENIA;swietokrzyskie
-60;Sandomierz;Sandomierz;sandomierski;;;DO_UZUPELNIENIA;swietokrzyskie
-61;Sandomierz;Sandomierz;sandomierski;;;DO_UZUPELNIENIA;swietokrzyskie
-62;Siedlce;Siedlce;siedlecki;;;DO_UZUPELNIENIA;mazowieckie
-63;Siedlce;Siedlce;siedlecki;;;DO_UZUPELNIENIA;mazowieckie
-64;Siedlce;Siedlce;siedlecki;;;DO_UZUPELNIENIA;mazowieckie
-65;Starawies;Liw;wegrowski;;;DO_UZUPELNIENIA;mazowieckie
-66;Sterdyn;Sterdyn;sokoowski;;;DO_UZUPELNIENIA;mazowieckie
-67;Stopie;Chem;chemski;;;DO_UZUPELNIENIA;lubelskie
-68;Studzianki;Wasilkow;biaostocki;;;DO_UZUPELNIENIA;podlaskie
-69;Szczebrzeszyn;Szczebrzeszyn;zamojski;;;DO_UZUPELNIENIA;lubelskie
-70;Szczebrzeszyn;Szczebrzeszyn;zamojski;;;DO_UZUPELNIENIA;lubelskie
-71;Tarnobrzeg;Tarnobrzeg;tarnobrzeski;;;DO_UZUPELNIENIA;podkarpackie
-72;Tarnobrzeg - Dzikow;Tarnobrzeg;tarnobrzeski;;;DO_UZUPELNIENIA;podkarpackie
-73;Tomaszow Lubelski;Tomaszow Lubelski;tomaszowski;;;DO_UZUPELNIENIA;lubelskie
-74;Uchanie;Uchanie;hrubieszowski;;;DO_UZUPELNIENIA;lubelskie
-75;Wegrow;Wegrow;wegrowski;;;DO_UZUPELNIENIA;mazowieckie
-76;Wegrow;Wegrow;wegrowski;;;DO_UZUPELNIENIA;mazowieckie
-77;Wegrow;Wegrow;wegrowski;;;DO_UZUPELNIENIA;mazowieckie
-78;Wodawa;Wodawa;wodawski;;;DO_UZUPELNIENIA;lubelskie
-79;Zaklikow;Zaklikow;stalowowolski;;;DO_UZUPELNIENIA;podkarpackie
-80;Zamosc;Zamosc;zamojski;;;DO_UZUPELNIENIA;lubelskie
-81;Zamosc;Zamosc;zamojski;;;DO_UZUPELNIENIA;lubelskie
-82;Zamosc;Zamosc;zamojski;;;DO_UZUPELNIENIA;lubelskie
-83;Zamosc;Zamosc;zamojski;;;DO_UZUPELNIENIA;lubelskie
-84;Zamosc;Zamosc;zamojski;;;DO_UZUPELNIENIA;lubelskie
-85;Zawichost;Zawichost;sandomierski;;;DO_UZUPELNIENIA;swietokrzyskie
-86;Zwierzyniec;Zwierzyniec;zamojski;;;DO_UZUPELNIENIA;lubelskie
+﻿nazwa_obiektu;wojewodztwo;kategoria_obiektu;adres;wspolrzedne;wikipedia_opis;google_maps_link;stopien_odznaki
+10;Goab;Puawy;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/10%20puawski%20Polska;lubelskie
+11;Gorzno;Garwolin;garwolinski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/11%20garwolinski%20Polska;mazowieckie
+12;Grodek;Hrubieszow;hrubieszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/12%20hrubieszowski%20Polska;lubelskie
+13;Hrebenne;Lubycza Krolewska;tomaszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/13%20tomaszowski%20Polska;lubelskie
+14;Huszlew;Huszlew;osicki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/14%20osicki%20Polska;mazowieckie
+15;Jabeczna;Sawatycze;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/15%20bialski%20Polska;lubelskie
+16;Janowiec;Janowiec;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/16%20puawski%20Polska;lubelskie
+17;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/17%20puawski%20Polska;lubelskie
+18;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/18%20puawski%20Polska;lubelskie
+19;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/19%20puawski%20Polska;lubelskie
+20;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/20%20puawski%20Polska;lubelskie
+21;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/21%20puawski%20Polska;lubelskie
+22;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/22%20puawski%20Polska;lubelskie
+23;Kock;Kock;lubartowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/23%20lubartowski%20Polska;lubelskie
+24;Koden;Koden;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/24%20bialski%20Polska;lubelskie
+25;Korczew;Korczew;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/25%20siedlecki%20Polska;mazowieckie
+26;Kostomoty;Koden;bielski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/26%20bielski%20Polska;lubelskie
+27;Kozowka;Kamionka;lubartowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/27%20lubartowski%20Polska;lubelskie
+28;Krasnobrod;Krasnobrod;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/28%20zamojski%20Polska;lubelskie
+29;Krasnobrod;Krasnobrod;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/29%20zamojski%20Polska;lubelskie
+30;Krupe;Krasnystaw;krasnostawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/30%20krasnostawski%20Polska;lubelskie
+31;Kryow;Mircze;hrubieszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/31%20hrubieszowski%20Polska;lubelskie
+32;Lesna Podlaska;Lesna Podlaska;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/32%20bialski%20Polska;lubelskie
+33;Liw;Liw;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/33%20wegrowski%20Polska;mazowieckie
+34;Lubartow;Lubartow;lubartowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/34%20lubartowski%20Polska;lubelskie
+35;Krynica;Krasnystaw;krasnostawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/35%20krasnostawski%20Polska;lubelskie
+36;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/36%20Lublin%20Polska;lubelskie
+37;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/37%20Lublin%20Polska;lubelskie
+38;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/38%20Lublin%20Polska;lubelskie
+39;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/39%20Lublin%20Polska;lubelskie
+40;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/40%20Lublin%20Polska;lubelskie
+41;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/41%20Lublin%20Polska;lubelskie
+42;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/42%20Lublin%20Polska;lubelskie
+43;azek Ordynacki;Janow Lubelski;janowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/43%20janowski%20Polska;lubelskie
+44;eczna;eczna;eczynski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/44%20eczynski%20Polska;lubelski
+45;Modliborzyce;Modliborzyce;janowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/45%20janowski%20Polska;lubelskie
+46;Naeczow;Naeczow;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/46%20puawski%20Polska;lubelskie
+47;Naeczow;Naeczow;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/47%20puawski%20Polska;lubelskie
+48;Neple;Terespol;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/48%20bialski%20Polska;lubelskie
+49;Niezdow;Opole Lubelskie;opolski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/49%20opolski%20Polska;lubelskie
+50;Ortel Krolewski;Piszczac;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/50%20bialski%20Polska;lubelskie
+51;Piotrawin;aziska;opolski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/51%20opolski%20Polska;lubelskie
+52;Podzamcze Bychawskie;Bychawa;lubelski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/52%20lubelski%20Polska;lubelskie
+53;Puawy;Puawy;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/53%20puawski%20Polska;lubelskie
+54;Radzyn Podlaski;Radzyn Podlaski;radzynski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/54%20radzynski%20Polska;lubelskie
+55;Rejowiec;Rejowiec;chemski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/55%20chemski%20Polska;lubelskie
+56;Rozwadow;Ulan-Majorat;radzynski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/56%20radzynski%20Polska;lubelskie
+57;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/57%20sandomierski%20Polska;swietokrzyskie
+58;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/58%20sandomierski%20Polska;swietokrzyskie
+59;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/59%20sandomierski%20Polska;swietokrzyskie
+60;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/60%20sandomierski%20Polska;swietokrzyskie
+61;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/61%20sandomierski%20Polska;swietokrzyskie
+62;Siedlce;Siedlce;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/62%20siedlecki%20Polska;mazowieckie
+63;Siedlce;Siedlce;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/63%20siedlecki%20Polska;mazowieckie
+64;Siedlce;Siedlce;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/64%20siedlecki%20Polska;mazowieckie
+65;Starawies;Liw;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/65%20wegrowski%20Polska;mazowieckie
+66;Sterdyn;Sterdyn;sokoowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/66%20sokoowski%20Polska;mazowieckie
+67;Stopie;Chem;chemski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/67%20chemski%20Polska;lubelskie
+68;Studzianki;Wasilkow;biaostocki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/68%20biaostocki%20Polska;podlaskie
+69;Szczebrzeszyn;Szczebrzeszyn;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/69%20zamojski%20Polska;lubelskie
+70;Szczebrzeszyn;Szczebrzeszyn;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/70%20zamojski%20Polska;lubelskie
+71;Tarnobrzeg;Tarnobrzeg;tarnobrzeski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/71%20tarnobrzeski%20Polska;podkarpackie
+72;Tarnobrzeg - Dzikow;Tarnobrzeg;tarnobrzeski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/72%20tarnobrzeski%20Polska;podkarpackie
+73;Tomaszow Lubelski;Tomaszow Lubelski;tomaszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/73%20tomaszowski%20Polska;lubelskie
+74;Uchanie;Uchanie;hrubieszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/74%20hrubieszowski%20Polska;lubelskie
+75;Wegrow;Wegrow;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/75%20wegrowski%20Polska;mazowieckie
+76;Wegrow;Wegrow;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/76%20wegrowski%20Polska;mazowieckie
+77;Wegrow;Wegrow;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/77%20wegrowski%20Polska;mazowieckie
+78;Wodawa;Wodawa;wodawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/78%20wodawski%20Polska;lubelskie
+79;Zaklikow;Zaklikow;stalowowolski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/79%20stalowowolski%20Polska;podkarpackie
+80;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/80%20zamojski%20Polska;lubelskie
+81;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/81%20zamojski%20Polska;lubelskie
+82;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/82%20zamojski%20Polska;lubelskie
+83;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/83%20zamojski%20Polska;lubelskie
+84;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/84%20zamojski%20Polska;lubelskie
+85;Zawichost;Zawichost;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/85%20sandomierski%20Polska;swietokrzyskie
+86;Zwierzyniec;Zwierzyniec;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/86%20zamojski%20Polska;lubelskie

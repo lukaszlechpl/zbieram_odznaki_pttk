@@ -1,6 +1,6 @@
-nazwa_obiektu;wojewodztwo;kategoria_obiektu;adres;wspolrzedne;wikipedia_opis;google_maps_link;stopien_odznaki
-Miejscowosci;Obiekty;Punkty;;;;DO_UZUPELNIENIA;RAW
-Popularny;3;15;50;;;DO_UZUPELNIENIA;RAW
-Brazowy;5;25;100;;;DO_UZUPELNIENIA;RAW
-Srebrny;8;40;150;;;DO_UZUPELNIENIA;RAW
-Zoty;10;50;200;;;DO_UZUPELNIENIA;RAW
+﻿nazwa_obiektu;wojewodztwo;kategoria_obiektu;adres;wspolrzedne;wikipedia_opis;google_maps_link;stopien_odznaki
+Miejscowosci;Obiekty;Punkty;;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/Miejscowosci%20%20Polska;RAW
+Popularny;3;15;50;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/Popularny%2050%20Polska;RAW
+Brazowy;5;25;100;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/Brazowy%20100%20Polska;RAW
+Srebrny;8;40;150;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/Srebrny%20150%20Polska;RAW
+Zoty;10;50;200;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/Zoty%20200%20Polska;RAW
