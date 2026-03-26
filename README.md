@@ -46,13 +46,13 @@ Po deploy:
 
 1. Instalacja zależności:
    - `npm ci`
-2. Ustaw token GitHub (PAT) z prawem do zapisu na repozytorium:
+2. Uruchom przygotowanie katalogu hostingu:
+   - `npm run prepare:hosting`
+3. Zdeployuj ręcznie, przekazując token w URL (żeby `git` nie pytał o `Username`):
    - PowerShell:
-     - `$env:GH_TOKEN="TWOJ_TOKEN"; npm run deploy:gh-pages`
+     - `$token="TWOJ_TOKEN"; $repo="OWNER/REPO"; npx gh-pages -d .deploy -r "https://x-access-token:$token@github.com/$repo.git"`
    - CMD:
-     - `set GH_TOKEN=TWOJ_TOKEN && npm run deploy:gh-pages`
-3. Uruchom deploy:
-   - `npm run deploy:gh-pages`
+     - `set token=TWOJ_TOKEN && set repo=OWNER/REPO && npx gh-pages -d .deploy -r "https://x-access-token:%token%@github.com/%repo%.git"`
 
 Po deploy:
 - `https://<username>.github.io/<repo>/OdznakaGO/`

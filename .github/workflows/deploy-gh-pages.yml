@@ -35,5 +35,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run deploy:gh-pages
+        run: |
+          npm run prepare:hosting
+          npx gh-pages -d .deploy -r "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
 
