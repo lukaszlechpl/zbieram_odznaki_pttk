@@ -1,12 +1,12 @@
 nazwa;url;kategoria;plik_csv;plik_md;status_przetwarzania
 100 lat InO w Polsce;https://odznaki.org/odznaka/100-lat-ino-w-polsce/;C;;zasoby/odznaki/100-lat-ino-w-polsce.md;ETAP1_OK
 100 rzek;https://odznaki.org/odznaka/100-rzek/;B;;zasoby/odznaki/100-rzek.md;ETAP1_OK
-100-lecie Odzyskania Niepodległości;https://odznaki.org/odznaka/100-lecie-odzyskania-niepodleglosci/;A;zasoby/odznaki/100-lecie-odzyskania-niepodleglosci.csv;zasoby/odznaki/100-lecie-odzyskania-niepodleglosci.md;ETAP1_OK
+100-lecie Odzyskania Niepodległości;https://odznaki.org/odznaka/100-lecie-odzyskania-niepodleglosci/;A;zasoby/odznaki/100-lecie-odzyskania-niepodleglosci.csv;zasoby/odznaki/100-lecie-odzyskania-niepodleglosci.md;ETAP2_OK
 100. Rocznica Odzyskania Niepodległości;https://odznaki.org/odznaka/100-rocznica-odzyskania-niepodleglosci/;C;;zasoby/odznaki/100-rocznica-odzyskania-niepodleglosci.md;ETAP1_OK
 1000. rocznica Koronacji Pierwszych Królów Polski w Gnieźnie;https://odznaki.org/odznaka/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie/;B;zasoby/odznaki/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie.csv;zasoby/odznaki/1000-rocznica-koronacji-pierwszych-krolow-polski-w-gnieznie.md;ETAP2_OK
 120 lat Polskiego Towarzystwa Krajoznawczego;https://odznaki.org/odznaka/120-lat-polskiego-towarzystwa-krajoznawczego/;C;;zasoby/odznaki/120-lat-polskiego-towarzystwa-krajoznawczego.md;ETAP1_OK
 150 rocznica Powstania Styczniowego;https://odznaki.org/odznaka/150-rocznica-powstania-styczniowego/;C;;zasoby/odznaki/150-rocznica-powstania-styczniowego.md;ETAP1_OK
-1794 - Szlak Pamięci Insurekcji Kościuszkowskiej;https://odznaki.org/odznaka/1794-szlak-pamieci-insurekcji-kosciuszkowskiej/;B;zasoby/odznaki/1794-szlak-pamieci-insurekcji-kosciuszkowskiej.csv;zasoby/odznaki/1794-szlak-pamieci-insurekcji-kosciuszkowskiej.md;ETAP1_OK
+1794 - Szlak Pamięci Insurekcji Kościuszkowskiej;https://odznaki.org/odznaka/1794-szlak-pamieci-insurekcji-kosciuszkowskiej/;B;zasoby/odznaki/1794-szlak-pamieci-insurekcji-kosciuszkowskiej.csv;zasoby/odznaki/1794-szlak-pamieci-insurekcji-kosciuszkowskiej.md;ETAP2_OK
 20 lat KInO SKRÓTY;https://odznaki.org/odznaka/20-lat-kino-skroty/;C;;zasoby/odznaki/20-lat-kino-skroty.md;ETAP1_OK
 20 lat KTK Beneqteam;https://odznaki.org/odznaka/20-lat-ktk-beneqteam/;C;;zasoby/odznaki/20-lat-ktk-beneqteam.md;ETAP1_OK
 35 lat KInO SKRÓTY;https://odznaki.org/odznaka/35-lat-kino-skroty/;C;;zasoby/odznaki/35-lat-kino-skroty.md;ETAP1_OK
@@ -28,78 +28,78 @@ nazwa;url;kategoria;plik_csv;plik_md;status_przetwarzania
 70 lat poznajemy Polskę z PTTK;https://odznaki.org/odznaka/70-lat-poznajemy-polske-z-pttk/;C;;zasoby/odznaki/70-lat-poznajemy-polske-z-pttk.md;ETAP1_OK
 75 lat z PTTK;https://odznaki.org/odznaka/75-lat-z-pttk/;C;;zasoby/odznaki/75-lat-z-pttk.md;ETAP1_OK
 80-lecie zakończenia II Wojny Światowej 1945-2025;https://odznaki.org/odznaka/80-lecie-zakonczenia-ii-wojny-swiatowej-1945-2025/;C;;zasoby/odznaki/80-lecie-zakonczenia-ii-wojny-swiatowej-1945-2025.md;ETAP1_OK
-966 - Narodziny Państwa Polskiego;https://odznaki.org/odznaka/966-narodziny-panstwa-polskiego/;D;;zasoby/odznaki/966-narodziny-panstwa-polskiego.md;ETAP1_OK
+966 - Narodziny Państwa Polskiego;https://odznaki.org/odznaka/966-narodziny-panstwa-polskiego/;D;zasoby/odznaki/966-narodziny-panstwa-polskiego.csv;zasoby/odznaki/966-narodziny-panstwa-polskiego.md;ETAP2_OK
 Bacówki Edwarda Moskały;https://odznaki.org/odznaka/bacowki-edwarda-moskaly/;A;zasoby/odznaki/bacowki-edwarda-moskaly.csv;zasoby/odznaki/bacowki-edwarda-moskaly.md;ETAP2_OK
 Bazowa Odznaka Turystyczna;https://odznaki.org/odznaka/bazowa-odznaka-turystyczna/;B;;zasoby/odznaki/bazowa-odznaka-turystyczna.md;ETAP1_OK
 Chwała Polskich Skrzydeł;https://odznaki.org/odznaka/chwala-polskich-skrzydel/;C;;zasoby/odznaki/chwala-polskich-skrzydel.md;ETAP1_OK
 Cichociemni – Spadochroniarze Armii Krajowej;https://odznaki.org/odznaka/cichociemni-spadochroniarze-armii-krajowej/;C;;zasoby/odznaki/cichociemni-spadochroniarze-armii-krajowej.md;ETAP1_OK
-Ciekawe miejsca w Polsce;https://odznaki.org/odznaka/ciekawe-miejsca-w-polsce/;D;;zasoby/odznaki/ciekawe-miejsca-w-polsce.md;ETAP1_OK
-Diadem Polskich Gór;https://odznaki.org/odznaka/diadem-polskich-gor/;B;;zasoby/odznaki/diadem-polskich-gor.md;ETAP1_OK
+Ciekawe miejsca w Polsce;https://odznaki.org/odznaka/ciekawe-miejsca-w-polsce/;D;zasoby/odznaki/ciekawe-miejsca-w-polsce.csv;zasoby/odznaki/ciekawe-miejsca-w-polsce.md;ETAP2_OK
+Diadem Polskich Gór;https://odznaki.org/odznaka/diadem-polskich-gor/;B;zasoby/odznaki/diadem-polskich-gor.csv;zasoby/odznaki/diadem-polskich-gor.md;ETAP2_OK
 Drogami Świętego Jakuba;https://odznaki.org/odznaka/drogami-swietego-jakuba/;C;;zasoby/odznaki/drogami-swietego-jakuba.md;ETAP1_OK
 Duża Korona Najwybitniejszych Szczytów Gór Polskich;https://odznaki.org/odznaka/duza-korona-najwybitniejszych-szczytow-gor-polskich/;C;;zasoby/odznaki/duza-korona-najwybitniejszych-szczytow-gor-polskich.md;ETAP1_OK
 Dwunastu Apostołów;https://odznaki.org/odznaka/dwunastu-apostolow/;C;;zasoby/odznaki/dwunastu-apostolow.md;ETAP1_OK
 Dziecięca Odznaka Kajakowa Kiełbik;https://odznaki.org/odznaka/dziecieca-odznaka-kajakowa-kielbik/;C;;zasoby/odznaki/dziecieca-odznaka-kajakowa-kielbik.md;ETAP1_OK
 Dziecięca Odznaka Narciarska;https://odznaki.org/odznaka/dziecieca-odznaka-narciarska/;C;;zasoby/odznaki/dziecieca-odznaka-narciarska.md;ETAP1_OK
 Dziecięca Odznaka Turystyczna;https://odznaki.org/odznaka/dziecieca-odznaka-turystyczna/;C;;zasoby/odznaki/dziecieca-odznaka-turystyczna.md;ETAP1_OK
-Dziecięca Odznaka Żeglarska "Optymistek";https://odznaki.org/odznaka/dziecieca-odznaka-zeglarska-optymistek/;C;;zasoby/odznaki/dziecieca-odznaka-zeglarska-optymistek.md;ETAP1_OK
+"Dziecięca Odznaka Żeglarska ""Optymistek""";https://odznaki.org/odznaka/dziecieca-odznaka-zeglarska-optymistek/;C;;zasoby/odznaki/dziecieca-odznaka-zeglarska-optymistek.md;ETAP1_OK
 Flisak Wisla;https://odznaki.org/odznaka/flisak-wisla/;C;;zasoby/odznaki/flisak-wisla.md;ETAP1_OK
 Gorska Odznaka Abstynencka;https://odznaki.org/odznaka/gorska-odznaka-abstynencka/;C;;zasoby/odznaki/gorska-odznaka-abstynencka.md;ETAP1_OK
-Gorska Odznaka Kajakowa;https://odznaki.org/odznaka/gorska-odznaka-kajakowa/;C;;zasoby/odznaki/gorska-odznaka-kajakowa.md;ETAP1_OK
+Gorska Odznaka Kajakowa;https://odznaki.org/odznaka/gorska-odznaka-kajakowa/;C;zasoby/odznaki/gorska-odznaka-kajakowa.csv;zasoby/odznaki/gorska-odznaka-kajakowa.md;ETAP2_OK
 Gorska Odznaka Narciarska;https://odznaki.org/odznaka/gorska-odznaka-narciarska/;C;;zasoby/odznaki/gorska-odznaka-narciarska.md;ETAP1_OK
 Gorska Odznaka Rowerowa;https://odznaki.org/odznaka/gorska-odznaka-rowerowa/;C;;zasoby/odznaki/gorska-odznaka-rowerowa.md;ETAP1_OK
 Gorska Odznaka Turystyczna PTT;https://odznaki.org/odznaka/gorska-odznaka-turystyczna-ptt/;C;;zasoby/odznaki/gorska-odznaka-turystyczna-ptt.md;ETAP1_OK
 Glowne Szlaki Gorskie Polski;https://odznaki.org/odznaka/glowne-szlaki-gorskie-polski/;C;;zasoby/odznaki/glowne-szlaki-gorskie-polski.md;ETAP1_OK
 Jubileuszowa Odznaka 60-lecia PTTK;https://odznaki.org/odznaka/jubileuszowa-odznaka-60-lecia-pttk/;D;;zasoby/odznaki/jubileuszowa-odznaka-60-lecia-pttk.md;ETAP1_OK
-Kamienice RP;https://odznaki.org/odznaka/kamienice-rp/;C;;zasoby/odznaki/kamienice-rp.md;ETAP1_OK
-Karpackie tysieczniki;https://odznaki.org/odznaka/karpackie-tysieczniki/;C;;zasoby/odznaki/karpackie-tysieczniki.md;ETAP1_OK
+Kamienice RP;https://odznaki.org/odznaka/kamienice-rp/;C;zasoby/odznaki/kamienice-rp.csv;zasoby/odznaki/kamienice-rp.md;ETAP2_OK
+Karpackie tysieczniki;https://odznaki.org/odznaka/karpackie-tysieczniki/;C;zasoby/odznaki/karpackie-tysieczniki.csv;zasoby/odznaki/karpackie-tysieczniki.md;ETAP2_OK
 Kazdemu Jego Everest 8848;https://odznaki.org/odznaka/kazdemu-jego-everest-8848/;C;;zasoby/odznaki/kazdemu-jego-everest-8848.md;ETAP1_OK
-Kolarska Odznaka Pielgrzymia;https://odznaki.org/odznaka/kolarska-odznaka-pielgrzymia/;C;;zasoby/odznaki/kolarska-odznaka-pielgrzymia.md;ETAP1_OK
-Kolarska Odznaka Turystyczna;https://odznaki.org/odznaka/kolarska-odznaka-turystyczna/;C;;zasoby/odznaki/kolarska-odznaka-turystyczna.md;ETAP1_OK
-Kolejowa Odznaka Turystyczna;https://odznaki.org/odznaka/kolejowa-odznaka-turystyczna/;C;;zasoby/odznaki/kolejowa-odznaka-turystyczna.md;ETAP1_OK
+Kolarska Odznaka Pielgrzymia;https://odznaki.org/odznaka/kolarska-odznaka-pielgrzymia/;C;zasoby/odznaki/kolarska-odznaka-pielgrzymia.csv;zasoby/odznaki/kolarska-odznaka-pielgrzymia.md;ETAP2_OK
+Kolarska Odznaka Turystyczna;https://odznaki.org/odznaka/kolarska-odznaka-turystyczna/;C;zasoby/odznaki/kolarska-odznaka-turystyczna.csv;zasoby/odznaki/kolarska-odznaka-turystyczna.md;ETAP2_OK
+Kolejowa Odznaka Turystyczna;https://odznaki.org/odznaka/kolejowa-odznaka-turystyczna/;C;zasoby/odznaki/kolejowa-odznaka-turystyczna.csv;zasoby/odznaki/kolejowa-odznaka-turystyczna.md;ETAP2_OK
 Kolumny Maryjne w Polsce;https://odznaki.org/odznaka/kolumny-maryjne-w-polsce/;C;;zasoby/odznaki/kolumny-maryjne-w-polsce.md;ETAP1_OK
-Korona Najwybitniejszych Szczytow Gor Polskich;https://odznaki.org/odznaka/korona-najwybitniejszych-szczytow-gor-polskich/;C;;zasoby/odznaki/korona-najwybitniejszych-szczytow-gor-polskich.md;ETAP1_OK
-Korona Najwybitniejszych Szczytow Karpat Polskich;https://odznaki.org/odznaka/korona-najwybitniejszych-szczytow-karpat-polskich/;C;;zasoby/odznaki/korona-najwybitniejszych-szczytow-karpat-polskich.md;ETAP1_OK
+Korona Najwybitniejszych Szczytow Gor Polskich;https://odznaki.org/odznaka/korona-najwybitniejszych-szczytow-gor-polskich/;C;zasoby/odznaki/korona-najwybitniejszych-szczytow-gor-polskich.csv;zasoby/odznaki/korona-najwybitniejszych-szczytow-gor-polskich.md;ETAP2_OK
+Korona Najwybitniejszych Szczytow Karpat Polskich;https://odznaki.org/odznaka/korona-najwybitniejszych-szczytow-karpat-polskich/;C;zasoby/odznaki/korona-najwybitniejszych-szczytow-karpat-polskich.csv;zasoby/odznaki/korona-najwybitniejszych-szczytow-karpat-polskich.md;ETAP2_OK
 Korona Polski;https://odznaki.org/odznaka/korona-polski/;C;;zasoby/odznaki/korona-polski.md;ETAP1_OK
 Krajoznawcza Odznaka Kolekcjonerska;https://odznaki.org/odznaka/krajoznawcza-odznaka-kolekcjonerska/;C;;zasoby/odznaki/krajoznawcza-odznaka-kolekcjonerska.md;ETAP1_OK
 Krajoznawcza Odznaka Morska;https://odznaki.org/odznaka/krajoznawcza-odznaka-morska/;C;;zasoby/odznaki/krajoznawcza-odznaka-morska.md;ETAP1_OK
 Krajoznawcza Odznaka im. sw. Jana Pawla II;https://odznaki.org/odznaka/krajoznawcza-odznaka-im-sw-jana-pawla-ii/;C;;zasoby/odznaki/krajoznawcza-odznaka-im-sw-jana-pawla-ii.md;ETAP1_OK
-Krzyz na gorskim szlaku;https://odznaki.org/odznaka/krzyz-na-gorskim-szlaku/;D;;zasoby/odznaki/krzyz-na-gorskim-szlaku.md;ETAP1_OK
-Krzyze pokutne w Polsce;https://odznaki.org/odznaka/krzyze-pokutne-w-polsce/;C;;zasoby/odznaki/krzyze-pokutne-w-polsce.md;ETAP1_OK
+Krzyz na gorskim szlaku;https://odznaki.org/odznaka/krzyz-na-gorskim-szlaku/;D;zasoby/odznaki/krzyz-na-gorskim-szlaku.csv;zasoby/odznaki/krzyz-na-gorskim-szlaku.md;ETAP2_OK
+Krzyze pokutne w Polsce;https://odznaki.org/odznaka/krzyze-pokutne-w-polsce/;C;zasoby/odznaki/krzyze-pokutne-w-polsce.csv;zasoby/odznaki/krzyze-pokutne-w-polsce.md;ETAP2_OK
 Ku Wierchom;https://odznaki.org/odznaka/ku-wierchom/;C;;zasoby/odznaki/ku-wierchom.md;ETAP1_OK
-Male Szczyty Polski;https://odznaki.org/odznaka/male-szczyty-polski/;D;;zasoby/odznaki/male-szczyty-polski.md;ETAP1_OK
+Male Szczyty Polski;https://odznaki.org/odznaka/male-szczyty-polski/;D;zasoby/odznaki/male-szczyty-polski.csv;zasoby/odznaki/male-szczyty-polski.md;ETAP2_OK
 Male rzezby miast;https://odznaki.org/odznaka/male-rzezby-miast/;C;;zasoby/odznaki/male-rzezby-miast.md;ETAP1_OK
 Maly Odkrywca;https://odznaki.org/odznaka/maly-odkrywca/;C;;zasoby/odznaki/maly-odkrywca.md;ETAP1_OK
-Miasteczka RP;https://odznaki.org/odznaka/miasteczka-rp/;C;;zasoby/odznaki/miasteczka-rp.md;ETAP1_OK
+Miasteczka RP;https://odznaki.org/odznaka/miasteczka-rp/;C;zasoby/odznaki/miasteczka-rp.csv;zasoby/odznaki/miasteczka-rp.md;ETAP2_OK
 Miejsca kultu Jana Pawla II;https://odznaki.org/odznaka/miejsca-kultu-jana-pawla-ii/;C;;zasoby/odznaki/miejsca-kultu-jana-pawla-ii.md;ETAP1_OK
-Miejsca martyrologii na terenach RP;https://odznaki.org/odznaka/miejsca-martyrologii-na-terenach-rp/;C;;zasoby/odznaki/miejsca-martyrologii-na-terenach-rp.md;ETAP1_OK
-Miejsca swiete w Polsce;https://odznaki.org/odznaka/miejsca-swiete-w-polsce/;C;;zasoby/odznaki/miejsca-swiete-w-polsce.md;ETAP1_OK
+Miejsca martyrologii na terenach RP;https://odznaki.org/odznaka/miejsca-martyrologii-na-terenach-rp/;C;zasoby/odznaki/miejsca-martyrologii-na-terenach-rp.csv;zasoby/odznaki/miejsca-martyrologii-na-terenach-rp.md;ETAP2_OK
+Miejsca swiete w Polsce;https://odznaki.org/odznaka/miejsca-swiete-w-polsce/;C;zasoby/odznaki/miejsca-swiete-w-polsce.csv;zasoby/odznaki/miejsca-swiete-w-polsce.md;ETAP2_OK
 Milosnik OWRP;https://odznaki.org/odznaka/milosnik-owrp/;C;;zasoby/odznaki/milosnik-owrp.md;ETAP1_OK
-Milosnik Ogrodow Botanicznych, Arboretow i Palmiarni;https://odznaki.org/odznaka/milosnik-ogrodow-botanicznych-arboretow-i-palmiarni/;D;;zasoby/odznaki/milosnik-ogrodow-botanicznych-arboretow-i-palmiarni.md;ETAP1_OK
-Milosnik Ogrodow Zoologicznych;https://odznaki.org/odznaka/milosnik-ogrodow-zoologicznych/;D;;zasoby/odznaki/milosnik-ogrodow-zoologicznych.md;ETAP1_OK
-Milosnik Parkow Narodowych;https://odznaki.org/odznaka/milosnik-parkow-narodowych/;C;;zasoby/odznaki/milosnik-parkow-narodowych.md;ETAP1_OK
-Milosnik modernizmu;https://odznaki.org/odznaka/milosnik-modernizmu/;C;;zasoby/odznaki/milosnik-modernizmu.md;ETAP1_OK
+Milosnik Ogrodow Botanicznych, Arboretow i Palmiarni;https://odznaki.org/odznaka/milosnik-ogrodow-botanicznych-arboretow-i-palmiarni/;D;zasoby/odznaki/milosnik-ogrodow-botanicznych-arboretow-i-palmiarni.csv;zasoby/odznaki/milosnik-ogrodow-botanicznych-arboretow-i-palmiarni.md;ETAP2_OK
+Milosnik Ogrodow Zoologicznych;https://odznaki.org/odznaka/milosnik-ogrodow-zoologicznych/;D;zasoby/odznaki/milosnik-ogrodow-zoologicznych.csv;zasoby/odznaki/milosnik-ogrodow-zoologicznych.md;ETAP2_OK
+Milosnik Parkow Narodowych;https://odznaki.org/odznaka/milosnik-parkow-narodowych/;C;zasoby/odznaki/milosnik-parkow-narodowych.csv;zasoby/odznaki/milosnik-parkow-narodowych.md;ETAP2_OK
+Milosnik modernizmu;https://odznaki.org/odznaka/milosnik-modernizmu/;C;zasoby/odznaki/milosnik-modernizmu.csv;zasoby/odznaki/milosnik-modernizmu.md;ETAP2_OK
 Moja Odznaka Krajoznawcza RP;https://odznaki.org/odznaka/moja-odznaka-krajoznawcza-rp/;C;;zasoby/odznaki/moja-odznaka-krajoznawcza-rp.md;ETAP1_OK
-Muzea RP;https://odznaki.org/odznaka/muzea-rp/;C;;zasoby/odznaki/muzea-rp.md;ETAP1_OK
+Muzea RP;https://odznaki.org/odznaka/muzea-rp/;C;zasoby/odznaki/muzea-rp.csv;zasoby/odznaki/muzea-rp.md;ETAP2_OK
 Mlodzi Silni Weseli;https://odznaki.org/odznaka/mlodzi-silni-weseli/;D;;zasoby/odznaki/mlodzi-silni-weseli.md;ETAP1_OK
 Mlodziezowa Odznaka Krajoznawcza;https://odznaki.org/odznaka/mlodziezowa-odznaka-krajoznawcza/;C;;zasoby/odznaki/mlodziezowa-odznaka-krajoznawcza.md;ETAP1_OK
 Na szlakach Niepodleglosci;https://odznaki.org/odznaka/na-szlakach-niepodleglosci/;D;;zasoby/odznaki/na-szlakach-niepodleglosci.md;ETAP1_OK
-Na tropie wiatrakow w Polsce;https://odznaki.org/odznaka/na-tropie-wiatrakow-w-polsce/;D;;zasoby/odznaki/na-tropie-wiatrakow-w-polsce.md;ETAP1_OK
+Na tropie wiatrakow w Polsce;https://odznaki.org/odznaka/na-tropie-wiatrakow-w-polsce/;D;zasoby/odznaki/na-tropie-wiatrakow-w-polsce.csv;zasoby/odznaki/na-tropie-wiatrakow-w-polsce.md;ETAP2_OK
 Na tropie zegarow slonecznych w Polsce;https://odznaki.org/odznaka/na-tropie-zegarow-slonecznych-w-polsce/;D;;zasoby/odznaki/na-tropie-zegarow-slonecznych-w-polsce.md;ETAP1_OK
-Najpiekniejsze zabytki RP;https://odznaki.org/odznaka/najpiekniejsze-zabytki-rp/;C;;zasoby/odznaki/najpiekniejsze-zabytki-rp.md;ETAP1_OK
+Najpiekniejsze zabytki RP;https://odznaki.org/odznaka/najpiekniejsze-zabytki-rp/;C;zasoby/odznaki/najpiekniejsze-zabytki-rp.csv;zasoby/odznaki/najpiekniejsze-zabytki-rp.md;ETAP2_OK
 Narciarska Odznaka Mlodziezowa;https://odznaki.org/odznaka/narciarska-odznaka-mlodziezowa/;C;;zasoby/odznaki/narciarska-odznaka-mlodziezowa.md;ETAP1_OK
 Nizinna Odznaka Narciarska;https://odznaki.org/odznaka/nizinna-odznaka-narciarska/;C;;zasoby/odznaki/nizinna-odznaka-narciarska.md;ETAP1_OK
 Nocna Odznaka Turystyczna;https://odznaki.org/odznaka/nocna-odznaka-turystyczna/;C;;zasoby/odznaki/nocna-odznaka-turystyczna.md;ETAP1_OK
-Odznaka Fotografii Krajoznawczej;https://odznaki.org/odznaka/odznaka-fotografii-krajoznawczej/;C;;zasoby/odznaki/odznaka-fotografii-krajoznawczej.md;ETAP1_OK
+Odznaka Fotografii Krajoznawczej;https://odznaki.org/odznaka/odznaka-fotografii-krajoznawczej/;C;zasoby/odznaki/odznaka-fotografii-krajoznawczej.csv;zasoby/odznaki/odznaka-fotografii-krajoznawczej.md;ETAP2_OK
 Odznaka Imprez na Orientacje;https://odznaki.org/odznaka/odznaka-imprez-na-orientacje/;C;;zasoby/odznaki/odznaka-imprez-na-orientacje.md;ETAP1_OK
 Odznaka Klubu Zdobywcow Odznak Turystyczno-Krajoznawczych;https://odznaki.org/odznaka/odznaka-klubu-zdobywcow-odznak-turystyczno-krajoznawczych/;C;;zasoby/odznaki/odznaka-klubu-zdobywcow-odznak-turystyczno-krajoznawczych.md;ETAP1_OK
-Odznaka Krajoznawcza Konstytucji 3 Maja;https://odznaki.org/odznaka/odznaka-krajoznawcza-konstytucji-3-maja/;C;;zasoby/odznaki/odznaka-krajoznawcza-konstytucji-3-maja.md;ETAP1_OK
+Odznaka Krajoznawcza Konstytucji 3 Maja;https://odznaki.org/odznaka/odznaka-krajoznawcza-konstytucji-3-maja/;C;zasoby/odznaki/odznaka-krajoznawcza-konstytucji-3-maja.csv;zasoby/odznaki/odznaka-krajoznawcza-konstytucji-3-maja.md;ETAP2_OK
 Odznaka Krajoznawcza Polski;https://odznaki.org/odznaka/odznaka-krajoznawcza-polski/;B;zasoby/odznaki/odznaka-krajoznawcza-polski.csv;zasoby/odznaki/odznaka-krajoznawcza-polski.md;ETAP2_OK
-Odznaka Krajoznawcza im. Prymasa Tysiaclecia;https://odznaki.org/odznaka/odznaka-krajoznawcza-im-prymasa-tysiaclecia/;C;;zasoby/odznaki/odznaka-krajoznawcza-im-prymasa-tysiaclecia.md;ETAP1_OK
+Odznaka Krajoznawcza im. Prymasa Tysiaclecia;https://odznaki.org/odznaka/odznaka-krajoznawcza-im-prymasa-tysiaclecia/;C;zasoby/odznaki/odznaka-krajoznawcza-im-prymasa-tysiaclecia.csv;zasoby/odznaki/odznaka-krajoznawcza-im-prymasa-tysiaclecia.md;ETAP2_OK
 Odznaka Krajoznawcza im. Swietej Barbary;https://odznaki.org/odznaka/odznaka-krajoznawcza-im-swietej-barbary/;C;;zasoby/odznaki/odznaka-krajoznawcza-im-swietej-barbary.md;ETAP1_OK
 Odznaka Narciarska Za wytrwaosc;https://odznaki.org/odznaka/odznaka-narciarska-za-wytrwalosc/;C;;zasoby/odznaki/odznaka-narciarska-za-wytrwalosc.md;ETAP1_OK
 Odznaka Organizatorow Turystycznych Imprez na Orientacje Lampion;https://odznaki.org/odznaka/odznaka-organizatorow-turystycznych-imprez-na-orientacje-lampion/;C;;zasoby/odznaki/odznaka-organizatorow-turystycznych-imprez-na-orientacje-lampion.md;ETAP1_OK
 Odznaka PTTK Geocaching Polska;https://odznaki.org/odznaka/odznaka-pttk-geocaching-polska/;C;;zasoby/odznaki/odznaka-pttk-geocaching-polska.md;ETAP1_OK
-Odznaka Pomorskiej Drogi sw. Jakuba;https://odznaki.org/odznaka/odznaka-pomorskiej-drogi-sw-jakuba/;C;;zasoby/odznaki/odznaka-pomorskiej-drogi-sw-jakuba.md;ETAP1_OK
+Odznaka Pomorskiej Drogi sw. Jakuba;https://odznaki.org/odznaka/odznaka-pomorskiej-drogi-sw-jakuba/;C;zasoby/odznaki/odznaka-pomorskiej-drogi-sw-jakuba.csv;zasoby/odznaki/odznaka-pomorskiej-drogi-sw-jakuba.md;ETAP2_OK
 Odznaka Przyjaciela Naturalnego Srodowiska;https://odznaki.org/odznaka/odznaka-przyjaciela-naturalnego-srodowiska/;A;zasoby/odznaki/odznaka-przyjaciela-naturalnego-srodowiska.csv;zasoby/odznaki/odznaka-przyjaciela-naturalnego-srodowiska.md;ETAP2_OK
 Odznaka Turysty Motorowego;https://odznaki.org/odznaka/odznaka-turysty-motorowego/;C;;zasoby/odznaki/odznaka-turysty-motorowego.md;ETAP1_OK
 Odznaka Turystyczna Disney i PTTK;https://odznaki.org/odznaka/odznaka-turystyczna-disney-i-pttk/;C;;zasoby/odznaki/odznaka-turystyczna-disney-i-pttk.md;ETAP1_OK
@@ -109,133 +109,133 @@ Odznaka dziecieca KZKG RP;https://odznaki.org/odznaka/odznaka-dziecieca-kzkg-rp/
 Odznaka im. dr. Tytusa Chaubinskiego;https://odznaki.org/odznaka/odznaka-im-dr-tytusa-chalubinskiego/;C;;zasoby/odznaki/odznaka-im-dr-tytusa-chalubinskiego.md;ETAP1_OK
 "Odznaka imienia ksiedza Jerzego Popieuszki ""Zo dobrem zwyciezaj""";https://odznaki.org/odznaka/odznaka-imienia-ksiedza-jerzego-popieluszki-zlo-dobrem-zwyciezaj/;C;;zasoby/odznaki/odznaka-imienia-ksiedza-jerzego-popieluszki-zlo-dobrem-zwyciezaj.md;ETAP1_OK
 Odznaka modziezowa KZKG RP;https://odznaki.org/odznaka/odznaka-mlodziezowa-kzkg-rp/;D;;zasoby/odznaki/odznaka-mlodziezowa-kzkg-rp.md;ETAP1_OK
-Odznaka Swietego Krzysztofa;https://odznaki.org/odznaka/odznaka-swietego-krzysztofa/;C;;zasoby/odznaki/odznaka-swietego-krzysztofa.md;ETAP1_OK
-Osady i grodziska RP;https://odznaki.org/odznaka/osady-i-grodziska-rp/;D;;zasoby/odznaki/osady-i-grodziska-rp.md;ETAP1_OK
+Odznaka Swietego Krzysztofa;https://odznaki.org/odznaka/odznaka-swietego-krzysztofa/;C;zasoby/odznaki/odznaka-swietego-krzysztofa.csv;zasoby/odznaki/odznaka-swietego-krzysztofa.md;ETAP2_OK
+Osady i grodziska RP;https://odznaki.org/odznaka/osady-i-grodziska-rp/;D;zasoby/odznaki/osady-i-grodziska-rp.csv;zasoby/odznaki/osady-i-grodziska-rp.md;ETAP2_OK
 PTTK w 90 rocznice Niepodlegosci 1918-2008;https://odznaki.org/odznaka/pttk-w-90-rocznice-niepodleglosci-1918-2008/;C;;zasoby/odznaki/pttk-w-90-rocznice-niepodleglosci-1918-2008.md;ETAP1_OK
-Parki Krajobrazowe;https://odznaki.org/odznaka/parki-krajobrazowe/;D;;zasoby/odznaki/parki-krajobrazowe.md;ETAP1_OK
-Parki Narodowe Przyszosci;https://odznaki.org/odznaka/parki-narodowe-przyszlosci/;C;;zasoby/odznaki/parki-narodowe-przyszlosci.md;ETAP1_OK
-Paace i dwory RP;https://odznaki.org/odznaka/palace-i-dwory-rp/;D;;zasoby/odznaki/palace-i-dwory-rp.md;ETAP1_OK
-Perci Polskich Gor;https://odznaki.org/odznaka/perci-polskich-gor/;D;;zasoby/odznaki/perci-polskich-gor.md;ETAP1_OK
+Parki Krajobrazowe;https://odznaki.org/odznaka/parki-krajobrazowe/;D;zasoby/odznaki/parki-krajobrazowe.csv;zasoby/odznaki/parki-krajobrazowe.md;ETAP2_OK
+Parki Narodowe Przyszosci;https://odznaki.org/odznaka/parki-narodowe-przyszlosci/;C;zasoby/odznaki/parki-narodowe-przyszlosci.csv;zasoby/odznaki/parki-narodowe-przyszlosci.md;ETAP2_OK
+Paace i dwory RP;https://odznaki.org/odznaka/palace-i-dwory-rp/;D;zasoby/odznaki/palace-i-dwory-rp.csv;zasoby/odznaki/palace-i-dwory-rp.md;ETAP2_OK
+Perci Polskich Gor;https://odznaki.org/odznaka/perci-polskich-gor/;D;zasoby/odznaki/perci-polskich-gor.csv;zasoby/odznaki/perci-polskich-gor.md;ETAP2_OK
 Poczatki drogi ku niepodlegosci;https://odznaki.org/odznaka/poczatki-drogi-ku-niepodleglosci/;C;;zasoby/odznaki/poczatki-drogi-ku-niepodleglosci.md;ETAP1_OK
-Podziemne trasy turystyczne RP;https://odznaki.org/odznaka/podziemne-trasy-turystyczne-rp/;D;;zasoby/odznaki/podziemne-trasy-turystyczne-rp.md;ETAP1_OK
+Podziemne trasy turystyczne RP;https://odznaki.org/odznaka/podziemne-trasy-turystyczne-rp/;D;zasoby/odznaki/podziemne-trasy-turystyczne-rp.csv;zasoby/odznaki/podziemne-trasy-turystyczne-rp.md;ETAP2_OK
 Polskie Naj;https://odznaki.org/odznaka/polskie-naj/;B;zasoby/odznaki/polskie-naj.csv;zasoby/odznaki/polskie-naj.md;ETAP2_OK
 Polsko-Sowacka Odznaka Turystyczna Gory bez granic Hory bez hranic;https://odznaki.org/odznaka/polsko-slowacka-odznaka-turystyczna-gory-bez-granic-hory-bez-hranic/;C;;zasoby/odznaki/polsko-slowacka-odznaka-turystyczna-gory-bez-granic-hory-bez-hranic.md;ETAP1_OK
 Powstanie Listopadowe 1830-31;https://odznaki.org/odznaka/powstanie-listopadowe-1830-31/;C;;zasoby/odznaki/powstanie-listopadowe-1830-31.md;ETAP1_OK
-"Powstancze Oddziay Specjalne ""Jerzyki""";https://odznaki.org/odznaka/powstancze-oddzialy-specjalne-jerzyki/;C;;zasoby/odznaki/powstancze-oddzialy-specjalne-jerzyki.md;ETAP1_OK
-Poznaj Polakow w walce o wolnosc 1904-1922;https://odznaki.org/odznaka/poznaj-polakow-w-walce-o-wolnosc-1904-1922/;C;;zasoby/odznaki/poznaj-polakow-w-walce-o-wolnosc-1904-1922.md;ETAP1_OK
-Poznaj Polskie Pomniki;https://odznaki.org/odznaka/poznaj-polskie-pomniki/;C;;zasoby/odznaki/poznaj-polskie-pomniki.md;ETAP1_OK
+"Powstancze Oddziay Specjalne ""Jerzyki""";https://odznaki.org/odznaka/powstancze-oddzialy-specjalne-jerzyki/;C;zasoby/odznaki/powstancze-oddzialy-specjalne-jerzyki.csv;zasoby/odznaki/powstancze-oddzialy-specjalne-jerzyki.md;ETAP2_OK
+Poznaj Polakow w walce o wolnosc 1904-1922;https://odznaki.org/odznaka/poznaj-polakow-w-walce-o-wolnosc-1904-1922/;C;zasoby/odznaki/poznaj-polakow-w-walce-o-wolnosc-1904-1922.csv;zasoby/odznaki/poznaj-polakow-w-walce-o-wolnosc-1904-1922.md;ETAP2_OK
+Poznaj Polskie Pomniki;https://odznaki.org/odznaka/poznaj-polskie-pomniki/;C;zasoby/odznaki/poznaj-polskie-pomniki.csv;zasoby/odznaki/poznaj-polskie-pomniki.md;ETAP2_OK
 Poznaj bazyliki w Polsce;https://odznaki.org/odznaka/poznaj-bazyliki-w-polsce/;C;;zasoby/odznaki/poznaj-bazyliki-w-polsce.md;ETAP1_OK
-Poznaj chaczkary w Polsce;https://odznaki.org/odznaka/poznaj-chaczkary-w-polsce/;C;;zasoby/odznaki/poznaj-chaczkary-w-polsce.md;ETAP1_OK
-Poznaj dowodcow Powstania Styczniowego;https://odznaki.org/odznaka/poznaj-dowodcow-powstania-styczniowego/;C;;zasoby/odznaki/poznaj-dowodcow-powstania-styczniowego.md;ETAP1_OK
-Poznaj kalwarie w Polsce;https://odznaki.org/odznaka/poznaj-kalwarie-w-polsce/;C;;zasoby/odznaki/poznaj-kalwarie-w-polsce.md;ETAP1_OK
-Poznaj miasta Cittaslow w Polsce;https://odznaki.org/odznaka/poznaj-miasta-cittaslow-w-polsce/;C;;zasoby/odznaki/poznaj-miasta-cittaslow-w-polsce.md;ETAP1_OK
-Poznaj miejsca malo znane;https://odznaki.org/odznaka/poznaj-miejsca-malo-znane/;C;;zasoby/odznaki/poznaj-miejsca-malo-znane.md;ETAP1_OK
-Poznaj miejsca mocy w Polsce;https://odznaki.org/odznaka/poznaj-miejsca-mocy-w-polsce/;C;;zasoby/odznaki/poznaj-miejsca-mocy-w-polsce.md;ETAP1_OK
-Poznaj miejscowosci o ciekawych nazwach;https://odznaki.org/odznaka/poznaj-miejscowosci-o-ciekawych-nazwach/;C;;zasoby/odznaki/poznaj-miejscowosci-o-ciekawych-nazwach.md;ETAP1_OK
-Poznaj najpiekniejsze uzdrowiska w Polsce;https://odznaki.org/odznaka/poznaj-najpiekniejsze-uzdrowiska-w-polsce/;C;;zasoby/odznaki/poznaj-najpiekniejsze-uzdrowiska-w-polsce.md;ETAP1_OK
-Poznaj osobliwosci przyrody w Polsce;https://odznaki.org/odznaka/poznaj-osobliwosci-przyrody-w-polsce/;C;;zasoby/odznaki/poznaj-osobliwosci-przyrody-w-polsce.md;ETAP1_OK
-Poznaj parki krajobrazowe w Polsce;https://odznaki.org/odznaka/poznaj-parki-krajobrazowe-w-polsce/;C;;zasoby/odznaki/poznaj-parki-krajobrazowe-w-polsce.md;ETAP1_OK
-Poznaj palace i zamki w Polsce;https://odznaki.org/odznaka/poznaj-palace-i-zamki-w-polsce/;C;;zasoby/odznaki/poznaj-palace-i-zamki-w-polsce.md;ETAP1_OK
-Poznaj planetaria w Polsce;https://odznaki.org/odznaka/poznaj-planetaria-w-polsce/;C;;zasoby/odznaki/poznaj-planetaria-w-polsce.md;ETAP1_OK
-Poznaj pomnikowe lokomotywy w Polsce;https://odznaki.org/odznaka/poznaj-pomnikowe-lokomotywy-w-polsce/;C;;zasoby/odznaki/poznaj-pomnikowe-lokomotywy-w-polsce.md;ETAP1_OK
-Poznaj skanseny w Polsce;https://odznaki.org/odznaka/poznaj-skanseny-w-polsce/;C;;zasoby/odznaki/poznaj-skanseny-w-polsce.md;ETAP1_OK
-Poznaj synagogi w Polsce;https://odznaki.org/odznaka/poznaj-synagogi-w-polsce/;C;;zasoby/odznaki/poznaj-synagogi-w-polsce.md;ETAP1_OK
-Poznaj tunele w Polsce;https://odznaki.org/odznaka/poznaj-tunele-w-polsce/;C;;zasoby/odznaki/poznaj-tunele-w-polsce.md;ETAP1_OK
-Poznaj wieze cisnien w Polsce;https://odznaki.org/odznaka/poznaj-wieze-cisnien-w-polsce/;C;;zasoby/odznaki/poznaj-wieze-cisnien-w-polsce.md;ETAP1_OK
+Poznaj chaczkary w Polsce;https://odznaki.org/odznaka/poznaj-chaczkary-w-polsce/;C;zasoby/odznaki/poznaj-chaczkary-w-polsce.csv;zasoby/odznaki/poznaj-chaczkary-w-polsce.md;ETAP2_OK
+Poznaj dowodcow Powstania Styczniowego;https://odznaki.org/odznaka/poznaj-dowodcow-powstania-styczniowego/;C;zasoby/odznaki/poznaj-dowodcow-powstania-styczniowego.csv;zasoby/odznaki/poznaj-dowodcow-powstania-styczniowego.md;ETAP2_OK
+Poznaj kalwarie w Polsce;https://odznaki.org/odznaka/poznaj-kalwarie-w-polsce/;C;zasoby/odznaki/poznaj-kalwarie-w-polsce.csv;zasoby/odznaki/poznaj-kalwarie-w-polsce.md;ETAP2_OK
+Poznaj miasta Cittaslow w Polsce;https://odznaki.org/odznaka/poznaj-miasta-cittaslow-w-polsce/;C;zasoby/odznaki/poznaj-miasta-cittaslow-w-polsce.csv;zasoby/odznaki/poznaj-miasta-cittaslow-w-polsce.md;ETAP2_OK
+Poznaj miejsca malo znane;https://odznaki.org/odznaka/poznaj-miejsca-malo-znane/;C;zasoby/odznaki/poznaj-miejsca-malo-znane.csv;zasoby/odznaki/poznaj-miejsca-malo-znane.md;ETAP2_OK
+Poznaj miejsca mocy w Polsce;https://odznaki.org/odznaka/poznaj-miejsca-mocy-w-polsce/;C;zasoby/odznaki/poznaj-miejsca-mocy-w-polsce.csv;zasoby/odznaki/poznaj-miejsca-mocy-w-polsce.md;ETAP2_OK
+Poznaj miejscowosci o ciekawych nazwach;https://odznaki.org/odznaka/poznaj-miejscowosci-o-ciekawych-nazwach/;C;zasoby/odznaki/poznaj-miejscowosci-o-ciekawych-nazwach.csv;zasoby/odznaki/poznaj-miejscowosci-o-ciekawych-nazwach.md;ETAP2_OK
+Poznaj najpiekniejsze uzdrowiska w Polsce;https://odznaki.org/odznaka/poznaj-najpiekniejsze-uzdrowiska-w-polsce/;C;zasoby/odznaki/poznaj-najpiekniejsze-uzdrowiska-w-polsce.csv;zasoby/odznaki/poznaj-najpiekniejsze-uzdrowiska-w-polsce.md;ETAP2_OK
+Poznaj osobliwosci przyrody w Polsce;https://odznaki.org/odznaka/poznaj-osobliwosci-przyrody-w-polsce/;C;zasoby/odznaki/poznaj-osobliwosci-przyrody-w-polsce.csv;zasoby/odznaki/poznaj-osobliwosci-przyrody-w-polsce.md;ETAP2_OK
+Poznaj parki krajobrazowe w Polsce;https://odznaki.org/odznaka/poznaj-parki-krajobrazowe-w-polsce/;C;zasoby/odznaki/poznaj-parki-krajobrazowe-w-polsce.csv;zasoby/odznaki/poznaj-parki-krajobrazowe-w-polsce.md;ETAP2_OK
+Poznaj palace i zamki w Polsce;https://odznaki.org/odznaka/poznaj-palace-i-zamki-w-polsce/;C;zasoby/odznaki/poznaj-palace-i-zamki-w-polsce.csv;zasoby/odznaki/poznaj-palace-i-zamki-w-polsce.md;ETAP2_OK
+Poznaj planetaria w Polsce;https://odznaki.org/odznaka/poznaj-planetaria-w-polsce/;C;zasoby/odznaki/poznaj-planetaria-w-polsce.csv;zasoby/odznaki/poznaj-planetaria-w-polsce.md;ETAP2_OK
+Poznaj pomnikowe lokomotywy w Polsce;https://odznaki.org/odznaka/poznaj-pomnikowe-lokomotywy-w-polsce/;C;zasoby/odznaki/poznaj-pomnikowe-lokomotywy-w-polsce.csv;zasoby/odznaki/poznaj-pomnikowe-lokomotywy-w-polsce.md;ETAP2_OK
+Poznaj skanseny w Polsce;https://odznaki.org/odznaka/poznaj-skanseny-w-polsce/;C;zasoby/odznaki/poznaj-skanseny-w-polsce.csv;zasoby/odznaki/poznaj-skanseny-w-polsce.md;ETAP2_OK
+Poznaj synagogi w Polsce;https://odznaki.org/odznaka/poznaj-synagogi-w-polsce/;C;zasoby/odznaki/poznaj-synagogi-w-polsce.csv;zasoby/odznaki/poznaj-synagogi-w-polsce.md;ETAP2_OK
+Poznaj tunele w Polsce;https://odznaki.org/odznaka/poznaj-tunele-w-polsce/;C;zasoby/odznaki/poznaj-tunele-w-polsce.csv;zasoby/odznaki/poznaj-tunele-w-polsce.md;ETAP2_OK
+Poznaj wieze cisnien w Polsce;https://odznaki.org/odznaka/poznaj-wieze-cisnien-w-polsce/;C;zasoby/odznaki/poznaj-wieze-cisnien-w-polsce.csv;zasoby/odznaki/poznaj-wieze-cisnien-w-polsce.md;ETAP2_OK
 poznaj zabytki techniki w polsce;https://odznaki.org/odznaka/poznaj-zabytki-techniki-w-polsce/;B;zasoby/odznaki/poznaj-zabytki-techniki-w-polsce.csv;zasoby/odznaki/poznaj-zabytki-techniki-w-polsce.md;ETAP2_OK
-poznaj zabytkowe dworce kolejowe w polsce;https://odznaki.org/odznaka/poznaj-zabytkowe-dworce-kolejowe-w-polsce/;C;;zasoby/odznaki/poznaj-zabytkowe-dworce-kolejowe-w-polsce.md;ETAP1_OK
-poznaj zapory wodne w polsce;https://odznaki.org/odznaka/poznaj-zapory-wodne-w-polsce/;C;;zasoby/odznaki/poznaj-zapory-wodne-w-polsce.md;ETAP1_OK
+poznaj zabytkowe dworce kolejowe w polsce;https://odznaki.org/odznaka/poznaj-zabytkowe-dworce-kolejowe-w-polsce/;C;zasoby/odznaki/poznaj-zabytkowe-dworce-kolejowe-w-polsce.csv;zasoby/odznaki/poznaj-zabytkowe-dworce-kolejowe-w-polsce.md;ETAP2_OK
+poznaj zapory wodne w polsce;https://odznaki.org/odznaka/poznaj-zapory-wodne-w-polsce/;C;zasoby/odznaki/poznaj-zapory-wodne-w-polsce.csv;zasoby/odznaki/poznaj-zapory-wodne-w-polsce.md;ETAP2_OK
 przyjaciel regionalnej pracowni krajoznawczej pttk w bydgoszczy;https://odznaki.org/odznaka/przyjaciel-regionalnej-pracowni-krajoznawczej-pttk-w-bydgoszczy/;B;zasoby/odznaki/przyjaciel-regionalnej-pracowni-krajoznawczej-pttk-w-bydgoszczy.csv;zasoby/odznaki/przyjaciel-regionalnej-pracowni-krajoznawczej-pttk-w-bydgoszczy.md;ETAP2_OK
 przyjaciel schronisk mlodziezowych;https://odznaki.org/odznaka/przyjaciel-schronisk-mlodziezowych/;D;;zasoby/odznaki/przyjaciel-schronisk-mlodziezowych.md;ETAP1_OK
 questy wyprawy odkrywcow;https://odznaki.org/odznaka/questy-wyprawy-odkrywcow/;B;zasoby/odznaki/questy-wyprawy-odkrywcow.csv;zasoby/odznaki/questy-wyprawy-odkrywcow.md;ETAP2_OK
-rajd kolarski szlakami wladyslawa huzy;https://odznaki.org/odznaka/rajd-kolarski-szlakami-wladyslawa-huzy/;C;;zasoby/odznaki/rajd-kolarski-szlakami-wladyslawa-huzy.md;ETAP1_OK
+rajd kolarski szlakami wladyslawa huzy;https://odznaki.org/odznaka/rajd-kolarski-szlakami-wladyslawa-huzy/;C;zasoby/odznaki/rajd-kolarski-szlakami-wladyslawa-huzy.csv;zasoby/odznaki/rajd-kolarski-szlakami-wladyslawa-huzy.md;ETAP2_OK
 rajd kolarski pttk dookola polski;https://odznaki.org/odznaka/rajd-kolarski-pttk-dookola-polski/;C;;zasoby/odznaki/rajd-kolarski-pttk-dookola-polski.md;ETAP1_OK
-ratusze rp;https://odznaki.org/odznaka/ratusze-rp/;D;;zasoby/odznaki/ratusze-rp.md;ETAP1_OK
+ratusze rp;https://odznaki.org/odznaka/ratusze-rp/;D;zasoby/odznaki/ratusze-rp.csv;zasoby/odznaki/ratusze-rp.md;ETAP2_OK
 regionalna odznaka krajoznawcza;https://odznaki.org/odznaka/regionalna-odznaka-krajoznawcza/;D;;zasoby/odznaki/regionalna-odznaka-krajoznawcza.md;ETAP1_OK
-relikty prl u w rp;https://odznaki.org/odznaka/relikty-prl-u-w-rp/;D;;zasoby/odznaki/relikty-prl-u-w-rp.md;ETAP1_OK
+relikty prl u w rp;https://odznaki.org/odznaka/relikty-prl-u-w-rp/;D;zasoby/odznaki/relikty-prl-u-w-rp.csv;zasoby/odznaki/relikty-prl-u-w-rp.md;ETAP2_OK
 rodzinna odznaka turystyczna mama tata rower i ja;https://odznaki.org/odznaka/rodzinna-odznaka-turystyczna-mama-tata-rower-i-ja/;C;;zasoby/odznaki/rodzinna-odznaka-turystyczna-mama-tata-rower-i-ja.md;ETAP1_OK
 setka;https://odznaki.org/odznaka/setka/;C;;zasoby/odznaki/setka.md;ETAP1_OK
-skanseny rp;https://odznaki.org/odznaka/skanseny-rp/;D;;zasoby/odznaki/skanseny-rp.md;ETAP1_OK
+skanseny rp;https://odznaki.org/odznaka/skanseny-rp/;D;zasoby/odznaki/skanseny-rp.csv;zasoby/odznaki/skanseny-rp.md;ETAP2_OK
 skarby architektury miedzy wisla bugiem;https://odznaki.org/odznaka/skarby-architektury-miedzy-wisla-bugiem/;B;zasoby/odznaki/skarby-architektury-miedzy-wisla-bugiem.csv;zasoby/odznaki/skarby-architektury-miedzy-wisla-bugiem.md;ETAP2_OK
-skarby kultury unesco rp;https://odznaki.org/odznaka/skarby-kultury-unesco-rp/;D;;zasoby/odznaki/skarby-kultury-unesco-rp.md;ETAP1_OK
-skrajne punkty rp;https://odznaki.org/odznaka/skrajne-punkty-rp/;C;;zasoby/odznaki/skrajne-punkty-rp.md;ETAP1_OK
+skarby kultury unesco rp;https://odznaki.org/odznaka/skarby-kultury-unesco-rp/;D;zasoby/odznaki/skarby-kultury-unesco-rp.csv;zasoby/odznaki/skarby-kultury-unesco-rp.md;ETAP2_OK
+skrajne punkty rp;https://odznaki.org/odznaka/skrajne-punkty-rp/;C;zasoby/odznaki/skrajne-punkty-rp.csv;zasoby/odznaki/skrajne-punkty-rp.md;ETAP2_OK
 sprawny na szlaku;https://odznaki.org/odznaka/sprawny-na-szlaku/;C;;zasoby/odznaki/sprawny-na-szlaku.md;ETAP1_OK
-stare miasta rp;https://odznaki.org/odznaka/stare-miasta-rp/;D;;zasoby/odznaki/stare-miasta-rp.md;ETAP1_OK
+stare miasta rp;https://odznaki.org/odznaka/stare-miasta-rp/;D;zasoby/odznaki/stare-miasta-rp.csv;zasoby/odznaki/stare-miasta-rp.md;ETAP2_OK
 stulecie turystyki akademickiej;https://odznaki.org/odznaka/stulecie-turystyki-akademickiej/;C;;zasoby/odznaki/stulecie-turystyki-akademickiej.md;ETAP1_OK
 szlak kultury zydowskiej;https://odznaki.org/odznaka/szlak-kultury-zydowskiej/;B;zasoby/odznaki/szlak-kultury-zydowskiej.csv;zasoby/odznaki/szlak-kultury-zydowskiej.md;ETAP2_OK
 szlak powstania styczniowego;https://odznaki.org/odznaka/szlak-powstania-styczniowego/;C;;zasoby/odznaki/szlak-powstania-styczniowego.md;ETAP1_OK
 szlak wielkiej wojny 1409 1411;https://odznaki.org/odznaka/szlak-wielkiej-wojny-1409-1411/;C;;zasoby/odznaki/szlak-wielkiej-wojny-1409-1411.md;ETAP1_OK
-szlak pomnikowych laweczek;https://odznaki.org/odznaka/szlak-pomnikowych-laweczek/;C;;zasoby/odznaki/szlak-pomnikowych-laweczek.md;ETAP1_OK
-szlakami 18 pulku ulanow pomorskich;https://odznaki.org/odznaka/szlakami-18-pulku-ulanow-pomorskich/;C;;zasoby/odznaki/szlakami-18-pulku-ulanow-pomorskich.md;ETAP1_OK
+szlak pomnikowych laweczek;https://odznaki.org/odznaka/szlak-pomnikowych-laweczek/;C;zasoby/odznaki/szlak-pomnikowych-laweczek.csv;zasoby/odznaki/szlak-pomnikowych-laweczek.md;ETAP2_OK
+szlakami 18 pulku ulanow pomorskich;https://odznaki.org/odznaka/szlakami-18-pulku-ulanow-pomorskich/;C;zasoby/odznaki/szlakami-18-pulku-ulanow-pomorskich.csv;zasoby/odznaki/szlakami-18-pulku-ulanow-pomorskich.md;ETAP2_OK
 szlakami architektury sakralnej w polsce;https://odznaki.org/odznaka/szlakami-architektury-sakralnej-w-polsce/;C;;zasoby/odznaki/szlakami-architektury-sakralnej-w-polsce.md;ETAP1_OK
 szlakami kawalerii polskiej xx wieku;https://odznaki.org/odznaka/szlakami-kawalerii-polskiej-xx-wieku/;C;;zasoby/odznaki/szlakami-kawalerii-polskiej-xx-wieku.md;ETAP1_OK
 szlakami napoleona i jego zolnierzy;https://odznaki.org/odznaka/szlakami-napoleona-i-jego-zolnierzy/;B;zasoby/odznaki/szlakami-napoleona-i-jego-zolnierzy.csv;zasoby/odznaki/szlakami-napoleona-i-jego-zolnierzy.md;ETAP2_OK
 szlakami polskiego towarzystwa krajoznawczego;https://odznaki.org/odznaka/szlakami-polskiego-towarzystwa-krajoznawczego/;C;;zasoby/odznaki/szlakami-polskiego-towarzystwa-krajoznawczego.md;ETAP1_OK
 szlakami szarych szeregow;https://odznaki.org/odznaka/szlakami-szarych-szeregow/;B;zasoby/odznaki/szlakami-szarych-szeregow.csv;zasoby/odznaki/szlakami-szarych-szeregow.md;ETAP2_OK
-szlakami obroncow granic;https://odznaki.org/odznaka/szlakami-obroncow-granic/;C;;zasoby/odznaki/szlakami-obroncow-granic.md;ETAP1_OK
-szlakami zamkow w polsce;https://odznaki.org/odznaka/szlakami-zamkow-w-polsce/;C;;zasoby/odznaki/szlakami-zamkow-w-polsce.md;ETAP1_OK
+szlakami obroncow granic;https://odznaki.org/odznaka/szlakami-obroncow-granic/;C;zasoby/odznaki/szlakami-obroncow-granic.csv;zasoby/odznaki/szlakami-obroncow-granic.md;ETAP2_OK
+szlakami zamkow w polsce;https://odznaki.org/odznaka/szlakami-zamkow-w-polsce/;C;zasoby/odznaki/szlakami-zamkow-w-polsce.csv;zasoby/odznaki/szlakami-zamkow-w-polsce.md;ETAP2_OK
 szlakami swietego jana nepomucena;https://odznaki.org/odznaka/szlakami-swietego-jana-nepomucena/;C;;zasoby/odznaki/szlakami-swietego-jana-nepomucena.md;ETAP1_OK
 szlakami swietego mikolaja;https://odznaki.org/odznaka/szlakami-swietego-mikolaja/;C;;zasoby/odznaki/szlakami-swietego-mikolaja.md;ETAP1_OK
-szlakiem 19 pulku ulanow wolynskich stoleczny;https://odznaki.org/odznaka/szlakiem-19-pulku-ulanow-wolynskich-stoleczny/;C;;zasoby/odznaki/szlakiem-19-pulku-ulanow-wolynskich-stoleczny.md;ETAP1_OK
+szlakiem 19 pulku ulanow wolynskich stoleczny;https://odznaki.org/odznaka/szlakiem-19-pulku-ulanow-wolynskich-stoleczny/;C;zasoby/odznaki/szlakiem-19-pulku-ulanow-wolynskich-stoleczny.csv;zasoby/odznaki/szlakiem-19-pulku-ulanow-wolynskich-stoleczny.md;ETAP2_OK
 szlakiem 28 pulku strzelcow kaniowskich;https://odznaki.org/odznaka/szlakiem-28-pulku-strzelcow-kaniowskich/;C;;zasoby/odznaki/szlakiem-28-pulku-strzelcow-kaniowskich.md;ETAP1_OK
-szlakiem akademii politechnik i uniwersytetow;https://odznaki.org/odznaka/szlakiem-akademii-politechnik-i-uniwersytetow/;D;;zasoby/odznaki/szlakiem-akademii-politechnik-i-uniwersytetow.md;ETAP1_OK
-szlakiem aleksandra janowskiego;https://odznaki.org/odznaka/szlakiem-aleksandra-janowskiego/;C;;zasoby/odznaki/szlakiem-aleksandra-janowskiego.md;ETAP1_OK
+szlakiem akademii politechnik i uniwersytetow;https://odznaki.org/odznaka/szlakiem-akademii-politechnik-i-uniwersytetow/;D;zasoby/odznaki/szlakiem-akademii-politechnik-i-uniwersytetow.csv;zasoby/odznaki/szlakiem-akademii-politechnik-i-uniwersytetow.md;ETAP2_OK
+szlakiem aleksandra janowskiego;https://odznaki.org/odznaka/szlakiem-aleksandra-janowskiego/;C;zasoby/odznaki/szlakiem-aleksandra-janowskiego.csv;zasoby/odznaki/szlakiem-aleksandra-janowskiego.md;ETAP2_OK
 szlakiem bitwy nad bzura 1939 im gen dyw tadeusza kutrzeby;https://odznaki.org/odznaka/szlakiem-bitwy-nad-bzura-1939-im-gen-dyw-tadeusza-kutrzeby/;C;;zasoby/odznaki/szlakiem-bitwy-nad-bzura-1939-im-gen-dyw-tadeusza-kutrzeby.md;ETAP1_OK
 szlakiem bojowym 15 pulku piechoty wilkow;https://odznaki.org/odznaka/szlakiem-bojowym-15-pulku-piechoty-wilkow/;C;;zasoby/odznaki/szlakiem-bojowym-15-pulku-piechoty-wilkow.md;ETAP1_OK
-szlakiem cystersow w polsce;https://odznaki.org/odznaka/szlakiem-cystersow-w-polsce/;C;;zasoby/odznaki/szlakiem-cystersow-w-polsce.md;ETAP1_OK
+szlakiem cystersow w polsce;https://odznaki.org/odznaka/szlakiem-cystersow-w-polsce/;C;zasoby/odznaki/szlakiem-cystersow-w-polsce.csv;zasoby/odznaki/szlakiem-cystersow-w-polsce.md;ETAP2_OK
 szlakiem dziewieciu z wujka;https://odznaki.org/odznaka/szlakiem-dziewieciu-z-wujka/;D;;zasoby/odznaki/szlakiem-dziewieciu-z-wujka.md;ETAP1_OK
 szlakiem ewakuacji wiezniow kl auschwitz;https://odznaki.org/odznaka/szlakiem-ewakuacji-wiezniow-kl-auschwitz/;B;zasoby/odznaki/szlakiem-ewakuacji-wiezniow-kl-auschwitz.csv;zasoby/odznaki/szlakiem-ewakuacji-wiezniow-kl-auschwitz.md;ETAP2_OK
 szlakiem generala mikolaja wisznickiego;https://odznaki.org/odznaka/szlakiem-generala-mikolaja-wisznickiego/;C;;zasoby/odznaki/szlakiem-generala-mikolaja-wisznickiego.md;ETAP1_OK
-szlakiem henryka sienkiewicza;https://odznaki.org/odznaka/szlakiem-henryka-sienkiewicza/;D;;zasoby/odznaki/szlakiem-henryka-sienkiewicza.md;ETAP1_OK
-szlakiem hetmana stefana czarnieckiego;https://odznaki.org/odznaka/szlakiem-hetmana-stefana-czarnieckiego/;C;;zasoby/odznaki/szlakiem-hetmana-stefana-czarnieckiego.md;ETAP1_OK
-szlakiem jana zamoyskiego;https://odznaki.org/odznaka/szlakiem-jana-zamoyskiego/;C;;zasoby/odznaki/szlakiem-jana-zamoyskiego.md;ETAP1_OK
+szlakiem henryka sienkiewicza;https://odznaki.org/odznaka/szlakiem-henryka-sienkiewicza/;D;zasoby/odznaki/szlakiem-henryka-sienkiewicza.csv;zasoby/odznaki/szlakiem-henryka-sienkiewicza.md;ETAP2_OK
+szlakiem hetmana stefana czarnieckiego;https://odznaki.org/odznaka/szlakiem-hetmana-stefana-czarnieckiego/;C;zasoby/odznaki/szlakiem-hetmana-stefana-czarnieckiego.csv;zasoby/odznaki/szlakiem-hetmana-stefana-czarnieckiego.md;ETAP2_OK
+szlakiem jana zamoyskiego;https://odznaki.org/odznaka/szlakiem-jana-zamoyskiego/;C;zasoby/odznaki/szlakiem-jana-zamoyskiego.csv;zasoby/odznaki/szlakiem-jana-zamoyskiego.md;ETAP2_OK
 szlakiem krola stanislawa leszczynskiego;https://odznaki.org/odznaka/szlakiem-krola-stanislawa-leszczynskiego/;D;;zasoby/odznaki/szlakiem-krola-stanislawa-leszczynskiego.md;ETAP1_OK
 szlakiem kultu maryjnego w polsce;https://odznaki.org/odznaka/szlakiem-kultu-maryjnego-w-polsce/;C;;zasoby/odznaki/szlakiem-kultu-maryjnego-w-polsce.md;ETAP1_OK
 szlakiem latarn morskich polskiego wybrzeza;https://odznaki.org/odznaka/szlakiem-latarn-morskich-polskiego-wybrzeza/;C;;zasoby/odznaki/szlakiem-latarn-morskich-polskiego-wybrzeza.md;ETAP1_OK
 Szlakiem Legionów Józefa Piłsudskiego;https://odznaki.org/odznaka/szlakiem-legionow-jozefa-pilsudskiego/;C;;zasoby/odznaki/szlakiem-legionow-jozefa-pilsudskiego.md;ETAP1_OK
-Szlakiem Mazurka Dąbrowskiego;https://odznaki.org/odznaka/szlakiem-mazurka-dabrowskiego/;C;;zasoby/odznaki/szlakiem-mazurka-dabrowskiego.md;ETAP1_OK
-Szlakiem Mikołaja Reja;https://odznaki.org/odznaka/szlakiem-mikolaja-reja/;C;;zasoby/odznaki/szlakiem-mikolaja-reja.md;ETAP1_OK
+Szlakiem Mazurka Dąbrowskiego;https://odznaki.org/odznaka/szlakiem-mazurka-dabrowskiego/;C;zasoby/odznaki/szlakiem-mazurka-dabrowskiego.csv;zasoby/odznaki/szlakiem-mazurka-dabrowskiego.md;ETAP2_OK
+Szlakiem Mikołaja Reja;https://odznaki.org/odznaka/szlakiem-mikolaja-reja/;C;zasoby/odznaki/szlakiem-mikolaja-reja.csv;zasoby/odznaki/szlakiem-mikolaja-reja.md;ETAP2_OK
 Szlakiem Pomników Historii Polski;https://odznaki.org/odznaka/szlakiem-pomnikow-historii-polski/;C;;zasoby/odznaki/szlakiem-pomnikow-historii-polski.md;ETAP1_OK
 Szlakiem Pomników Historii w Polsce;https://odznaki.org/odznaka/szlakiem-pomnikow-historii-w-polsce/;C;;zasoby/odznaki/szlakiem-pomnikow-historii-w-polsce.md;ETAP1_OK
-Szlakiem Powstania Styczniowego na Ziemiach Polskich;https://odznaki.org/odznaka/szlakiem-powstania-styczniowego-na-ziemiach-polskich/;C;;zasoby/odznaki/szlakiem-powstania-styczniowego-na-ziemiach-polskich.md;ETAP1_OK
-Szlakiem Protestantyzmu w Polsce;https://odznaki.org/odznaka/szlakiem-protestantyzmu-w-polsce/;C;;zasoby/odznaki/szlakiem-protestantyzmu-w-polsce.md;ETAP1_OK
-Szlakiem Reymonta;https://odznaki.org/odznaka/szlakiem-reymonta/;C;;zasoby/odznaki/szlakiem-reymonta.md;ETAP1_OK
-Szlakiem Wincentego Pola;https://odznaki.org/odznaka/szlakiem-wincentego-pola/;C;;zasoby/odznaki/szlakiem-wincentego-pola.md;ETAP1_OK
+Szlakiem Powstania Styczniowego na Ziemiach Polskich;https://odznaki.org/odznaka/szlakiem-powstania-styczniowego-na-ziemiach-polskich/;C;zasoby/odznaki/szlakiem-powstania-styczniowego-na-ziemiach-polskich.csv;zasoby/odznaki/szlakiem-powstania-styczniowego-na-ziemiach-polskich.md;ETAP2_OK
+Szlakiem Protestantyzmu w Polsce;https://odznaki.org/odznaka/szlakiem-protestantyzmu-w-polsce/;C;zasoby/odznaki/szlakiem-protestantyzmu-w-polsce.csv;zasoby/odznaki/szlakiem-protestantyzmu-w-polsce.md;ETAP2_OK
+Szlakiem Reymonta;https://odznaki.org/odznaka/szlakiem-reymonta/;C;zasoby/odznaki/szlakiem-reymonta.csv;zasoby/odznaki/szlakiem-reymonta.md;ETAP2_OK
+Szlakiem Wincentego Pola;https://odznaki.org/odznaka/szlakiem-wincentego-pola/;C;zasoby/odznaki/szlakiem-wincentego-pola.csv;zasoby/odznaki/szlakiem-wincentego-pola.md;ETAP2_OK
 Szlakiem Wrześniowych Virtuti Militari;https://odznaki.org/odznaka/szlakiem-wrzesniowych-virtuti-militari/;C;;zasoby/odznaki/szlakiem-wrzesniowych-virtuti-militari.md;ETAP1_OK
-Szlakiem Zabytków Światowego Dziedzictwa UNESCO w Polsce;https://odznaki.org/odznaka/szlakiem-zabytkow-swiatowego-dziedzictwa-unesco-w-polsce/;C;;zasoby/odznaki/szlakiem-zabytkow-swiatowego-dziedzictwa-unesco-w-polsce.md;ETAP1_OK
+Szlakiem Zabytków Światowego Dziedzictwa UNESCO w Polsce;https://odznaki.org/odznaka/szlakiem-zabytkow-swiatowego-dziedzictwa-unesco-w-polsce/;C;zasoby/odznaki/szlakiem-zabytkow-swiatowego-dziedzictwa-unesco-w-polsce.csv;zasoby/odznaki/szlakiem-zabytkow-swiatowego-dziedzictwa-unesco-w-polsce.md;ETAP2_OK
 Szlakiem architektury drewnianej w Polsce;https://odznaki.org/odznaka/szlakiem-architektury-drewnianej-w-polsce/;C;;zasoby/odznaki/szlakiem-architektury-drewnianej-w-polsce.md;ETAP1_OK
-Szlakiem architektury romańskiej w Polsce;https://odznaki.org/odznaka/szlakiem-architektury-romanskiej-w-polsce/;C;;zasoby/odznaki/szlakiem-architektury-romanskiej-w-polsce.md;ETAP1_OK
-Szlakiem chrześcijaństwa wschodniego w Polsce;https://odznaki.org/odznaka/szlakiem-chrzescijanstwa-wschodniego-w-polsce/;C;;zasoby/odznaki/szlakiem-chrzescijanstwa-wschodniego-w-polsce.md;ETAP1_OK
+Szlakiem architektury romańskiej w Polsce;https://odznaki.org/odznaka/szlakiem-architektury-romanskiej-w-polsce/;C;zasoby/odznaki/szlakiem-architektury-romanskiej-w-polsce.csv;zasoby/odznaki/szlakiem-architektury-romanskiej-w-polsce.md;ETAP2_OK
+Szlakiem chrześcijaństwa wschodniego w Polsce;https://odznaki.org/odznaka/szlakiem-chrzescijanstwa-wschodniego-w-polsce/;C;zasoby/odznaki/szlakiem-chrzescijanstwa-wschodniego-w-polsce.csv;zasoby/odznaki/szlakiem-chrzescijanstwa-wschodniego-w-polsce.md;ETAP2_OK
 Szlakiem drewnianych kościołów;https://odznaki.org/odznaka/szlakiem-drewnianych-kosciolow/;C;;zasoby/odznaki/szlakiem-drewnianych-kosciolow.md;ETAP1_OK
-Szlakiem fortyfikacji i podziemi;https://odznaki.org/odznaka/szlakiem-fortyfikacji-i-podziemi/;C;;zasoby/odznaki/szlakiem-fortyfikacji-i-podziemi.md;ETAP1_OK
-Szlakiem generała Mariusza Zaruskiego;https://odznaki.org/odznaka/szlakiem-generala-mariusza-zaruskiego/;C;;zasoby/odznaki/szlakiem-generala-mariusza-zaruskiego.md;ETAP1_OK
-Szlakiem klasztorów i opactw w Polsce;https://odznaki.org/odznaka/szlakiem-klasztorow-i-opactw-w-polsce/;C;;zasoby/odznaki/szlakiem-klasztorow-i-opactw-w-polsce.md;ETAP1_OK
-Szlakiem kopców w Polsce;https://odznaki.org/odznaka/szlakiem-kopcow-w-polsce/;C;;zasoby/odznaki/szlakiem-kopcow-w-polsce.md;ETAP1_OK
-Szlakiem koronowanych sanktuariów Maryjnych w Polsce;https://odznaki.org/odznaka/szlakiem-koronowanych-sanktuariow-maryjnych-w-polsce/;C;;zasoby/odznaki/szlakiem-koronowanych-sanktuariow-maryjnych-w-polsce.md;ETAP1_OK
-Szlakiem małych miasteczek;https://odznaki.org/odznaka/szlakiem-malych-miasteczek/;C;;zasoby/odznaki/szlakiem-malych-miasteczek.md;ETAP1_OK
-Szlakiem piramid w Polsce;https://odznaki.org/odznaka/szlakiem-piramid-w-polsce/;C;;zasoby/odznaki/szlakiem-piramid-w-polsce.md;ETAP1_OK
-Szlakiem podziemnych tras turystycznych w Polsce;https://odznaki.org/odznaka/szlakiem-podziemnych-tras-turystycznych-w-polsce/;C;;zasoby/odznaki/szlakiem-podziemnych-tras-turystycznych-w-polsce.md;ETAP1_OK
-Szlakiem rezydencji królów i książąt;https://odznaki.org/odznaka/szlakiem-rezydencji-krolow-i-ksiazat/;C;;zasoby/odznaki/szlakiem-rezydencji-krolow-i-ksiazat.md;ETAP1_OK
-Szlakiem rynków i ratuszy w Polsce;https://odznaki.org/odznaka/szlakiem-rynkow-i-ratuszy-w-polsce/;C;;zasoby/odznaki/szlakiem-rynkow-i-ratuszy-w-polsce.md;ETAP1_OK
-Szlakiem walk Batalionów Chłopskich;https://odznaki.org/odznaka/szlakiem-walk-batalionow-chlopskich/;C;;zasoby/odznaki/szlakiem-walk-batalionow-chlopskich.md;ETAP1_OK
-Szlakiem wsi - dawnych miast;https://odznaki.org/odznaka/szlakiem-wsi-dawnych-miast/;C;;zasoby/odznaki/szlakiem-wsi-dawnych-miast.md;ETAP1_OK
-Szlakiem zabytkowych mostów w Polsce;https://odznaki.org/odznaka/szlakiem-zabytkowych-mostow-w-polsce/;C;;zasoby/odznaki/szlakiem-zabytkowych-mostow-w-polsce.md;ETAP1_OK
-Szlakiem zabytków archeologicznych w Polsce;https://odznaki.org/odznaka/szlakiem-zabytkow-archeologicznych-w-polsce/;C;;zasoby/odznaki/szlakiem-zabytkow-archeologicznych-w-polsce.md;ETAP1_OK
-Szlakiem zabytków dawnego prawa na Ziemiach Polskich;https://odznaki.org/odznaka/szlakiem-zabytkow-dawnego-prawa-na-ziemiach-polskich/;C;;zasoby/odznaki/szlakiem-zabytkow-dawnego-prawa-na-ziemiach-polskich.md;ETAP1_OK
-Szlakiem zegarów wieżowych w Polsce;https://odznaki.org/odznaka/szlakiem-zegarow-wiezowych-w-polsce/;C;;zasoby/odznaki/szlakiem-zegarow-wiezowych-w-polsce.md;ETAP1_OK
-Szlakiem Świętej Faustyny Kowalskiej - patronki Łodzi;https://odznaki.org/odznaka/szlakiem-swietej-faustyny-kowalskiej-patronki-lodzi/;C;;zasoby/odznaki/szlakiem-swietej-faustyny-kowalskiej-patronki-lodzi.md;ETAP1_OK
-Szlakiem Żydów w Polsce;https://odznaki.org/odznaka/szlakiem-zydow-w-polsce/;C;;zasoby/odznaki/szlakiem-zydow-w-polsce.md;ETAP1_OK
+Szlakiem fortyfikacji i podziemi;https://odznaki.org/odznaka/szlakiem-fortyfikacji-i-podziemi/;C;zasoby/odznaki/szlakiem-fortyfikacji-i-podziemi.csv;zasoby/odznaki/szlakiem-fortyfikacji-i-podziemi.md;ETAP2_OK
+Szlakiem generała Mariusza Zaruskiego;https://odznaki.org/odznaka/szlakiem-generala-mariusza-zaruskiego/;C;zasoby/odznaki/szlakiem-generala-mariusza-zaruskiego.csv;zasoby/odznaki/szlakiem-generala-mariusza-zaruskiego.md;ETAP2_OK
+Szlakiem klasztorów i opactw w Polsce;https://odznaki.org/odznaka/szlakiem-klasztorow-i-opactw-w-polsce/;C;zasoby/odznaki/szlakiem-klasztorow-i-opactw-w-polsce.csv;zasoby/odznaki/szlakiem-klasztorow-i-opactw-w-polsce.md;ETAP2_OK
+Szlakiem kopców w Polsce;https://odznaki.org/odznaka/szlakiem-kopcow-w-polsce/;C;zasoby/odznaki/szlakiem-kopcow-w-polsce.csv;zasoby/odznaki/szlakiem-kopcow-w-polsce.md;ETAP2_OK
+Szlakiem koronowanych sanktuariów Maryjnych w Polsce;https://odznaki.org/odznaka/szlakiem-koronowanych-sanktuariow-maryjnych-w-polsce/;C;zasoby/odznaki/szlakiem-koronowanych-sanktuariow-maryjnych-w-polsce.csv;zasoby/odznaki/szlakiem-koronowanych-sanktuariow-maryjnych-w-polsce.md;ETAP2_OK
+Szlakiem małych miasteczek;https://odznaki.org/odznaka/szlakiem-malych-miasteczek/;C;zasoby/odznaki/szlakiem-malych-miasteczek.csv;zasoby/odznaki/szlakiem-malych-miasteczek.md;ETAP2_OK
+Szlakiem piramid w Polsce;https://odznaki.org/odznaka/szlakiem-piramid-w-polsce/;C;zasoby/odznaki/szlakiem-piramid-w-polsce.csv;zasoby/odznaki/szlakiem-piramid-w-polsce.md;ETAP2_OK
+Szlakiem podziemnych tras turystycznych w Polsce;https://odznaki.org/odznaka/szlakiem-podziemnych-tras-turystycznych-w-polsce/;C;zasoby/odznaki/szlakiem-podziemnych-tras-turystycznych-w-polsce.csv;zasoby/odznaki/szlakiem-podziemnych-tras-turystycznych-w-polsce.md;ETAP2_OK
+Szlakiem rezydencji królów i książąt;https://odznaki.org/odznaka/szlakiem-rezydencji-krolow-i-ksiazat/;C;zasoby/odznaki/szlakiem-rezydencji-krolow-i-ksiazat.csv;zasoby/odznaki/szlakiem-rezydencji-krolow-i-ksiazat.md;ETAP2_OK
+Szlakiem rynków i ratuszy w Polsce;https://odznaki.org/odznaka/szlakiem-rynkow-i-ratuszy-w-polsce/;C;zasoby/odznaki/szlakiem-rynkow-i-ratuszy-w-polsce.csv;zasoby/odznaki/szlakiem-rynkow-i-ratuszy-w-polsce.md;ETAP2_OK
+Szlakiem walk Batalionów Chłopskich;https://odznaki.org/odznaka/szlakiem-walk-batalionow-chlopskich/;C;zasoby/odznaki/szlakiem-walk-batalionow-chlopskich.csv;zasoby/odznaki/szlakiem-walk-batalionow-chlopskich.md;ETAP2_OK
+Szlakiem wsi - dawnych miast;https://odznaki.org/odznaka/szlakiem-wsi-dawnych-miast/;C;zasoby/odznaki/szlakiem-wsi-dawnych-miast.csv;zasoby/odznaki/szlakiem-wsi-dawnych-miast.md;ETAP2_OK
+Szlakiem zabytkowych mostów w Polsce;https://odznaki.org/odznaka/szlakiem-zabytkowych-mostow-w-polsce/;C;zasoby/odznaki/szlakiem-zabytkowych-mostow-w-polsce.csv;zasoby/odznaki/szlakiem-zabytkowych-mostow-w-polsce.md;ETAP2_OK
+Szlakiem zabytków archeologicznych w Polsce;https://odznaki.org/odznaka/szlakiem-zabytkow-archeologicznych-w-polsce/;C;zasoby/odznaki/szlakiem-zabytkow-archeologicznych-w-polsce.csv;zasoby/odznaki/szlakiem-zabytkow-archeologicznych-w-polsce.md;ETAP2_OK
+Szlakiem zabytków dawnego prawa na Ziemiach Polskich;https://odznaki.org/odznaka/szlakiem-zabytkow-dawnego-prawa-na-ziemiach-polskich/;C;zasoby/odznaki/szlakiem-zabytkow-dawnego-prawa-na-ziemiach-polskich.csv;zasoby/odznaki/szlakiem-zabytkow-dawnego-prawa-na-ziemiach-polskich.md;ETAP2_OK
+Szlakiem zegarów wieżowych w Polsce;https://odznaki.org/odznaka/szlakiem-zegarow-wiezowych-w-polsce/;C;zasoby/odznaki/szlakiem-zegarow-wiezowych-w-polsce.csv;zasoby/odznaki/szlakiem-zegarow-wiezowych-w-polsce.md;ETAP2_OK
+Szlakiem Świętej Faustyny Kowalskiej - patronki Łodzi;https://odznaki.org/odznaka/szlakiem-swietej-faustyny-kowalskiej-patronki-lodzi/;C;zasoby/odznaki/szlakiem-swietej-faustyny-kowalskiej-patronki-lodzi.csv;zasoby/odznaki/szlakiem-swietej-faustyny-kowalskiej-patronki-lodzi.md;ETAP2_OK
+Szlakiem Żydów w Polsce;https://odznaki.org/odznaka/szlakiem-zydow-w-polsce/;C;zasoby/odznaki/szlakiem-zydow-w-polsce.csv;zasoby/odznaki/szlakiem-zydow-w-polsce.md;ETAP2_OK
 Szlakiem żołnierskich nieśmiertelników 1939;https://odznaki.org/odznaka/szlakiem-zolnierskich-niesmiertelnikow-1939/;C;;zasoby/odznaki/szlakiem-zolnierskich-niesmiertelnikow-1939.md;ETAP1_OK
 Testowa odznaka;https://odznaki.org/odznaka/testowa-odznaka/;D;;zasoby/odznaki/testowa-odznaka.md;ETAP1_OK
-Tiara Polskich Gór;https://odznaki.org/odznaka/tiara-polskich-gor/;C;;zasoby/odznaki/tiara-polskich-gor.md;ETAP1_OK
+Tiara Polskich Gór;https://odznaki.org/odznaka/tiara-polskich-gor/;C;zasoby/odznaki/tiara-polskich-gor.csv;zasoby/odznaki/tiara-polskich-gor.md;ETAP2_OK
 Tropiciel Przyrody;https://odznaki.org/odznaka/tropiciel-przyrody/;C;;zasoby/odznaki/tropiciel-przyrody.md;ETAP1_OK
 Trójstyki granic Polski;https://odznaki.org/odznaka/trojstyki-granic-polski/;C;;zasoby/odznaki/trojstyki-granic-polski.md;ETAP1_OK
-Trójstyki granic RP;https://odznaki.org/odznaka/trojstyki-granic-rp/;C;;zasoby/odznaki/trojstyki-granic-rp.md;ETAP1_OK
+Trójstyki granic RP;https://odznaki.org/odznaka/trojstyki-granic-rp/;C;zasoby/odznaki/trojstyki-granic-rp.csv;zasoby/odznaki/trojstyki-granic-rp.md;ETAP2_OK
 Turysta Senior;https://odznaki.org/odznaka/turysta-senior/;C;;zasoby/odznaki/turysta-senior.md;ETAP1_OK
 Turysta przyrodnik;https://odznaki.org/odznaka/turysta-przyrodnik/;C;;zasoby/odznaki/turysta-przyrodnik.md;ETAP1_OK
 Turystka Juniorka / Turysta Junior;https://odznaki.org/odznaka/turystka-juniorka-turysta-junior/;C;;zasoby/odznaki/turystka-juniorka-turysta-junior.md;ETAP1_OK
 Turystyczna Odznaka Kajakowa;https://odznaki.org/odznaka/turystyczna-odznaka-kajakowa/;C;;zasoby/odznaki/turystyczna-odznaka-kajakowa.md;ETAP1_OK
 Turystyczna Rodzinka;https://odznaki.org/odznaka/turystyczna-rodzinka/;C;;zasoby/odznaki/turystyczna-rodzinka.md;ETAP1_OK
-Twierdze nowożytne RP;https://odznaki.org/odznaka/twierdze-nowozytne-rp/;C;;zasoby/odznaki/twierdze-nowozytne-rp.md;ETAP1_OK
+Twierdze nowożytne RP;https://odznaki.org/odznaka/twierdze-nowozytne-rp/;C;zasoby/odznaki/twierdze-nowozytne-rp.csv;zasoby/odznaki/twierdze-nowozytne-rp.md;ETAP2_OK
 Tysięczniki Polskich Gór;https://odznaki.org/odznaka/tysieczniki-polskich-gor/;C;;zasoby/odznaki/tysieczniki-polskich-gor.md;ETAP1_OK
 Tysięczniki Trzech Narodów;https://odznaki.org/odznaka/tysieczniki-trzech-narodow/;C;;zasoby/odznaki/tysieczniki-trzech-narodow.md;ETAP1_OK

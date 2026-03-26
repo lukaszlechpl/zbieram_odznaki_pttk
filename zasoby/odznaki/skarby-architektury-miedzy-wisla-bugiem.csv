@@ -1,78 +1,87 @@
-﻿nazwa_obiektu;wojewodztwo;kategoria_obiektu;adres;wspolrzedne;wikipedia_opis;google_maps_link;stopien_odznaki
-10;Goab;Puawy;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/10%20puawski%20Polska;lubelskie
-11;Gorzno;Garwolin;garwolinski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/11%20garwolinski%20Polska;mazowieckie
-12;Grodek;Hrubieszow;hrubieszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/12%20hrubieszowski%20Polska;lubelskie
-13;Hrebenne;Lubycza Krolewska;tomaszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/13%20tomaszowski%20Polska;lubelskie
-14;Huszlew;Huszlew;osicki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/14%20osicki%20Polska;mazowieckie
-15;Jabeczna;Sawatycze;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/15%20bialski%20Polska;lubelskie
-16;Janowiec;Janowiec;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/16%20puawski%20Polska;lubelskie
-17;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/17%20puawski%20Polska;lubelskie
-18;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/18%20puawski%20Polska;lubelskie
-19;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/19%20puawski%20Polska;lubelskie
-20;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/20%20puawski%20Polska;lubelskie
-21;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/21%20puawski%20Polska;lubelskie
-22;Kazimierz Dolny;Kazimierz Dolny;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/22%20puawski%20Polska;lubelskie
-23;Kock;Kock;lubartowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/23%20lubartowski%20Polska;lubelskie
-24;Koden;Koden;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/24%20bialski%20Polska;lubelskie
-25;Korczew;Korczew;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/25%20siedlecki%20Polska;mazowieckie
-26;Kostomoty;Koden;bielski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/26%20bielski%20Polska;lubelskie
-27;Kozowka;Kamionka;lubartowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/27%20lubartowski%20Polska;lubelskie
-28;Krasnobrod;Krasnobrod;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/28%20zamojski%20Polska;lubelskie
-29;Krasnobrod;Krasnobrod;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/29%20zamojski%20Polska;lubelskie
-30;Krupe;Krasnystaw;krasnostawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/30%20krasnostawski%20Polska;lubelskie
-31;Kryow;Mircze;hrubieszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/31%20hrubieszowski%20Polska;lubelskie
-32;Lesna Podlaska;Lesna Podlaska;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/32%20bialski%20Polska;lubelskie
-33;Liw;Liw;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/33%20wegrowski%20Polska;mazowieckie
-34;Lubartow;Lubartow;lubartowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/34%20lubartowski%20Polska;lubelskie
-35;Krynica;Krasnystaw;krasnostawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/35%20krasnostawski%20Polska;lubelskie
-36;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/36%20Lublin%20Polska;lubelskie
-37;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/37%20Lublin%20Polska;lubelskie
-38;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/38%20Lublin%20Polska;lubelskie
-39;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/39%20Lublin%20Polska;lubelskie
-40;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/40%20Lublin%20Polska;lubelskie
-41;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/41%20Lublin%20Polska;lubelskie
-42;Lublin;Lublin;Lublin;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/42%20Lublin%20Polska;lubelskie
-43;azek Ordynacki;Janow Lubelski;janowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/43%20janowski%20Polska;lubelskie
-44;eczna;eczna;eczynski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/44%20eczynski%20Polska;lubelski
-45;Modliborzyce;Modliborzyce;janowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/45%20janowski%20Polska;lubelskie
-46;Naeczow;Naeczow;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/46%20puawski%20Polska;lubelskie
-47;Naeczow;Naeczow;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/47%20puawski%20Polska;lubelskie
-48;Neple;Terespol;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/48%20bialski%20Polska;lubelskie
-49;Niezdow;Opole Lubelskie;opolski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/49%20opolski%20Polska;lubelskie
-50;Ortel Krolewski;Piszczac;bialski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/50%20bialski%20Polska;lubelskie
-51;Piotrawin;aziska;opolski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/51%20opolski%20Polska;lubelskie
-52;Podzamcze Bychawskie;Bychawa;lubelski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/52%20lubelski%20Polska;lubelskie
-53;Puawy;Puawy;puawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/53%20puawski%20Polska;lubelskie
-54;Radzyn Podlaski;Radzyn Podlaski;radzynski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/54%20radzynski%20Polska;lubelskie
-55;Rejowiec;Rejowiec;chemski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/55%20chemski%20Polska;lubelskie
-56;Rozwadow;Ulan-Majorat;radzynski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/56%20radzynski%20Polska;lubelskie
-57;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/57%20sandomierski%20Polska;swietokrzyskie
-58;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/58%20sandomierski%20Polska;swietokrzyskie
-59;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/59%20sandomierski%20Polska;swietokrzyskie
-60;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/60%20sandomierski%20Polska;swietokrzyskie
-61;Sandomierz;Sandomierz;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/61%20sandomierski%20Polska;swietokrzyskie
-62;Siedlce;Siedlce;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/62%20siedlecki%20Polska;mazowieckie
-63;Siedlce;Siedlce;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/63%20siedlecki%20Polska;mazowieckie
-64;Siedlce;Siedlce;siedlecki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/64%20siedlecki%20Polska;mazowieckie
-65;Starawies;Liw;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/65%20wegrowski%20Polska;mazowieckie
-66;Sterdyn;Sterdyn;sokoowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/66%20sokoowski%20Polska;mazowieckie
-67;Stopie;Chem;chemski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/67%20chemski%20Polska;lubelskie
-68;Studzianki;Wasilkow;biaostocki;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/68%20biaostocki%20Polska;podlaskie
-69;Szczebrzeszyn;Szczebrzeszyn;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/69%20zamojski%20Polska;lubelskie
-70;Szczebrzeszyn;Szczebrzeszyn;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/70%20zamojski%20Polska;lubelskie
-71;Tarnobrzeg;Tarnobrzeg;tarnobrzeski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/71%20tarnobrzeski%20Polska;podkarpackie
-72;Tarnobrzeg - Dzikow;Tarnobrzeg;tarnobrzeski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/72%20tarnobrzeski%20Polska;podkarpackie
-73;Tomaszow Lubelski;Tomaszow Lubelski;tomaszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/73%20tomaszowski%20Polska;lubelskie
-74;Uchanie;Uchanie;hrubieszowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/74%20hrubieszowski%20Polska;lubelskie
-75;Wegrow;Wegrow;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/75%20wegrowski%20Polska;mazowieckie
-76;Wegrow;Wegrow;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/76%20wegrowski%20Polska;mazowieckie
-77;Wegrow;Wegrow;wegrowski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/77%20wegrowski%20Polska;mazowieckie
-78;Wodawa;Wodawa;wodawski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/78%20wodawski%20Polska;lubelskie
-79;Zaklikow;Zaklikow;stalowowolski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/79%20stalowowolski%20Polska;podkarpackie
-80;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/80%20zamojski%20Polska;lubelskie
-81;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/81%20zamojski%20Polska;lubelskie
-82;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/82%20zamojski%20Polska;lubelskie
-83;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/83%20zamojski%20Polska;lubelskie
-84;Zamosc;Zamosc;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/84%20zamojski%20Polska;lubelskie
-85;Zawichost;Zawichost;sandomierski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/85%20sandomierski%20Polska;swietokrzyskie
-86;Zwierzyniec;Zwierzyniec;zamojski;MANUAL_CHECK;Pozycja z kanonu odznaki, wymaga weryfikacji terenowej i doprecyzowania lokalizacji.;https://www.google.com/maps/search/86%20zamojski%20Polska;lubelskie
+nazwa_obiektu;region;kategoria_obiektu;adres;maps_url;lokalizacja
+Baranów Sandomierski;;;Baranów Sandomierski, Polska;https://www.google.com/maps/place/?q=place_id:ChIJD2e4IhVGPUcRUWOOKfs9nKE;50.498985,21.5417402
+Biała Podlaska;;;21-500 Biała Podlaska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJV2mmWyaRIUcRk-B-PX6DbVk;52.0338207,23.1202175
+Biała Podlaska;;;21-500 Biała Podlaska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJV2mmWyaRIUcRk-B-PX6DbVk;52.0338207,23.1202175
+Borowica;;;22-351 Borowica, Polska;https://www.google.com/maps/place/?q=place_id:ChIJuc38RXUKI0cRLAwq2RKnvIo;51.0684891,23.12626
+Chełm;;;Chełm, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ36UeUliaI0cR9vky0FB9vlI;51.1431232,23.4711986
+Chełm;;;Chełm, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ36UeUliaI0cR9vky0FB9vlI;51.1431232,23.4711986
+Chełm;;;Chełm, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ36UeUliaI0cR9vky0FB9vlI;51.1431232,23.4711986
+Chodlik;;;Chodlik, Polska;https://www.google.com/maps/place/?q=place_id:ChIJd4qFJeWFIkcRFcqYKoR5inM;51.2119994,21.9301125
+Czemierniki;;;Czemierniki, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ2WJyUAo9IkcROCnN-HWGDiU;51.6726476,22.6385451
+Gołąb;;;24-100 Gołąb, Polska;https://www.google.com/maps/place/?q=place_id:ChIJn2kGH7eCGEcRojvuYasW18k;51.4874297,21.8761824
+Górzno;;;Górzno, Polska;https://www.google.com/maps/place/?q=place_id:ChIJiblBdd8CHUcRLgoq7KiaJ_4;53.1980031,19.6444061
+Gródek;;;Gródek, Polska;https://www.google.com/maps/place/?q=place_id:ChIJx8bttjIIIEcRaqPfZHEIKKg;53.0955034,23.6595152
+Hrebenne;;;Hrebenne, Polska;https://www.google.com/maps/place/?q=place_id:ChIJoX06sie1JEcRjjvJ-wAr8as;50.2814381,23.5813745
+Huszlew;;;08-206 Huszlew, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ-3zQeQ7pIUcRVHQQERCdbIU;52.1373793,22.8399361
+Jabłeczna;;;21-526 Jabłeczna, Polska;https://www.google.com/maps/place/?q=place_id:ChIJdbxAmNNkIUcR2qFXimIuLF8;51.8065758,23.599393
+Janowiec;;;24-123 Janowiec, Polska;https://www.google.com/maps/place/?q=place_id:ChIJwfX7MA5-IkcRbhRT0Nw2Z9M;51.3235142,21.890312
+Kazimierz Dolny;;;Kazimierz Dolny, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTemGEId9IkcRqj6G9QUTpJo;51.3180409,21.9542482
+Kazimierz Dolny;;;Kazimierz Dolny, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTemGEId9IkcRqj6G9QUTpJo;51.3180409,21.9542482
+Kazimierz Dolny;;;Kazimierz Dolny, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTemGEId9IkcRqj6G9QUTpJo;51.3180409,21.9542482
+Kazimierz Dolny;;;Kazimierz Dolny, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTemGEId9IkcRqj6G9QUTpJo;51.3180409,21.9542482
+Kazimierz Dolny;;;Kazimierz Dolny, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTemGEId9IkcRqj6G9QUTpJo;51.3180409,21.9542482
+Kazimierz Dolny;;;Kazimierz Dolny, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTemGEId9IkcRqj6G9QUTpJo;51.3180409,21.9542482
+Kock;;;Kock, Polska;https://www.google.com/maps/place/?q=place_id:ChIJS6WQlVkRIkcRpu_kNpdUAkE;51.64122,22.44796
+Kodeń;;;Kodeń, Polska;https://www.google.com/maps/place/?q=place_id:ChIJo1IjfAVxIUcRsOTIcudaWC0;51.9143932,23.6072498
+Korczew;;;08-108 Korczew, Polska;https://www.google.com/maps/place/?q=place_id:ChIJm5ri6WtiH0cRplgmGN6G5-0;52.3530467,22.613639
+Kostomłoty;;;;NOT_FOUND;
+Kozłówka;;;21-132 Kozłówka, Polska;https://www.google.com/maps/place/?q=place_id:ChIJVe7e7DJCIkcRDGurs67oHRk;51.44913039999999,22.4971746
+Krasnobród;;;22-440 Krasnobród, Polska;https://www.google.com/maps/place/?q=place_id:ChIJs62jR-pZI0cRvLi7kVXlcEc;50.5453129,23.213387
+Krasnobród;;;22-440 Krasnobród, Polska;https://www.google.com/maps/place/?q=place_id:ChIJs62jR-pZI0cRvLi7kVXlcEc;50.5453129,23.213387
+Krupe;;;22-302 Krupe, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ2852A2V1I0cRDvZf0g_9x8c;51.0343785,23.243396
+Kryłów;;;Kryłów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJVWnYR2TtJEcRRH_YVFp-C80;50.6841861,24.0564592
+Leśna Podlaska;;;21-542 Leśna Podlaska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ8ZIgEzaVIUcRE4HocQGWVnY;52.13163950000001,23.0297501
+Liw;;;Liw, Polska;https://www.google.com/maps/place/?q=place_id:ChIJtxjBp_MVH0cRe3dLYtC3_-A;52.3718313,21.9623939
+Lubartów;;;21-100 Lubartów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJhTjB2r5GIkcR_mYn-z-ZYJQ;51.4598694,22.6094606
+Krynica;;;Krynica-Zdrój, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ91-BUAV2PkcR-S7CPByZiEs;49.4215158,20.9594208
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Łążek Ordynacki;;;Łążek Ordynacki, Polska;https://www.google.com/maps/place/?q=place_id:ChIJlV1WphDWIkcRJADN2a-uxQI;50.6410936,22.2860774
+Łęczna;;;Łęczna, Polska;https://www.google.com/maps/place/?q=place_id:ChIJoektmaWyI0cR6sMqbDSCX2Q;51.3009,22.88211
+Modliborzyce;;;23-310 Modliborzyce, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ-yRxCALZIkcRfGATOv55WvQ;50.75416380000001,22.3294471
+Nałęczów;;;Nałęczów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJNXa1DrRhIkcRjgNfEKN0vMs;51.28567,22.215293
+Nałęczów;;;Nałęczów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJNXa1DrRhIkcRjgNfEKN0vMs;51.28567,22.215293
+Neple;;;21-550 Neple, Polska;https://www.google.com/maps/place/?q=place_id:ChIJDx8VpN6gIUcRlIbntl3T8h0;52.123192,23.5257137
+Niezdów;;;24-300 Niezdów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJoyBX8e2PIkcRWpdlhBTEBLo;51.1519516,21.9209384
+Ortel Królewski;;;Ortel Królewski Pierwszy, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ2-w_q6GbIUcR03b7Ar2AJ1o;51.973154,23.2707758
+Piotrawin;;;Piotrawin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJkbEml0aaIkcRjP1EpS5ZXvA;51.1007151,21.800577
+Podzamcze Bychawskie;;;Bychawska, 24-220, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ3bSsGZjwIkcRqmTp7QbmR8Q;51.1053796,22.4023285
+Puławy;;;Puławy, Polska;https://www.google.com/maps/place/?q=place_id:ChIJJe9CeHp5IkcRcWf3ruC3ekM;51.4164431,21.969309
+Radzyń Podlaski;;;21-300 Radzyń Podlaski, Polska;https://www.google.com/maps/place/?q=place_id:ChIJSTRwJyUZIkcRnMHaB0PiEwE;51.78320249999999,22.6218532
+Rejowiec;;;22-360 Rejowiec, Polska;https://www.google.com/maps/place/?q=place_id:ChIJo7zTlRKfI0cREKSGWEleNZE;51.091113,23.281701
+Rozwadów;;;Rozwadów, 37-450 Stalowa Wola, Polska;https://www.google.com/maps/place/?q=place_id:ChIJO4PKTMTSIkcRQ7NzPbJhjKU;50.58953160000001,22.0503738
+Sandomierz;;;Sandomierz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJp0gk8Ae1IkcR58h5ymGZEB8;50.6822405,21.7501781
+Sandomierz;;;Sandomierz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJp0gk8Ae1IkcR58h5ymGZEB8;50.6822405,21.7501781
+Sandomierz;;;Sandomierz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJp0gk8Ae1IkcR58h5ymGZEB8;50.6822405,21.7501781
+Sandomierz;;;Sandomierz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJp0gk8Ae1IkcR58h5ymGZEB8;50.6822405,21.7501781
+Sandomierz;;;Sandomierz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJp0gk8Ae1IkcR58h5ymGZEB8;50.6822405,21.7501781
+Siedlce;;;Siedlce, Polska;https://www.google.com/maps/place/?q=place_id:ChIJZfBw9k1aH0cRvirnnqB2zEg;52.1676031,22.2901645
+Siedlce;;;Siedlce, Polska;https://www.google.com/maps/place/?q=place_id:ChIJZfBw9k1aH0cRvirnnqB2zEg;52.1676031,22.2901645
+Siedlce;;;Siedlce, Polska;https://www.google.com/maps/place/?q=place_id:ChIJZfBw9k1aH0cRvirnnqB2zEg;52.1676031,22.2901645
+Starawieś;;;07-100 Starawieś, Polska;https://www.google.com/maps/place/?q=place_id:ChIJg8CtZcUWH0cRzVx6_N-P6eI;52.4559483,21.9480672
+Sterdyń;;;08-320 Sterdyń, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ-_NdFpl0H0cRVf7L-Xb0kJM;52.5768719,22.297258
+Stołpie;;;22-151 Stołpie, Polska;https://www.google.com/maps/place/?q=place_id:ChIJEZRTUnaYI0cR3p6Twzr-rYA;51.17010089999999,23.3200335
+Studzianki;;;16-010 Studzianki, Polska;https://www.google.com/maps/place/?q=place_id:ChIJS6_QWHcB4EYR3e8iKZmqkEE;53.2370291,23.2837244
+Szczebrzeszyn;;;Szczebrzeszyn, Polska;https://www.google.com/maps/place/?q=place_id:ChIJGf0ePPFAI0cRukW_YbYZ508;50.6948235,22.9794788
+Szczebrzeszyn;;;Szczebrzeszyn, Polska;https://www.google.com/maps/place/?q=place_id:ChIJGf0ePPFAI0cRukW_YbYZ508;50.6948235,22.9794788
+Tarnobrzeg;;;Tarnobrzeg, Polska;https://www.google.com/maps/place/?q=place_id:ChIJsU2C2A1KPUcR86q7f2Z1CMc;50.5729079,21.6790698
+Tarnobrzeg - Dzików;;;Dzików, 39-400 Tarnobrzeg, Polska;https://www.google.com/maps/place/?q=place_id:ChIJkV6-iENKPUcRKmaj3tsjIJg;50.59983099999999,21.6838221
+Tomaszów Lubelski;;;22-600 Tomaszów Lubelski, Polska;https://www.google.com/maps/place/?q=place_id:ChIJFcyqxxGvJEcRjPXOCKzXaAI;50.447024,23.4163099
+Uchanie;;;22-510 Uchanie, Polska;https://www.google.com/maps/place/?q=place_id:ChIJr7KoVtSBJEcRUT0Rl3uxVy0;50.909268,23.6511021
+Węgrów;;;Węgrów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJi8tL9v8UH0cR0iLomjzeJs4;52.3991566,22.0164266
+Węgrów;;;Węgrów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJi8tL9v8UH0cR0iLomjzeJs4;52.3991566,22.0164266
+Węgrów;;;Węgrów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJi8tL9v8UH0cR0iLomjzeJs4;52.3991566,22.0164266
+Włodawa;;;Włodawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJVz6UdJPcI0cR1sNvburQ9fQ;51.55178,23.55434
+Zaklików;;;Zaklików, Polska;https://www.google.com/maps/place/?q=place_id:ChIJCyMdglvFIkcRGddGur0SzFg;50.7577772,22.1021741
+Zamość;;;22-400 Zamość, Polska;https://www.google.com/maps/place/?q=place_id:ChIJd9IR2q1nI0cRgKX4ApJFALo;50.7230879,23.2519685
+Zamość;;;22-400 Zamość, Polska;https://www.google.com/maps/place/?q=place_id:ChIJd9IR2q1nI0cRgKX4ApJFALo;50.7230879,23.2519685
+Zamość;;;22-400 Zamość, Polska;https://www.google.com/maps/place/?q=place_id:ChIJd9IR2q1nI0cRgKX4ApJFALo;50.7230879,23.2519685
+Zamość;;;22-400 Zamość, Polska;https://www.google.com/maps/place/?q=place_id:ChIJd9IR2q1nI0cRgKX4ApJFALo;50.7230879,23.2519685
+Zamość;;;22-400 Zamość, Polska;https://www.google.com/maps/place/?q=place_id:ChIJd9IR2q1nI0cRgKX4ApJFALo;50.7230879,23.2519685
+Zawichost;;;Zawichost, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ88moQyO4IkcR6Wsj6XAtN8A;50.8075698,21.8528832
+Zwierzyniec;;;22-470 Zwierzyniec, Polska;https://www.google.com/maps/place/?q=place_id:ChIJKyDVR9RFI0cRmX-xuN26Jos;50.61404,22.97512

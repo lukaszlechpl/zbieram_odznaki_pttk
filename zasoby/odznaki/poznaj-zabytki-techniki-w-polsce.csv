@@ -1,22 +1,161 @@
-nazwa_obiektu;wojewodztwo;kategoria_obiektu;adres;wspolrzedne;wikipedia_opis;google_maps_link;stopien_odznaki
-Zespol fabryczny na Ksiezym Mlynie;lodzkie;zabytek techniki;Lodz, rejon Ksiezy Mlyn;MANUAL_CHECK;Zespol Ksiezy Mlyn to jeden z najwazniejszych kompleksow przemyslu wlokiemniczego XIX wieku w Polsce, obejmujacy dawne hale, osiedla robotnicze i infrastrukture techniczna. Obiekt dokumentuje skale industrializacji Lodzi i przemiany spoleczne towarzyszace rozwojowi miasta-fabryki.;https://www.google.com/maps/search/Ksiezy+Mlyn+Lodz;STOPIEN_TECHNIKI
-Dawne Zaklady Bawelniane Izraela Poznanskiego;lodzkie;zabytek techniki;Lodz ul. Ogrodowa 17;MANUAL_CHECK;Dawna fabryka Izraela Poznanskiego, dzis teren Manufaktury i obiektow muzealnych, jest symbolem przemyslowej potegi XIX-wiecznej Lodzi. Zachowane budynki produkcyjne i zaplecze techniczne pokazuja skale nowoczesnej organizacji produkcji tekstylnej epoki przemyslowej.;https://www.google.com/maps/search/Manufaktura+Lodz+Ogrodowa+17;STOPIEN_TECHNIKI
-Fabryka Towarzystwa Akcyjnego Ludwika Geyera;lodzkie;zabytek techniki;Lodz, Biala Fabryka, ul. Piotrkowska 282;MANUAL_CHECK;Kompleks dawnej fabryki Ludwika Geyera, znany jako Biala Fabryka, nalezy do najstarszych i najwazniejszych obiektow przemyslu wlokienniczego w Lodzi. Dzis obiekt muzealny prezentuje maszyny i procesy technologiczne, dzieki czemu pozostaje kluczowym punktem edukacji technicznej.;https://www.google.com/maps/search/Biala+Fabryka+Lodz;STOPIEN_TECHNIKI
-Centralny zbiornik wody;lodzkie;infrastruktura techniczna;Lodz, Stoki;MANUAL_CHECK;Centralny zbiornik wody i zwiazane z nim urzadzenia to przyklad miejskiej infrastruktury wodociagowej rozwijanej wraz ze wzrostem Lodzi. Obiekty tego typu pokazuja zaplecze techniczne niezbędne dla przemyslu i mieszkanstwa oraz ewolucje systemow zaopatrzenia w wode.;https://www.google.com/maps/search/zbiornik+wody+Lodz;STOPIEN_TECHNIKI
-Centralne Muzeum Wlokiennictwa;lodzkie;muzeum techniki;Lodz ul. Piotrkowska 282;MANUAL_CHECK;Centralne Muzeum Wlokiennictwa dokumentuje rozwoj technologii tekstylnych oraz historie przemyslu, ktory uksztaltowal Lodz. Ekspozycje maszyn i narzedzi produkcyjnych pozwalaja zrozumiec przemiany techniczne od epoki manufaktur po nowoczesna produkcje przemyslowa.;https://www.google.com/maps/search/Centralne+Muzeum+Wlokiennictwa;STOPIEN_TECHNIKI
-Muzeum Kinematografii;lodzkie;muzeum techniki;Lodz pl. Zwyciestwa 1;MANUAL_CHECK;Muzeum Kinematografii prezentuje rozwoj technik filmowych, aparatury projekcyjnej i historii produkcji audiowizualnej w Polsce. Placowka laczy dziedzictwo artystyczne z aspektem technicznym, pokazujac jak urzadzenia rejestracji i projekcji obrazu zmienialy kulture i przemysl filmowy.;https://www.google.com/maps/search/Muzeum+Kinematografii+Lodz;STOPIEN_TECHNIKI
-Podmiejskie tramwaje;lodzkie;transport techniczny;Lodz i aglomeracja;MANUAL_CHECK;Historyczna siec podmiejskich tramwajow aglomeracji lodzkiej to unikalny element dziedzictwa transportowego regionu. Trasy laczace Lodz z okolicznymi miastami pokazuja znaczenie komunikacji szynowej w rozwoju przemyslu i codziennych dojazdow mieszkancow.;https://www.google.com/maps/search/tramwaje+podmiejskie+Lodz;STOPIEN_TECHNIKI
-Krosniewicka Kolej Dojazdowa;lodzkie;kolej waskotorowa;Krosniewice;MANUAL_CHECK;Krosniewicka Kolej Dojazdowa byla jedna z rozleglejszych sieci waskotorowych, obslugujaca przewozy lokalne i gospodarcze. Dzis jej pozostalosci i materialy dokumentacyjne sa istotnym swiadectwem historii kolei regionalnych i techniki transportu na terenach rolniczo-przemyslowych.;https://www.google.com/maps/search/Krosniewicka+Kolej+Dojazdowa;STOPIEN_TECHNIKI
-Spawany most drogowy na Sludwi;lodzkie;most techniczny;Maurzyce;MANUAL_CHECK;Most w Maurzycach na Sludwi to jeden z pionierskich przykladow zastosowania technologii spawania w konstrukcjach mostowych. Projekt inzyniera Stefana Bryly mial duze znaczenie dla rozwoju nowoczesnego mostownictwa i uznawany jest za przelom w historii polskiej inzynierii.;https://www.google.com/maps/search/Most+w+Maurzycach;STOPIEN_TECHNIKI
-Muzeum Motoryzacji;mazowieckie;muzeum techniki;Otrebusy ul. Warszawska 21;MANUAL_CHECK;Muzeum Motoryzacji gromadzi pojazdy, urzadzenia i dokumentacje zwiazana z historia transportu samochodowego. Ekspozycje pozwalaja sledzic rozwoj konstrukcji silnikowych i wzornictwa technicznego, pokazujac jak motoryzacja wplywala na gospodarke i codziennosc.;https://www.google.com/maps/search/Muzeum+Motoryzacji+Otrebusy;STOPIEN_TECHNIKI
-Rogowska Kolej Waskotorowa;lodzkie;kolej waskotorowa;Rogow ul. Dworcowa 37;MANUAL_CHECK;Rogowska Kolej Waskotorowa to czynny zabytek techniki transportowej, na ktorym organizowane sa przejazdy turystyczne taborem historycznym. Obiekt ma duza wartosc edukacyjna, bo pokazuje dzialanie tradycyjnych rozwiazan infrastrukturalnych i utrzymanie dziedzictwa kolejowego.;https://www.google.com/maps/search/Rogowska+Kolej+Waskotorowa;STOPIEN_TECHNIKI
-Muzealna Kolej Waskotorowa;mazowieckie;kolej waskotorowa;Sochaczew ul. Towarowa 7;MANUAL_CHECK;Muzealna Kolej Waskotorowa w Sochaczewie laczy funkcje muzeum i czynnej atrakcji technicznej, prezentujac historyczny tabor oraz infrastrukture kolejowa. To jedno z kluczowych miejsc dokumentujacych dzieje kolei waskotorowych i ich role w lokalnym transporcie.;https://www.google.com/maps/search/Muzealna+Kolej+Waskotorowa+Sochaczew;STOPIEN_TECHNIKI
-Dworzec PKP;lodzkie;zabytek infrastruktury;Skierniewice ul. Dworcowa;MANUAL_CHECK;Dworzec kolejowy w Skierniewicach reprezentuje rozwoj architektury kolejowej i znaczenie wezlow komunikacyjnych w historii regionu. Obiekt laczy wartosci uzytkowe i zabytkowe, ilustrujac jak infrastruktura kolejowa ksztaltowala urbanistyke i mobilnosc spoleczna.;https://www.google.com/maps/search/Dworzec+PKP+Skierniewice;STOPIEN_TECHNIKI
-Parowozownia;lodzkie;zabytek techniki kolejowej;Skierniewice ul. Lowiecka 1;MANUAL_CHECK;Parowozownia ze stanowiskami obslugi i obrotnica to klasyczny element zaplecza technicznego kolei parowej. Obiekty takie dokumentuja technologie utrzymania i eksploatacji taboru, a ich zachowanie ma duze znaczenie dla edukacji historyczno-technicznej.;https://www.google.com/maps/search/Parowozownia+Skierniewice;STOPIEN_TECHNIKI
-Muzeum Techniki;mazowieckie;muzeum techniki;Warszawa pl. Defilad 1;MANUAL_CHECK;Muzeum Techniki gromadzi eksponaty ilustrujace rozwoj inzynierii, przemyslu i wynalazczosci od XIX do XX wieku. Zbiory urzadzen mechanicznych, elektrotechnicznych i transportowych pozwalaja prześledzic tempo modernizacji kraju i miejsce Polski w historii techniki.;https://www.google.com/maps/search/Muzeum+Techniki+Warszawa;STOPIEN_TECHNIKI
-Muzeum Kolejnictwa;mazowieckie;muzeum techniki;Warszawa ul. Towarowa 1;MANUAL_CHECK;Muzeum Kolejnictwa dokumentuje dzieje transportu szynowego przez kolekcje lokomotyw, wagonow i artefaktow infrastruktury kolejowej. Placowka pokazuje ewolucje technologii trakcyjnych i organizacji przewozow, kluczowych dla rozwoju gospodarczego Polski.;https://www.google.com/maps/search/Muzeum+Kolejnictwa+Warszawa;STOPIEN_TECHNIKI
-Muzeum Gazownictwa;mazowieckie;muzeum techniki;Warszawa ul. Kasprzaka 25;MANUAL_CHECK;Muzeum Gazownictwa prezentuje urzadzenia i dokumenty zwiazane z rozwojem sieci gazowych oraz miejskiej energetyki. Dziedzictwo dawnej gazowni na Woli pokazuje, jak infrastruktura techniczna zmieniala standard zycia mieszkancow i funkcjonowanie nowoczesnego miasta.;https://www.google.com/maps/search/Muzeum+Gazownictwa+Warszawa;STOPIEN_TECHNIKI
-Zaklad Wodociagu Centralnego;mazowieckie;infrastruktura techniczna;Warszawa ul. Koszykowa 81;MANUAL_CHECK;Stacja Filtrów i towarzyszace obiekty wodociagowe to jeden z najwazniejszych zabytkow infrastruktury komunalnej Warszawy. Kompleks dokumentuje rozwoj technologii uzdatniania wody i nowoczesnego zarzadzania sieciami miejskimi, kluczowych dla zdrowia publicznego.;https://www.google.com/maps/search/Stacja+Filtrow+Warszawa;STOPIEN_TECHNIKI
-Wiadukt Mostu Poniatowskiego;mazowieckie;zabytek inzynierii;Warszawa al. Jerozolimskie;MANUAL_CHECK;Wiadukt Mostu Poniatowskiego jest elementem historycznej infrastruktury drogowo-kolejowej i waznym obiektem inzynierii miejskiej Warszawy. Konstrukcja laczy walory techniczne i architektoniczne, bedac swiadectwem rozwoju nowoczesnego mostownictwa w pierwszej polowie XX wieku.;https://www.google.com/maps/search/Wiadukt+Mostu+Poniatowskiego;STOPIEN_TECHNIKI
-Zabytkowa Osada Fabryczna;mazowieckie;zabytek techniki;Zyrardow ul. 1 Maja 1;MANUAL_CHECK;Osada Fabryczna w Zyrardowie to unikatowy zespol urbanistyczno-przemyslowy zwiazany z produkcja lnu i rozwojem miasta fabrycznego. Zachowany uklad zabudowy produkcyjnej, mieszkalnej i socjalnej dobrze obrazuje organizacje osrodkow przemyslowych przelomu XIX i XX wieku.;https://www.google.com/maps/search/Zabytkowa+Osada+Fabryczna+Zyrardow;STOPIEN_TECHNIKI
-Kolej Piotrkowska;lodzkie;kolej waskotorowa;Piotrkow Trybunalski ul. Przemyslowa 27;MANUAL_CHECK;Kolej Piotrkowska funkcjonuje jako atrakcja turystyczna odwolujaca sie do tradycji transportu szynowego regionu. Obiekt pozwala popularyzowac historie kolejnictwa lokalnego, techniki taboru i znaczenia kolei dla obslugi przemyslu oraz ruchu pasazerskiego.;https://www.google.com/maps/search/Kolej+Piotrkowska+Piotrkow+Trybunalski;STOPIEN_TECHNIKI
+nazwa_obiektu;region;kategoria_obiektu;adres;maps_url;lokalizacja
+Latarnie morskie;;;Polna 30, 72-350 Niechorze, Polska;https://www.google.com/maps/place/?q=place_id:ChIJgSw4vnt2AEcRp2TB3ok2hAA;54.0947031,15.0638467
+Gryficka Kolej Wąskotorowa;;;Błonie 1, 72-300 Gryfice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJc1pOyKdkAEcR1SqhdawL75U;53.9109115,15.1896172
+Stopień wodny na Nogacie;;;Starościńska, 82-200 Malbork, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ2fLqFt5Z_UYRMxdqgOaYOxk;54.0410656,19.0272896
+Żuraw gdański;;;Szeroka 67/68, 80-835 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJV2nWGqdz_UYRwS-frZqF0J0;54.35049429999999,18.6575279
+Gdańska głowa;;;82-103, Polska;https://www.google.com/maps/place/?q=place_id:ChIJhyU48jZr_UYRY3B4HaNxRwQ;54.26680640000001,18.9522718
+Twierdza Wisłoujście;;;Stara Twierdza 1, 80-551 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ6_y-W7QM_UYR16N3s8iMoO8;54.3956609,18.679898
+Kuźnia wodna;;;Bytowska 1, 80-328 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJsXQs-U51_UYRY68QIAMiFdo;54.4066413,18.5391849
+Centralne Muzeum Morskie;;;Ołowianka 9-13, 80-751 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJgXgNfApz_UYR0qOqxbwK0I4;54.35089900000001,18.659019
+Akwedukt na Wielkim Kanale Brdy;;;Wielki Kanał Brdy, Polska;https://www.google.com/maps/place/?q=place_id:ChIJpbLNENtYAkcR3boKM1HYisk;53.69859599999999,17.9590381
+Parowozy;;;Kraków, Polska;https://www.google.com/maps/place/?q=place_id:ChIJlRM6k1dFFkcR_dClkWzBPdQ;50.0285016,19.9852257
+Molo;;;Plac Zdrojowy 2, 81-723 Sopot, Polska;https://www.google.com/maps/place/?q=place_id:ChIJXzMkc44K_UYREA__ZUDe-zc;54.446506,18.5720474
+Zwodzony most kolejowy;;;Regalica, Polska;https://www.google.com/maps/place/?q=place_id:ChIJLU2ukQgIqkcR7PXJA_iXgAA;53.3689547,14.5882908
+Mosty;;;81-198 Mosty, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ6WWGWVqv_UYR4VmfjFaHg7E;54.6106188,18.4957326
+Słupskie, koszalińskie elektrownie wodne;;;Żydowo 121, 76-012, Polska;https://www.google.com/maps/place/?q=place_id:ChIJXc2uToXrAUcROiHYa1rdNrQ;54.02514360000001,16.7070917
+Koszalińska Kolej Dojazdowa;;;Kolejowa 4, 75-108 Koszalin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJlcPS3iPNAUcRb6dDDQPkqiE;54.1871395,16.1693893
+Linia kolejowa;;;Polska;https://www.google.com/maps/place/?q=place_id:ChIJrz4RQnXLHkcR_luVwx4b27c;52.2648356,20.87205
+Kanał Elbląski;;;Kanał Elbląski (Warmiński), Polska;https://www.google.com/maps/place/?q=place_id:ChIJf7d49auv4kYR0-ER69Jpdus;54.0270075,19.5942878
+Kanał Augustowski;;;Kanał Augustowski;https://www.google.com/maps/place/?q=place_id:ChIJecYmoRFZ4EYR3Y-scrChEEw;53.8918899,23.3386028
+Ełcka Kolej Dojazdowa;;;Wąski Tor 1, 19-300 Ełk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ3TqPkH-54UYRR4dB8Rz0xqE;53.8263037,22.3633255
+Gazownia miejska;;;Wałowa 41/43, 80-858 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJy8HDIXNz_UYRT-BStJ7fFO0;54.3579974,18.6591444
+Kolej Leśna;;;Majdan 17, 38-607, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ1yA6-YP-O0cRm5yjcdbb-yc;49.2055725,22.2990324
+Kanał Mazurski;;;Kan. Mazurskiy, Obwód Królewiecki, Rosja;https://www.google.com/maps/place/?q=place_id:ChIJ7xZ_IsC240YRn1YovELIK0g;54.423567,21.3779548
+Wigierska Kolej Wąskotorowa;;;Płociczno-Tartak 40, 16-402 Suwałki, Polska;https://www.google.com/maps/place/?q=place_id:ChIJkeSoryEH4UYRaQujjgcq1So;54.0209999,22.982851
+Wilczy szaniec;;;Gierłoż 5, 11-400 Kętrzyn, Polska;https://www.google.com/maps/place/?q=place_id:ChIJk-GXI1wl4kYRJRyBd-m3Y08;54.08065389999999,21.4942846
+Drogowy most obrotowy;;;11-500 Giżycko, Polska;https://www.google.com/maps/place/?q=place_id:ChIJD_cmgReJ4UYRxh4NOjDMhRc;54.0231927,21.7391003
+Schrony bojowe;;;Wesoła 52, 42-584 Dobieszowice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJP_NYTOrUFkcRN6f18oQOuCE;50.3984211,18.9786049
+Żuławska Kolej Dojazdowa;;;Dworcowa 29, 82-100 Nowy Dwór Gdański, Polska;https://www.google.com/maps/place/?q=place_id:ChIJsYSVwRVE_UYRwen13oXZq8U;54.2116098,19.1233164
+Kolejowy most obrotowy;;;82-103 Rybina, Polska;https://www.google.com/maps/place/?q=place_id:ChIJJZ1LBkxB_UYRzTocOT29T1E;54.28491169999999,19.1110287
+Muzeum Nowoczesności;;;Ryszarda Knosały 3B, 10-010 Olsztyn, Polska;https://www.google.com/maps/place/?q=place_id:ChIJoyn54dR-4kYRPa23T6B-vXY;53.7734608,20.4813234
+Spichlerze;;;Płochocińska 99A, 03-044 Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJR2u-N7zJHkcRQHWK9al4DXs;52.3377911,21.02788
+Węzeł wodny;;;Księcia Witolda 1, 50-202 Wrocław, Polska;https://www.google.com/maps/place/?q=place_id:ChIJvWSQVWXpD0cRXrvXcj2uWuA;51.1147924,17.031442
+Warzelnie soli i tężnie;;;Sól 183 B, 34-370 Sól, Polska;https://www.google.com/maps/place/?q=place_id:ChIJM1jycoM5FEcRL8fJ9H-vrJo;49.4854236,19.0364833
+Most drogowy;;;11-500 Giżycko, Polska;https://www.google.com/maps/place/?q=place_id:ChIJD_cmgReJ4UYRxh4NOjDMhRc;54.0231927,21.7391003
+Stacja wodociągowa „Stare Bielany”;;;Wodociągowa 17, 87-100 Toruń, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ6crUzFk0A0cR-4w00jNKaDc;53.0270161,18.5849587
+Żnińska Kolej Powiatowa;;;Potockiego 4, 88-400 Żnin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJQ-dPEa5kA0cRdMtnEpAak3I;52.8489459,17.7350745
+Muzeum Kolejki Wąskotorowej;;;88-400 Wenecja, Polska;https://www.google.com/maps/place/?q=place_id:ChIJiS2G_ghjA0cR1Y2MGzkXquI;52.7986312,17.752799
+Gnieźnieńska Kolej Dojazdowa;;;Wrzesińska 2, 62-200 Gniezno, Polska;https://www.google.com/maps/place/?q=place_id:ChIJDTRUDG2RBEcRSuLa3_zO4pg;52.52779169999999,17.5968052
+Kaliska Kolej Dojazdowa;;;Zbiersk-Cukrownia 54, 62-830 Zbiersk-Cukrownia, Polska;https://www.google.com/maps/place/?q=place_id:ChIJj_7bD9LXGkcRx7GhJ-zbd34;51.94792349999999,18.1466946
+Kopalnia soli;;;Aleja 1000-lecia 2, 62-650 Kłodawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJgyCnFXptG0cR2JOfj1Gzfm0;52.2406339,18.9221691
+Stacja dwupoziomowa;;;Dworcowa 1, 66-470 Kostrzyn nad Odrą, Polska;https://www.google.com/maps/place/?q=place_id:ChIJAZEjV3FzB0cRnz-kRIu-_-8;52.5913536,14.6473583
+Muzeum Historii Przemysłu;;;Kościelna 1, 62-860 Opatówek, Polska;https://www.google.com/maps/place/?q=place_id:ChIJh0Yp_7zDGkcREV9SYYkdcpw;51.7386071,18.2142235
+Stary browar;;;Półwiejska 42, 61-888 Poznań, Polska;https://www.google.com/maps/place/?q=place_id:ChIJzQFOtDtbBEcR6JKu5WdosSg;52.4011751,16.9280301
+Śmigielska Kolej Dojazdowa;;;Dworcowa 2, 64-030 Śmigiel, Polska;https://www.google.com/maps/place/?q=place_id:ChIJE0uTTX65BUcRzradK1WcblI;52.0061101,16.5268899
+Powiatowa Kolej Wąskotorowa;;;Mieczysława Niedziałkowskiego 25, 63-000 Środa Wielkopolska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJW9UyWmr7BEcRsUpJ0ReUUeg;52.2218077,17.2796883
+Muzeum Rolnictwa i Przemysłu Rolno -;;;Dworcowa 5, 62-052 Szreniawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJA3a2i6JPBEcRuC7EVExGDog;52.3165035,16.7977973
+Parowozownia;;;Fabryczna 1, 64-200 Wolsztyn, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYw7AjXTaBUcRQYIy8REQymw;52.106255,16.113086
+Powiatowa Kolej Wąskotorowa;;;Mieczysława Niedziałkowskiego 25, 63-000 Środa Wielkopolska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJW9UyWmr7BEcRsUpJ0ReUUeg;52.2218077,17.2796883
+Zespół fabryczny na Księżym Młynie;;;Księży Młyn 3, 90-337 Łódź, Polska;https://www.google.com/maps/place/?q=place_id:ChIJNfk37I81GkcRJ22Tyof7a5U;51.75446609999999,19.4820312
+Dawne Zakłady Bawełniane Izraela Poznańskiego;;;Ogrodowa 15, 91-065 Łódź, Polska;https://www.google.com/maps/place/?q=place_id:ChIJzWbp3NrKG0cRLpyLu5QY3Sc;51.778731,19.45111
+Fabryka Towarzystwa Akcyjnego Ludwika Geyera;;;Piotrkowska 74, 90-111 Łódź, Polska;https://www.google.com/maps/place/?q=place_id:ChIJT-n4jGDLG0cRXJZScbuFWnU;51.76807909999999,19.4567976
+Centralny zbiornik wody;;;Lazurowa, 80-680 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ8YwFg7xs_UYRubTFDWlgMP0;54.3434185,18.8773334
+Centralne Muzeum Włókiennicze;;;Piotrkowska 282, 93-034 Łódź, Polska;https://www.google.com/maps/place/?q=place_id:ChIJDWQpEMM0GkcRxhRh0KORxr8;51.7451648,19.4619126
+Muzeum Kinematografii;;;Plac Zwycięstwa 1, 90-312 Łódź, Polska;https://www.google.com/maps/place/?q=place_id:ChIJaUDJ-cw0GkcRuzK32jKjCCA;51.7595927,19.4745905
+Podmiejskie tramwaje;;;Jana Pawła Woronicza 27, 02-640 Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJK9fV3i4zGUcR6gadYKSAVLk;52.1881877,20.9989412
+Krośniewicka Kolej Dojazdowa;;;Poznańska 7A, 99-340 Krośniewice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ0_fdx6B3G0cRhbP7UwwEQgk;52.2562113,19.1657112
+Spawany most drogowy na Słudwi;;;DK92, 99-400, Polska;https://www.google.com/maps/place/?q=place_id:ChIJuTrHjynvG0cRdxxFLNrol9s;52.1394206,19.8707439
+Muzeum Motoryzacji;;;Templariuszy 1, 55-040 Ślęza, Polska;https://www.google.com/maps/place/?q=place_id:ChIJV5F80-jFD0cRhhZ2PsKTbZU;51.0341017,16.9913073
+Rogowska Kolej Wąskotorowa;;;Dworcowa 37, 95-063 Rogów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJG5vde_vWG0cRNJUj8WWRMts;51.8129394,19.8813841
+Muzealna Kolej Wąskotorowa;;;Licealna 18, 96-500 Sochaczew, Polska;https://www.google.com/maps/place/?q=place_id:ChIJhdeOdZb9G0cRKRUz0V3lZ-g;52.219478,20.2386299
+Dworzec PKP;;;Al. Jerozolimskie 54, 00-024 Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJratJW3PNHkcRYcEx-3PH6q8;52.22875000000001,21.003313
+Parowozownia;;;Fabryczna 1, 64-200 Wolsztyn, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYw7AjXTaBUcRQYIy8REQymw;52.106255,16.113086
+Muzeum Techniki;;;pl. Defilad 1, 00-901 Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ-YRX54zMHkcRf-U16-vqmhg;52.2304322,21.0059171
+Muzeum Kolejnictwa;;;Towarowa 4, 58-140 Jaworzyna Śląska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJiXTuu0ysD0cRSTAcFjn6K_c;50.91539,16.4363365
+Muzeum Gazownictwa;;;Pocztowa 6, 48-370 Paczków, Polska;https://www.google.com/maps/place/?q=place_id:ChIJByVI_6LfEUcR7UgPfRvEPdQ;50.4660161,17.0040998
+Zakład Wodociągu Centralnego;;;Koszykowa 81, Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJuySWFJTMHkcRsj78wfNgpGg;52.2214889,20.9937771
+Wiadukt Mostu Poniatowskiego;;;bulwar Flotylli Wiślanej, 03-901 Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJA6PK_vjNHkcRyvA5a-0z97I;52.23571099999999,21.0400093
+Zabytkowa Osada Fabryczna;;;Armii Krajowej 5, 96-300 Żyrardów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJEwSIdclEGUcRN3JFc_vjsHc;52.0581456,20.4334616
+Kolej Piotrkowska;;;Juliana Tuwima 28, 90-002 Łódź, Polska;https://www.google.com/maps/place/?q=place_id:ChIJEeGqCSvLG0cR5qFrR6qqYXs;51.7667347,19.463089
+Młyny wodne;;;09-214, Polska;https://www.google.com/maps/place/?q=place_id:ChIJP3gl2_mLHEcRjSMHBguYKYA;52.7961877,19.543982
+Chełmskie Podziemia Kredowe;;;Lubelska 55A, 22-100 Chełm, Polska;https://www.google.com/maps/place/?q=place_id:ChIJf5lvhC80FkcRHrx6LfTH_uU;51.13301490000001,23.4712915
+Nałęczowska Kolej Dojazdowa;;;24-150 Drzewce-Kolonia, Polska;https://www.google.com/maps/place/?q=place_id:ChIJR4bK-OFhIkcRQ9Tj3FyVRlE;51.3178709,22.2124032
+Most kamienny;;;73-120 Kamienny Most, Polska;https://www.google.com/maps/place/?q=place_id:ChIJh61GRTToAEcRCfkqSdj5WeA;53.4576512,15.3836215
+Elektrownie wodne (min. dwie od zwiedzenia);;;Widokowa, 34-441 Niedzica, Polska;https://www.google.com/maps/place/?q=place_id:ChIJIQljqlsCPkcRT2N6oPnLGGA;49.41815279999999,20.3228279
+Ruiny cukrowni;;;Krasiniec 20, 06-211 Szczuki, Polska;https://www.google.com/maps/place/?q=place_id:ChIJwUwtjj59HkcRHlWEtHPDeNs;52.9353944,20.9934716
+Elektrownie wodne (min. jedna do zwiedzenia);;;Pilchowice 67a, 59-616 Pilchowice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJWzbhPabYDkcRP2FUCzCy22M;50.9638733,15.6445313
+Sztolnie żelaza i uranu;;;Stronie Lasy 40, 57-550, Polska;https://www.google.com/maps/place/?q=place_id:ChIJQUFeGYICDkcRff2mI-ir-EM;50.2479789,16.8444245
+Linia kolejowa Kłodzko Wałbrzych;;;58-300 Wałbrzych, Polska;https://www.google.com/maps/place/?q=place_id:ChIJmz6QDtFQDkcRamVtGW5HYWc;50.7435138,16.2816147
+Muzeum Papiernictwa;;;Kłodzka 42, 57-340 Duszniki-Zdrój, Polska;https://www.google.com/maps/place/?q=place_id:ChIJM50_hu9sDkcR-xHcn4-HLEA;50.4045386,16.3956988
+Muzeum Przemysłu i Kolejnictwa;;;Towarowa 4, 58-140 Jaworzyna Śląska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJiXTuu0ysD0cRSTAcFjn6K_c;50.91539,16.4363365
+Muzeum Przemysłu i Techniki;;;;NOT_FOUND;
+Kopalnia węgla kamiennego;;;Świętej Barbary 12, 43-173 Łaziska Górne, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ28QlDQzKFkcRvDI1-COZ03o;50.1411332,18.8643951
+Kompleks zbrojeniowy „Riese”;;;3 Maja 26, 58-320 Walim, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ_zZ9ekpRDkcRrKAhfWBVNZQ;50.6890935,16.4447859
+Zakład wodociągowy „Na grobli” i przepompownia;;;Na Grobli 19, 50-438 Wrocław, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ4zOFToHCD0cR_4HHOqXzMsg;51.10251539999999,17.0566112
+Fundacja Otwartego Muzeum Techniki;;;Wybrzeże Stanisława Wyspiańskiego 27, 50-370 Wrocław, Polska;https://www.google.com/maps/place/?q=place_id:ChIJefz7ftXpD0cRUp52G8GXclc;51.1067285,17.0628896
+Międzyrzecki Rejon Umocniony;;;Pniewo 1, 66-300 Międzyrzecz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJGdkYCyKSG0cRPutoaDY-u9Y;52.371933,15.5058239
+Most graniczny;;;DK29, Słubice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJN4LNxHCYB0cR6FaJebGdDz4;52.3481549,14.5559983
+Muzeum Górnictwa i Hutnictwa Złota;;;Złota 9, 57-250 Złoty Stok, Polska;https://www.google.com/maps/place/?q=place_id:ChIJSz3W8G8fDkcRZWGs43mnGtQ;50.4397973,16.8747301
+Młyn;;;Połczyńska 97A, 01-303 Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ_SHw2SrLHkcRbNKqAfTc26E;52.215388,20.895431
+Muzeum Produkcji Zapałek;;;Ogrodowa 68, 42-200 Częstochowa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJfUHWZ8G1EEcRlaZNQP1oneY;50.8032231,19.1226257
+Górnośląska Kolej Wąskotorowa;;;Zabrzańska, 40-907 Bytom, Polska;https://www.google.com/maps/place/?q=place_id:ChIJzUxvTSjTFkcRVwwCQ-0jWxg;50.3425443,18.9141494
+Radiostacja;;;Tarnogórska 129, 44-102 Gliwice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ4WFPTjUwEUcRcj88Ay-sEI0;50.3133495,18.6887665
+Muzeum Odlewnictwa;;;Bojkowska 37, 44-100 Gliwice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJS5DmAxoxEUcROE6HK7jzSoA;50.2771743,18.6831001
+Huta Metali Nieżelaznych;;;Woźniaka 12, 40-389 Katowice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ6aynXOTPFkcRfZIpXKBtXT8;50.2585926,19.0981108
+Osiedle Nikiszowiec i Giszowiec;;;Osiedle Nikiszowiec, 40-432 Katowice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJITIkNonPFkcRRdKXjrDNTCM;50.2437585,19.0821516
+Muzeum Energetyki;;;Wyzwolenia 30, 43-170 Łaziska Górne, Polska;https://www.google.com/maps/place/?q=place_id:ChIJmQoAR4y1FkcRtU9RetKwmMQ;50.1323442,18.8409652
+Centralne Muzeum Pożarnictwa;;;Stadionowa 7A, 41-400 Mysłowice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJBazZxOLEFkcR2k7HPh1ITUc;50.2275988,19.1449597
+Muzeum Chleba;;;Z. Nałkowskiej 5, 41-922 Radzionków, Polska;https://www.google.com/maps/place/?q=place_id:ChIJW5t6sKEsEUcRTuT13G_u_uw;50.3824272,18.9014218
+Skansen;;;Aleksandra Rybickiego 3, 38-500 Sanok, Polska;https://www.google.com/maps/place/?q=place_id:ChIJyTY2nYVtPEcRU6B3mYnO-Cs;49.5742967,22.2080073
+Zabytkowa Kopalnia Węgla „Ignacy”;;;Ignacego Mościckiego 3, 44-273 Rybnik, Polska;https://www.google.com/maps/place/?q=place_id:ChIJHb3ZaI9PEUcR4PxMc3PVdkc;50.0629038,18.4675176
+Sztolnia „Pstrąga Czarnego”;;;darmowy parking, Repecka, 42-600 Tarnowskie Góry, Polska;https://www.google.com/maps/place/?q=place_id:ChIJe3CnLg0pEUcRdrWORwbxM4k;50.4286044,18.8158932
+Zabytkowa Kopalnia Srebra i Skansen Maszyn Parowych;;;Szczęść Boże 79H, 42-600 Tarnowskie Góry, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ6QuHplIrEUcR14vkvs6rsaU;50.4267817,18.8501972
+Muzeum Piwowarstwa;;;Katowicka 9, 43-100 Tychy, Polska;https://www.google.com/maps/place/?q=place_id:ChIJM6AWEhTIFkcROm9JO5NK6C0;50.12926969999999,18.9893294
+Zabytkowa Kopalnia Węgla Kamiennego;;;Kopalniana 7D, 41-807 Zabrze, Polska;https://www.google.com/maps/place/?q=place_id:ChIJxyKOUIAtEUcR-LiywovAi_8;50.3416969,18.7900057
+Skansen Górniczy „Królowa Luiza”;;;Maurycego Mochnackiego 12, 41-800 Zabrze, Polska;https://www.google.com/maps/place/?q=place_id:ChIJBdiOR2cyEUcRX6RuIu5NiDY;50.2964706,18.7990514
+Muzeum Browaru;;;Browarna 88, 34-300 Żywiec, Polska;https://www.google.com/maps/place/?q=place_id:ChIJdyfyawYmFEcROgPAjR5acXU;49.66326240000001,19.1740269
+Kopalnia Soli;;;Aleja 1000-lecia 2, 62-650 Kłodawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJgyCnFXptG0cR2JOfj1Gzfm0;52.2406339,18.9221691
+Muzeum Przemysłu Naftowego i Gazownictwa;;;Kopalniana 35, 38-458 Bóbrka, Polska;https://www.google.com/maps/place/?q=place_id:ChIJryry9ztIPEcR4UV4P3-Hrso;49.6163068,21.7108424
+Bieszczadzka Kolej Leśna;;;Majdan 17, 38-607, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ1yA6-YP-O0cRm5yjcdbb-yc;49.2055725,22.2990324
+Huta żelaza;;;Szkolna 34, 25-510 Chlewiska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJWeY0-GhJGEcRStdSiFOtwxc;51.235875,20.7563428
+Skansen Taboru Kolejowego;;;Chabówka 229, 34-700 Chabówka, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ6eXTFl9DGkcRT3zO12dsWKY;49.5944899,19.9270108
+Muzeum Lotnictwa Polskiego;;;al. Jana Pawła II 39, 31-864 Kraków, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ39ffX9JaFkcR86cKqC04JVg;50.0769631,19.9897622
+Muzeum Inżynierii Miejskiej;;;Św. Wawrzyńca 15, 31-060 Kraków, Polska;https://www.google.com/maps/place/?q=place_id:ChIJE6cB8UFbFkcRdUbFyONvAq8;50.049764,19.946822
+Jędrzejowska Kolej Dojazdowa;;;Dojazd 1/3, 28-300 Jędrzejów, Polska;https://www.google.com/maps/place/?q=place_id:ChIJp2fSV7OeF0cRT4jUjhahVWU;50.6437252,20.2884411
+Muzeum Gorzelnictwa;;;Stefana Żeromskiego 2, 37-100 Łańcut, Polska;https://www.google.com/maps/place/?q=place_id:ChIJW7jyDoXuPEcRLdisJ2i6cII;50.0783765,22.2309964
+Kolekcja powozów;;;Leśna 5, 55-020 Galowice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJX_hAw1hFDkcRr0GPf2qSSVw;50.9829465,17.0018396
+Kopalnia krzemienia;;;Sudół 135a, 27-400 Ostrowiec Świętokrzyski, Polska;https://www.google.com/maps/place/?q=place_id:ChIJtw1QJgMKGEcRvOgQYZ4nIUY;50.9722558,21.4900411
+Zakład hutniczy;;;Maleniec 55A, 26-242, Polska;https://www.google.com/maps/place/?q=place_id:ChIJr6EvKw7EGUcR4trzRlMSx8Q;51.1831422,20.1818745
+Walcownia;;;Walcownia, 41-260 Sławków, Polska;https://www.google.com/maps/place/?q=place_id:ChIJJUl7Ek3nFkcR9hfyH0H8HhA;50.2981059,19.4030108
+Huta żelaza;;;Szkolna 34, 25-510 Chlewiska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJWeY0-GhJGEcRStdSiFOtwxc;51.235875,20.7563428
+Kuźnia wodna;;;Bytowska 1, 80-328 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJsXQs-U51_UYRY68QIAMiFdo;54.4066413,18.5391849
+Muzeum Przyrody i Techniki;;;Marszałka Piłsudskiego 95, 27-200 Starachowice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ00BsYc0VGEcRBBsJViPxx3s;51.0494119,21.0682153
+Walcownia i pudlingarnia;;;Reczyce 3, 74-407 Reczyce, Polska;https://www.google.com/maps/place/?q=place_id:ChIJv2gV0HFvB0cRLWQaJ8GhWzI;52.6790483,14.5977792
+Przeworska Kolej Dojazdowa;;;Lubomirskich 14, 37-200 Przeworsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJPT5v_KmWPEcRzz8qFqPhqHw;50.0665492,22.5013754
+Krynica Morska;;;Krynica Morska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ2foAlBkx_UYRFMcz-mu6v_k;54.3799582,19.4437701
+Gdańsk Nowy Port Gdańsk Port Północny;;;Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ-bC8RcgM_UYR4rJ8CwxXXEI;54.4007831,18.6964315
+Jastarnia;;;Jastarnia, Polska;https://www.google.com/maps/place/?q=place_id:ChIJq_-2oVOq_UYRNyGyNlwHsGI;54.6954278,18.6798018
+Rozewie;;;Rozewie, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ1-O86zdL_EYRWP9EVIdnwsc;54.81974,18.3471
+Stilo;;;Kołobrzeska 28, 80-394 Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTXXgAyp1_UYR_BdNXrfgkoc;54.4024365,18.5834018
+Czołpino;;;Czołpino, Polska;https://www.google.com/maps/place/?q=place_id:ChIJGasmbCNs_kYR_8ngocyxVBM;54.7108554,17.2382737
+Ustka;;;Ustka, Polska;https://www.google.com/maps/place/?q=place_id:ChIJqQRnkSs8_kYRmHx9RRF83ZU;54.5805607,16.861891
+Jarosławiec;;;Jarosławiec, Polska;https://www.google.com/maps/place/?q=place_id:ChIJucsRvtsx_kYRqOc8CHWjZro;54.5403402,16.5453544
+Darłowo;;;Darłowo, Polska;https://www.google.com/maps/place/?q=place_id:ChIJN9UR538p_kYRUoTbE5XGOaw;54.4210664,16.410611
+Gąski;;;76-034 Gąski, Polska;https://www.google.com/maps/place/?q=place_id:ChIJDx95wxIwAEcRmyxrVF0qFps;54.2374713,15.9197632
+Kołobrzeg;;;Kołobrzeg, Polska;https://www.google.com/maps/place/?q=place_id:ChIJH1fCLJgVAEcRDcAU_5wCqzQ;54.17591729999999,15.5832667
+Niechorze;;;Niechorze, Polska;https://www.google.com/maps/place/?q=place_id:ChIJZ8Wmjn12AEcRlwRJnz8uxeM;54.0948275,15.0766112
+Kikut;;;72-513 Wisełka, Polska;https://www.google.com/maps/place/?q=place_id:ChIJL3O6EkqJqkcRg1kUutIAhlM;53.98143040000001,14.5803642
+Świnoujście;;;Świnoujście, Polska;https://www.google.com/maps/place/?q=place_id:ChIJATOuzc1YqkcRyE1uCpc64B8;53.9100327,14.2475775
+Na Wieprzy: Biesowice, Ciecholub, Kępice, Kępka;;;Kępka, Kępice, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ_6uZtYfjAUcR3QpqZn5OmQc;54.2142077,16.8991955
+Na Łupawie: Drzeżewo, Łebień, Łupawie, Poganice,Smołdzino,Żelkowo,;;;Łupawa 22, 76-242 Łupawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJDV47K7ri_UYRNA1PhJXMFwE;54.42019490000001,17.4202253
+Na Radwi: Niedalin, Rosnów,;;;Rosnowo 32, 76-042 Rosnowo, Polska;https://www.google.com/maps/place/?q=place_id:ChIJcdQWc_jIAUcRC-zsa0YM5Qk;54.0636228,16.3031228
+Na Śłupi: Gąłęźna Mała, Konradów, Krzynia, Skarszew Dolny, Soszyca;;;76-248 Dębnica Kaszubska, Polska;https://www.google.com/maps/place/?q=place_id:ChIJBz81Nl4B_kYRGj625wn7kvk;54.3270389,17.1988
+Borowo na Drawie,;;;6 Dworcowa 5/2, 78-540 Borowo, Polska;https://www.google.com/maps/place/?q=place_id:ChIJC5oMC8A8AUcRbM6y19-g7dc;53.3487018,15.7758401
+Nowy Żytnik na Grabowej,;;;Nowy Żytnik, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ5fqCKnLeAUcRkhQXXSCTmHw;54.2519477,16.688043
+Osowo Lęborskie na Okalicy,;;;Osowo Lęborskie, Polska;https://www.google.com/maps/place/?q=place_id:ChIJJxg4qR7p_UYRe_9eePZapww;54.4690664,17.786755
+Rościno na Parsęcie,;;;78-200 Rościno, Polska;https://www.google.com/maps/place/?q=place_id:ChIJyyqBZv5LAEcRNta0ULD1QTM;53.99856339999999,15.8948752
+Żydowo na Radwi.;;;;NOT_FOUND;
+Bydgoszcz 1000 mm;;;Al. Wojska Polskiego 65, 85-825 Bydgoszcz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJoZQNR14UA0cRev1vdUf1O18;53.097389,18.0700904
+Częstochowa 1435 mm;;;Tadeusza Boya-Żeleńskiego 7/9, 42-217 Częstochowa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJwXvuGMO1EEcRe27r9QH0Cos;50.8039372,19.1161694
+Elbląg 1000 mm;;;;NOT_FOUND;
+Gdańsk 1435 mm;;;;NOT_FOUND;
+Aglomeracje Górnicze 1000 mm;;;;NOT_FOUND;
+Grudziądz 1000 mm;;;;NOT_FOUND;
+Gorzów Wlkp. 1435 mm;;;;NOT_FOUND;
+Kraków 1435 mm;;;;NOT_FOUND;
+Łódź 1000 mm;;;;NOT_FOUND;
+Poznań 1435 mm;;;;NOT_FOUND;
+Szczecin 1435 mm;;;;NOT_FOUND;
+Toruń 1000 mm;;;;NOT_FOUND;
+Warszawa 1435 mm;;;;NOT_FOUND;
+Wrocław 1435 mm;;;;NOT_FOUND;
