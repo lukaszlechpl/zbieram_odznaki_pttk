@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const MAX_VISIBLE_POINTS = 100;
+    const MAX_VISIBLE_POINTS = 150;
     const map = L.map('map').setView([52.237, 19.145], 6);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const pointsByCoord = new Map();
     const missingCoordsLoggedCsvFiles = new Set();
     const badgeEntries = [];
+    let allPoints = [];
 
     const mapContainer = document.getElementById('map');
     const badgeView = document.getElementById('badge-view');
@@ -43,10 +44,31 @@ document.addEventListener('DOMContentLoaded', () => {
                     const csvResponse = await fetch(csvPath);
                     if (!csvResponse.ok) continue;
                     const csvText = await csvResponse.text();
-                    const points = parseCSV(csvText).slice(1);
+                    const rows = parseCSV(csvText);
+                    const header = rows[0] || [];
+
+                    const normHeader = header.map((h) => String(h || '').replace(/^\ufeff/, '').trim());
+                    const headerIndex = new Map(normHeader.map((h, i) => [h, i]));
+
+                    const nameIdx = headerIndex.has('nazwa_obiektu') ? headerIndex.get('nazwa_obiektu') : 0;
+                    const addressIdx = headerIndex.has('adres') ? headerIndex.get('adres') : 3;
+                    // Dla różnych wersji formatów CSV GPS bywa w `lokalizacja` albo `wspolrzedne`.
+                    const coordsIdx = headerIndex.has('lokalizacja')
+                        ? headerIndex.get('lokalizacja')
+                        : headerIndex.has('wspolrzedne')
+                            ? headerIndex.get('wspolrzedne')
+                            : -1;
+
+                    const points = rows.slice(1);
+                    if (coordsIdx < 0) {
+                        console.info(`Plik CSV bez kolumny GPS (lokalizacja/wspolrzedne): ${csvPath}`);
+                        continue;
+                    }
 
                     for (const point of points) {
-                        const [name, , , address, coordsRaw] = point;
+                        const name = point[nameIdx];
+                        const address = point[addressIdx];
+                        const coordsRaw = point[coordsIdx];
                         if (!name && !address) continue;
 
                         const coords = parseCoordinates(coordsRaw);
@@ -76,8 +98,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 ...p,
                 badges: [...p.badges]
             }));
-            renderPoints(normalizedPoints);
+            allPoints = normalizedPoints;
             showMapView();
+            setTimeout(() => updateVisibleMapMarkers(), 0);
         } catch (error) {
             console.error("Błąd podczas ładowania danych odznak:", error);
         }
@@ -183,49 +206,175 @@ document.addEventListener('DOMContentLoaded', () => {
         return [lat, lon];
     }
 
-    function renderPoints(points) {
+    map.on('moveend', () => updateVisibleMapMarkers());
+
+    function updateVisibleMapMarkers() {
+        if (!allPoints || allPoints.length === 0) return;
+        const visiblePoints = getVisiblePoints(allPoints);
+        renderVisiblePoints(visiblePoints);
+    }
+
+    function getVisiblePoints(points) {
+        const bounds = map.getBounds();
+        const sw = bounds.getSouthWest();
+        const ne = bounds.getNorthEast();
+        const minLat = sw.lat;
+        const maxLat = ne.lat;
+        const minLng = sw.lng;
+        const maxLng = ne.lng;
+
+        return points.filter((p) => {
+            const [lat, lon] = p.coords;
+            return lat >= minLat && lat <= maxLat && lon >= minLng && lon <= maxLng;
+        });
+    }
+
+    function renderVisiblePoints(points) {
         displayLayer.clearLayers();
         if (!points.length) return;
 
-        if (points.length <= MAX_VISIBLE_POINTS) {
-            points.forEach((point) => displayLayer.addLayer(createPointMarker(point)));
-            return;
-        }
-
-        const groups = groupNearestPoints(points, MAX_VISIBLE_POINTS);
-        groups.forEach((group) => {
-            if (group.points.length === 1) {
-                displayLayer.addLayer(createPointMarker(group.points[0]));
+        const clusters = clusterVisiblePoints(points, 10, MAX_VISIBLE_POINTS);
+        clusters.forEach((cluster) => {
+            if (cluster.points.length === 1) {
+                displayLayer.addLayer(createPointMarker(cluster.points[0]));
             } else {
-                displayLayer.addLayer(createGroupMarker(group));
+                displayLayer.addLayer(createGroupMarker(cluster));
             }
         });
     }
 
-    function groupNearestPoints(points, maxGroups) {
-        let cellSize = 0.03;
-        let grouped = [];
+    function clusterVisiblePoints(points, minDistancePx, maxGroups) {
+        // Etap 1: na bazie aktualnego zoomu grupujemy punkty, które na ekranie
+        // są bliżej niż `minDistancePx` (połączone składowe spójności).
+        const pointsWithPx = points.map((point) => {
+            const px = map.latLngToContainerPoint(point.coords);
+            return { point, x: px.x, y: px.y };
+        });
+        const nearClusters = clusterByPixelDistance(pointsWithPx, minDistancePx);
 
-        for (let i = 0; i < 14; i += 1) {
-            const buckets = new Map();
-            for (const point of points) {
-                const [lat, lon] = point.coords;
-                const key = `${Math.floor(lat / cellSize)}:${Math.floor(lon / cellSize)}`;
-                if (!buckets.has(key)) buckets.set(key, []);
-                buckets.get(key).push(point);
+        // Etap 2: jeśli liczba markerów (grup) przekracza limit, wykonujemy
+        // dodatkowe grupowanie po siatce w przestrzeni pikseli.
+        if (nearClusters.length <= maxGroups) return nearClusters;
+        return mergeClustersByPixelGrid(nearClusters, maxGroups);
+    }
+
+    function clusterByPixelDistance(pointsWithPx, thresholdPx) {
+        const thresholdSq = thresholdPx * thresholdPx;
+        const cellSize = thresholdPx; // pozwala ograniczyć sprawdzanie sąsiadów
+        const n = pointsWithPx.length;
+
+        const parent = Array.from({ length: n }, (_, i) => i);
+
+        function find(i) {
+            while (parent[i] !== i) {
+                parent[i] = parent[parent[i]];
+                i = parent[i];
             }
-            grouped = [...buckets.values()];
-            if (grouped.length <= maxGroups) break;
-            cellSize *= 1.4;
+            return i;
         }
 
-        return grouped.map((bucket) => {
+        function union(a, b) {
+            const ra = find(a);
+            const rb = find(b);
+            if (ra === rb) return;
+            parent[rb] = ra;
+        }
+
+        const cellX = new Array(n);
+        const cellY = new Array(n);
+        const buckets = new Map(); // "cx:cy" -> [indices]
+
+        for (let i = 0; i < n; i += 1) {
+            const { x, y } = pointsWithPx[i];
+            const cx = Math.floor(x / cellSize);
+            const cy = Math.floor(y / cellSize);
+            cellX[i] = cx;
+            cellY[i] = cy;
+            const key = `${cx}:${cy}`;
+            if (!buckets.has(key)) buckets.set(key, []);
+            buckets.get(key).push(i);
+        }
+
+        for (let i = 0; i < n; i += 1) {
+            const x = pointsWithPx[i].x;
+            const y = pointsWithPx[i].y;
+
+            for (let ox = -1; ox <= 1; ox += 1) {
+                for (let oy = -1; oy <= 1; oy += 1) {
+                    const nx = cellX[i] + ox;
+                    const ny = cellY[i] + oy;
+                    const key = `${nx}:${ny}`;
+                    const candidates = buckets.get(key) || [];
+
+                    for (const j of candidates) {
+                        if (j <= i) continue;
+                        const dx = x - pointsWithPx[j].x;
+                        const dy = y - pointsWithPx[j].y;
+                        if ((dx * dx + dy * dy) <= thresholdSq) {
+                            union(i, j);
+                        }
+                    }
+                }
+            }
+        }
+
+        const grouped = new Map(); // root -> points
+        for (let i = 0; i < n; i += 1) {
+            const root = find(i);
+            if (!grouped.has(root)) grouped.set(root, []);
+            grouped.get(root).push(pointsWithPx[i].point);
+        }
+
+        return [...grouped.values()].map((bucket) => {
             const center = bucket.reduce((acc, point) => {
                 acc[0] += point.coords[0];
                 acc[1] += point.coords[1];
                 return acc;
             }, [0, 0]).map((sum) => sum / bucket.length);
             return { center, points: bucket };
+        });
+    }
+
+    function mergeClustersByPixelGrid(clusters, maxGroups) {
+        const mapSize = map.getSize();
+        const maxCellSize = Math.max(mapSize.x, mapSize.y) * 4;
+
+        const clustersWithPx = clusters.map((cluster) => {
+            const px = map.latLngToContainerPoint(cluster.center);
+            return { cluster, x: px.x, y: px.y };
+        });
+
+        let cellSize = 15; // start: dopasowanie do warunku "10px" (10px już jest wpięte w Etap 1)
+        let finalBuckets = null;
+
+        for (let iter = 0; iter < 24; iter += 1) {
+            const buckets = new Map(); // "cx:cy" -> [clusterIndex]
+            for (const item of clustersWithPx) {
+                const cx = Math.floor(item.x / cellSize);
+                const cy = Math.floor(item.y / cellSize);
+                const key = `${cx}:${cy}`;
+                if (!buckets.has(key)) buckets.set(key, []);
+                buckets.get(key).push(item.cluster);
+            }
+
+            if (buckets.size <= maxGroups) {
+                finalBuckets = buckets;
+                break;
+            }
+
+            finalBuckets = buckets;
+            cellSize *= 1.4;
+            if (cellSize > maxCellSize) break;
+        }
+
+        return [...finalBuckets.values()].map((bucketClusters) => {
+            const mergedPoints = bucketClusters.flatMap((c) => c.points);
+            const center = mergedPoints.reduce((acc, point) => {
+                acc[0] += point.coords[0];
+                acc[1] += point.coords[1];
+                return acc;
+            }, [0, 0]).map((sum) => sum / mergedPoints.length);
+            return { center, points: mergedPoints };
         });
     }
 
@@ -255,12 +404,18 @@ document.addEventListener('DOMContentLoaded', () => {
         const listItems = group.points
             .map((point) => `<li><b>${escapeHtml(point.name)}</b><br>${escapeHtml(point.address || 'Brak adresu')}<br><small>${escapeHtml(point.badges.join(', '))}</small></li>`)
             .join('');
-        marker.bindPopup(`<b>Grupa ${group.points.length} punktów</b><ul style="max-height:250px;overflow:auto;padding-left:18px;">${listItems}</ul>`);
+        marker.bindPopup(`<b>Grupa ${group.points.length} punktów</b><ul class="group-popup-list" style="max-height:250px;overflow:auto;">${listItems}</ul>`);
         return marker;
     }
 
     function parseCSV(text) {
-        const lines = String(text || '').replace(/\r/g, '').split('\n').filter(Boolean);
+        const lines = String(text || '')
+            .replace(/\r/g, '')
+            .split('\n')
+            .filter((line) => {
+                const trimmed = line.trim();
+                return trimmed.length > 0 && !trimmed.startsWith('#');
+            });
         return lines.map((line) => {
             const columns = [];
             let current = '';

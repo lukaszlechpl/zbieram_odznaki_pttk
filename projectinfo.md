@@ -8,7 +8,7 @@
 ## 2. Architektura Danych (Zasoby Lokalne)
 Dane są przechowywane w strukturze folderów `zasoby/odznaki/`:
 - `indeks.csv`: Główny spis (kolumny: nazwa, url, plik_csv, plik_md).
-- `*.csv`: Listy konkretnych obiektów dla danej odznaki (nazwa_obiektu, wspolrzedne, opis, kategoria, adres, wikipedia_opis, google_maps_link).
+- `*.csv`: Listy konkretnych obiektów dla danej odznaki (nazwa_obiektu, region, kategoria_obiektu, adres, maps_url, lokalizacja).
 - `*.md`: Szczegółowe opisy wymagań i regulaminy odznak.
 - `html/`: (Wygenerowane) Samodzielne pliki HTML z inlinowanymi grafikami (Base64) do podglądu offline.
 

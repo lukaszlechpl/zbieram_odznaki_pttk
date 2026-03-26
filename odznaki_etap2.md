@@ -17,8 +17,7 @@ Użytkownik dostarczy:
 2. **Research (Dla każdego obiektu w [NAZWA].csv):**
    - **Geolokalizacja:** Znajdź precyzyjne współrzędne GPS (format dziesiętny, np. `52.2297, 21.0122`).
    - **Google Maps:** Wygeneruj bezpośredni link do obiektu w Google Maps (na podstawie nazwy i miejscowości lub współrzędnych).
-   - **Wikipedia:** Znajdź krótki opis (250–400 znaków). Skup się na faktach: data powstania, styl, funkcja, ciekawostka krajoznawcza. Jeśli brak w Wikipedii, użyj rzetelnych źródeł turystycznych.
-3. **Weryfikacja Logiki:** Upewnij się, że przypisanie do "Stopnia odznaki" w pliku CSV jest zgodne z zasadami opisanymi w pliku `.md`.
+3. **Weryfikacja Logiki:** Upewnij się, że przypisanie do `kategoria_obiektu` w pliku CSV jest zgodne z zasadami opisanymi w pliku `.md`.
 
 ## WYMAGANY FORMAT WYJŚCIOWY
 
@@ -27,12 +26,11 @@ Zmień status przetworzonych odznak na `ETAP2_OK`. Wypisz tylko wiersze, które 
 
 ### 2. Uzupełnione pliki obiektów: `zasoby/odznaki/[NAZWA].csv`
 Wygeneruj kompletną treść pliku CSV dla każdej z przetworzonych odznak.
-Pola: `nazwa_obiektu; wojewodztwo; kategoria_obiektu; adres; wspolrzedne; wikipedia_opis; google_maps_link; stopien_odznaki`
+Pola: `nazwa_obiektu; region; kategoria_obiektu; adres; maps_url; lokalizacja`
 
 ## ZASADY JAKOŚCIOWE
 - **Precyzja:** Współrzędne muszą wskazywać na konkretny budynek/szczyt, a nie tylko centrum miejscowości.
-- **Zwięzłość:** Opis Wikipedia musi być "gęsty" od informacji, bez lania wody.
-- **Brak halucynacji:** Jeśli obiektu nie da się jednoznacznie zlokalizować, wpisz w polu współrzędnych "MANUAL_CHECK".
+- **Brak halucynacji:** Jeśli obiektu nie da się jednoznacznie zlokalizować, wpisz w polu `lokalizacja` wartość "MANUAL_CHECK".
 
 ## RAPORT KOŃCOWY
 - Lista przetworzonych odznak w tej sesji.
