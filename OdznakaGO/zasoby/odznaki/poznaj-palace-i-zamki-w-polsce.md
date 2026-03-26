@@ -1,0 +1,1 @@
+### PLIK: poznaj-palace-i-zamki-w-polsce.md ### Stopnie - Stopnie ### Regulamin - Obiekt raz wykazany jako zamek nie moze sie zaliczony do weryfikacji w paacach. ### Kryteria zaliczania - Potwierdzenia obiektow nalezy zbierac w ksiazeczkach turystyki kwalifikowanej lub w samodzielnie wykonanych kronikach, formy elektroniczne nie beda uwzgledniane.

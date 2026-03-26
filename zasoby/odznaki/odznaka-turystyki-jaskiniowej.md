@@ -1,0 +1,1 @@
+### PLIK: odznaka-turystyki-jaskiniowej.md ### Stopnie - Stopnie ### Regulamin - poznanie zasad bezpiecznej turystyki jaskiniowej, ### Kryteria zaliczania - OTJ moga zdobywac osoby penoletnie. Osoby niepenoletnie musza zwiedzac jaskinie wraz z osoba penoletnia.

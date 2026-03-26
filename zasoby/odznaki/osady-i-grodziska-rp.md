@@ -1,0 +1,1 @@
+### PLIK: osady-i-grodziska-rp.md ### Stopnie - stopien popularny: 3 ### Regulamin - Regulamin zdobywania dostepny ### Kryteria zaliczania - Wymagane jest udokumentowanie aktywnosci turystycznej zgodnie z regulaminem.

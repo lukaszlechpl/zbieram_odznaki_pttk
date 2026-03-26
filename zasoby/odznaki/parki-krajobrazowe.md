@@ -1,0 +1,1 @@
+### PLIK: parki-krajobrazowe.md ### Stopnie - Parki Krajobrazowe | Odznaki.org ### Regulamin - Regulamin zdobywania dostepny ### Kryteria zaliczania - Wymagane jest udokumentowanie aktywnosci turystycznej zgodnie z regulaminem.

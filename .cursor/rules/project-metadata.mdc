@@ -1,0 +1,22 @@
+---
+description: Metadane projektu OdznakaGO i zasady kodowania plikow zasobow
+alwaysApply: true
+---
+
+# Metadane projektu
+
+## Technologie
+- Aplikacja frontendowa jest statyczna i oparta o HTML + JavaScript.
+- GLOWNY plik wejscia: `OdznakaGO/index.html`.
+- Logika aplikacji znajduje sie w plikach: `OdznakaGo/*.js`.
+- Narzedzia pomocnicze uruchamiane przez Node.js/NPM (m.in. `http-server`, `gh-pages`).
+
+## Lokalizacja kodu aplikacji
+- Traktuj `OdznakaGO/index.html` jako glowny punkt startowy aplikacji.
+- Traktuj wszystkie pliki `OdznakaGo/*.js` jako czesc kodu runtime aplikacji.
+
+## Zasady kodowania plikow zasobow
+- Wszystkie pliki zasobow `*.md` i `*.csv` musza pozostac w kodowaniu UTF-8.
+- Przy odczycie i zapisie zawsze wymuszaj UTF-8, szczegolnie na Windows.
+- Unikaj komend i narzedzi, ktore moga niejawnie zmienic kodowanie lub BOM.
+- Po operacjach masowych na `*.md` i `*.csv` weryfikuj, czy kodowanie UTF-8 zostalo zachowane.

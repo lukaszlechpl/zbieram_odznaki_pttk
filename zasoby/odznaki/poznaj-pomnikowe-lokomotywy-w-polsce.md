@@ -1,0 +1,1 @@
+### PLIK: poznaj-pomnikowe-lokomotywy-w-polsce.md ### Stopnie - Stopnie ### Regulamin - Weryfikacje odznak prowadzi Oddzia Wojskowy PTTK w Chemie. ### Kryteria zaliczania - Minimalna ilosc zwiedzonych pomnikow lokomotyw na poszczegolne stopnie odznaki wynosi:

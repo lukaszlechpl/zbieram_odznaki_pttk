@@ -1,0 +1,1 @@
+### PLIK: powstanie-listopadowe-1830-31.md ### Stopnie - Stopnie ### Regulamin - Odznake moze zdobywac kazdy turysta, ktory ukonczy 8 lat i speni warunki okreslone w niniejszym regulaminie. ### Kryteria zaliczania - Warunkiem zdobycia odznaki w stopniu brazowym jest zwiedzenie 10 miejsc zwiazanych z Powstaniem Listopadowym.

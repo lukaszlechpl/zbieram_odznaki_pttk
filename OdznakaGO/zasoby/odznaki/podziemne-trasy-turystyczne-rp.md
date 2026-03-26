@@ -1,0 +1,1 @@
+### PLIK: podziemne-trasy-turystyczne-rp.md ### Stopnie - Stopnie ### Regulamin - Regulamin zdobywania dostepny ### Kryteria zaliczania - Podziemna Trasa Turystyczna im. prof. Feliksa Zalewskiego w Jarosawiu

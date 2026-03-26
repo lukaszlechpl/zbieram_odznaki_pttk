@@ -1,0 +1,1 @@
+### PLIK: palace-i-dwory-rp.md ### Stopnie - Stopnie ### Regulamin - Regulamin zdobywania dostepny ### Kryteria zaliczania - Wymagane jest udokumentowanie aktywnosci turystycznej zgodnie z regulaminem.

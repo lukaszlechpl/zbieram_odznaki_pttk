@@ -1,0 +1,1 @@
+### PLIK: poznaj-miejsca-malo-znane.md ### Stopnie - Stopnie ### Regulamin - Weryfikacje odznak prowadzi Oddzia Wojskowy PTTK w Chemie. ### Kryteria zaliczania - Odznaka zostaa ustanowiona przez Zarzad Oddziau Wojskowego PTTK w Chemie. Celem odznaki jest zapoznanie turystow z obiektami krajoznawczymi, mao popularnymi lub jeszcze nieznanymi.

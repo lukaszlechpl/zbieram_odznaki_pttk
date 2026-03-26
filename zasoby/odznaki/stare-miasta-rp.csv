@@ -1,0 +1,17 @@
+nazwa_obiektu;region;kategoria_obiektu;adres;maps_url;lokalizacja
+Gdańsk;;;Gdańsk, Polska;https://www.google.com/maps/place/?q=place_id:ChIJb_rUFBxz_UYRjb63Y_H7uZs;54.35202520000001,18.6466384
+Olsztyn;;;Olsztyn, Polska;https://www.google.com/maps/place/?q=place_id:ChIJxxkUBy154kYRD8JUzyaBahA;53.778422,20.4801192
+Chełmo;;;97-515 Chełmo, Polska;https://www.google.com/maps/place/?q=place_id:ChIJM2lr3AvjGUcRzbDnpTJLsTQ;51.076425,19.7474332
+Toruń;;;Toruń, Polska;https://www.google.com/maps/place/?q=place_id:ChIJGeyU2eE0A0cRxIlqWJpySnQ;53.0137902,18.5984437
+Warszawa;;;Warszawa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJAZ-GmmbMHkcR_NPqiCq-8HI;52.2296756,21.0122287
+Poznań;;;Poznań, Polska;https://www.google.com/maps/place/?q=place_id:ChIJtwrh7NJEBEcR0b80A5gx6qQ;52.40567859999999,16.9312766
+Wrocław;;;Wrocław, Polska;https://www.google.com/maps/place/?q=place_id:ChIJv4q11MLpD0cR9eAFwq5WCbc;51.10929480000001,17.0386019
+Brzeg;;;Brzeg, Polska;https://www.google.com/maps/place/?q=place_id:ChIJjwBS6uMvEEcRBbALEkJXmI4;50.8608509,17.466831
+Kłodzko;;;Kłodzko, Polska;https://www.google.com/maps/place/?q=place_id:ChIJCQMlXQQXDkcRHh4UdfhXMHc;50.4345636,16.6613941
+Nysa;;;Nysa, Polska;https://www.google.com/maps/place/?q=place_id:ChIJy4gnfwTEEUcRFv628_L17qQ;50.4766766,17.3353434
+Kraków;;;Kraków, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ0RhONcBEFkcRv4pHdrW2a7Q;50.06465009999999,19.9449799
+Sandomierz;;;Sandomierz, Polska;https://www.google.com/maps/place/?q=place_id:ChIJp0gk8Ae1IkcR58h5ymGZEB8;50.6822405,21.7501781
+Kazimierz Dolny;;;Kazimierz Dolny, Polska;https://www.google.com/maps/place/?q=place_id:ChIJTemGEId9IkcRqj6G9QUTpJo;51.3180409,21.9542482
+Lublin;;;Lublin, Polska;https://www.google.com/maps/place/?q=place_id:ChIJYUAVHhRXIkcRX-no9nruKFU;51.2509458,22.5747275
+Przemyśl;;;Przemyśl, Polska;https://www.google.com/maps/place/?q=place_id:ChIJ0Wi2H99-O0cR8D-ZuwEX_B4;49.7823132,22.7744294
+Zamość;;;22-400 Zamość, Polska;https://www.google.com/maps/place/?q=place_id:ChIJd9IR2q1nI0cRgKX4ApJFALo;50.7230879,23.2519685
