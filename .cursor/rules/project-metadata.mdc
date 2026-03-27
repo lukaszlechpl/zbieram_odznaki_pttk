@@ -20,3 +20,8 @@ alwaysApply: true
 - Przy odczycie i zapisie zawsze wymuszaj UTF-8, szczegolnie na Windows.
 - Unikaj komend i narzedzi, ktore moga niejawnie zmienic kodowanie lub BOM.
 - Po operacjach masowych na `*.md` i `*.csv` weryfikuj, czy kodowanie UTF-8 zostalo zachowane.
+
+## Zasady artefaktow builda i plikow zewnetrznych
+- Kazdy plik generowany automatycznie w procesie build/deploy musi byc dodany do `.gitignore`.
+- Kazdy plik pobierany z zewnatrz w procesie build/deploy (cache, vendor, snapshot, artefakty narzedzi) musi byc dodany do `.gitignore`, chyba ze jest celowo wersjonowany i opisany w README.
+- Pliki zrodlowe builda (np. konfiguracje i wejscia typu `*.input.css`) pozostaja wersjonowane, o ile nie sa generowane automatycznie.

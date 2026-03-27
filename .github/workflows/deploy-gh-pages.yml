@@ -26,16 +26,18 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Configure git identity
+      - name: Build hosting artifacts
+        run: npm run prepare:hosting
+
+      - name: Verify generated Tailwind CSS
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          test -f .deploy/OdznakaGO/tailwind.css
+          test -s .deploy/OdznakaGO/tailwind.css
 
       - name: Deploy
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npm run prepare:hosting
           npx gh-pages -d .deploy -r "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
 

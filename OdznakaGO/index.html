@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="tailwind.css" />
     <style>
         html, body {
             height: 100%;
@@ -184,14 +184,15 @@
         .leaflet-popup-content-wrapper {
             border-radius: 0.5rem;
         }
-        .group-popup-list li + li {
-            border-top: 1px solid #e5e7eb;
-            margin-top: 8px;
-            padding-top: 8px;
+        .group-popup-content {
+            max-height: 250px;
+            overflow: auto;
+            margin-top: 10px;
         }
-        .group-popup-list li {
-            margin: 0;
-            padding: 0;
+        .group-popup-item + .group-popup-item {
+            border-top: 1px solid #e5e7eb;
+            margin-top: 10px;
+            padding-top: 10px;
         }
         .check-in-btn {
             margin-top: 10px;

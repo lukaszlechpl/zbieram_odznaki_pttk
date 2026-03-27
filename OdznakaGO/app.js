@@ -272,11 +272,11 @@ document.addEventListener('DOMContentLoaded', () => {
             lng: center.lng,
             zoom
         };
-        localStorage.setItem(MAP_VIEW_SESSION_KEY, JSON.stringify(payload));
+        sessionStorage.setItem(MAP_VIEW_SESSION_KEY, JSON.stringify(payload));
     }
 
     function restoreMapViewFromSession() {
-        const raw = localStorage.getItem(MAP_VIEW_SESSION_KEY);
+        const raw = sessionStorage.getItem(MAP_VIEW_SESSION_KEY);
         if (!raw) return false;
         try {
             const parsed = JSON.parse(raw);
@@ -522,12 +522,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function createPointMarker(point) {
         const [lat, lon] = point.coords;
         const marker = L.marker([lat, lon]);
-        const popupContent = `
-            <b>${escapeHtml(point.name)}</b><br>
-            ${escapeHtml(point.address || '')}<br><br>
-            <b>Ten punkt zalicza się do odznak:</b>
-            <ul>${point.badges.map((b) => `<li>${escapeHtml(b)}</li>`).join('')}</ul>
-        `;
+        const popupContent = renderPointDetails(point);
         marker.bindPopup(popupContent);
         return marker;
     }
@@ -542,11 +537,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 iconAnchor: [18, 18]
             })
         });
-        const listItems = group.points
-            .map((point) => `<li><b>${escapeHtml(point.name)}</b><br>${escapeHtml(point.address || 'Brak adresu')}<br><small>${escapeHtml(point.badges.join(', '))}</small></li>`)
+        const groupedItems = group.points
+            .map((point) => `<div class="group-popup-item">${renderPointDetails(point)}</div>`)
             .join('');
-        marker.bindPopup(`<b>Grupa ${group.points.length} punktów</b><ul class="group-popup-list" style="max-height:250px;overflow:auto;">${listItems}</ul>`);
+        marker.bindPopup(`<div><b>Grupa ${group.points.length} punktów</b><div class="group-popup-content">${groupedItems}</div></div>`);
         return marker;
+    }
+
+    function renderPointDetails(point) {
+        const badgesList = point.badges
+            .map((badgeName) => `<li>${escapeHtml(badgeName)}</li>`)
+            .join('');
+        return `
+            <b>${escapeHtml(point.name)}</b><br>
+            ${escapeHtml(point.address || '')}<br><br>
+            <b>Ten punkt zalicza się do odznak:</b>
+            <ul>${badgesList}</ul>
+        `;
     }
 
     function parseCSV(text) {

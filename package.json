@@ -4,12 +4,16 @@
   "private": true,
   "description": "Statyczne wdrozenie aplikacji OdznakaGO (hosting lokalny i GitHub Pages).",
   "scripts": {
-    "prepare:hosting": "node scripts/prepare-hosting.mjs",
+    "build:css": "tailwindcss -c tailwind.config.js -i ./OdznakaGO/tailwind.input.css -o ./OdznakaGO/tailwind.css --minify",
+    "watch:css": "tailwindcss -c tailwind.config.js -i ./OdznakaGO/tailwind.input.css -o ./OdznakaGO/tailwind.css --watch",
+    "prepare:hosting": "npm run build:css && node scripts/prepare-hosting.mjs",
     "start:local": "npm run prepare:hosting && http-server .deploy -p 4173 -c-1 -o /OdznakaGO/",
     "deploy:gh-pages": "npm run prepare:hosting && gh-pages -d .deploy"
   },
   "devDependencies": {
+    "@tailwindcss/cli": "^4.2.2",
     "gh-pages": "^6.3.0",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "tailwindcss": "^4.2.2"
   }
 }

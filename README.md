@@ -16,12 +16,20 @@ Statyczna aplikacja frontendowa (HTML + JavaScript) publikowana przez GitHub Pag
 
 1. Instalacja zależności:
    - `npm ci`
-2. Start hostingu:
+2. (Opcjonalnie) development CSS Tailwind w trybie watch:
+   - `npm run watch:css`
+   - komenda nasłuchuje zmian i aktualizuje `OdznakaGO/tailwind.css`
+3. Start hostingu:
    - `npm run start:local`
-3. Otwórz w przeglądarce:
+4. Otwórz w przeglądarce:
    - `http://localhost:4173/OdznakaGO/`
 
-Skrypt `start:local` przygotowuje katalog `.deploy` (na podstawie `OdznakaGO/` i `zasoby/`), a następnie uruchamia prosty serwer do podglądu offline.
+Skrypt `start:local` uruchamia `prepare:hosting`, które:
+
+- buduje lokalny CSS Tailwind (`npm run build:css` -> `OdznakaGO/tailwind.css`),
+- przygotowuje katalog `.deploy` (na podstawie `OdznakaGO/` i `zasoby/`).
+
+Następnie startuje prosty serwer do podglądu offline.
 
 ## Deploy do GitHub Pages
 
@@ -35,6 +43,7 @@ Masz dwa warianty: automatyczny (workflow) lub ręczny (komenda lokalnie).
    - `Branch`: `gh-pages`
    - `/(root)`
 2. Workflow `.github/workflows/deploy-gh-pages.yml` publikuje aplikację na branch `gh-pages` po `push` na gałęzie `main` i `master`.
+   - Workflow wykonuje `npm ci`, buduje artefakty hostingu (`npm run prepare:hosting`, w tym lokalny build Tailwinda) i sprawdza obecność `tailwind.css` w `.deploy/OdznakaGO/`.
 
 Możesz też uruchomić ręcznie:
 - `Actions` -> workflow „Deploy to GitHub Pages” -> `Run workflow`.
