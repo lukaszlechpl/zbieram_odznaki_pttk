@@ -6,14 +6,28 @@ alwaysApply: true
 # Metadane projektu
 
 ## Technologie
-- Aplikacja frontendowa jest statyczna i oparta o HTML + JavaScript.
+- Aplikacja frontendowa jest statyczna i oparta o HTML + JavaScript (ES Modules).
 - GLOWNY plik wejscia: `OdznakaGO/index.html`.
-- Logika aplikacji znajduje sie w plikach: `OdznakaGo/*.js`.
+- Orkiestracja runtime: `OdznakaGO/js/main.js`.
+- Logika aplikacji jest modularna i znajduje sie w `OdznakaGO/js/modules/*.js`.
 - Narzedzia pomocnicze uruchamiane przez Node.js/NPM (m.in. `http-server`, `gh-pages`).
 
 ## Lokalizacja kodu aplikacji
 - Traktuj `OdznakaGO/index.html` jako glowny punkt startowy aplikacji.
-- Traktuj wszystkie pliki `OdznakaGo/*.js` jako czesc kodu runtime aplikacji.
+- Traktuj `OdznakaGO/js/main.js` jako warstwe spinajaca moduly.
+- Traktuj `OdznakaGO/js/modules/*.js` jako docelowe miejsca zmian funkcjonalnych.
+
+## Zasady pracy agenta z modularnym JS
+- Nie laduj calego kodu JavaScript domyslnie.
+- Dobieraj i czytaj tylko moduly potrzebne do zadania:
+  - dane punktow/CSV: `data-loader.js`, `csv.js`, `geo.js`,
+  - mapa i markery: `map-view.js`,
+  - UI i dialogi: `ui.js`,
+  - logowanie Google: `google-auth.js`,
+  - pliki i operacje Drive: `drive-api.js`,
+  - logika wizyt i preferencji: `visits-store.js`.
+- `main.js` czytaj tylko gdy zadanie dotyczy przeplywu miedzy modulami, inicjalizacji lub eventow globalnych.
+- Przy zmianie pojedynczej funkcji ogranicz odczyt do jednego modulu i jego bezposrednich zaleznosci.
 
 ## Zasady kodowania plikow zasobow
 - Wszystkie pliki zasobow `*.md` i `*.csv` musza pozostac w kodowaniu UTF-8.
