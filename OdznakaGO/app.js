@@ -1,10 +1,17 @@
 document.addEventListener('DOMContentLoaded', () => {
     const MAX_VISIBLE_POINTS = 150;
-    const map = L.map('map').setView([52.237, 19.145], 6);
+    const DEFAULT_WARSAW_CENTER = [52.2297, 21.0122];
+    const LOCATION_VIEW_RADIUS_M = 25000;
+    const MAP_VIEW_SESSION_KEY = 'odznakaGO.mapView';
+    const map = L.map('map');
+    let userLocationMarker = null;
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
+
+    addRecenterControl();
+    initializeMapView();
 
     const displayLayer = L.layerGroup().addTo(map);
     const pointsByCoord = new Map();
@@ -206,12 +213,146 @@ document.addEventListener('DOMContentLoaded', () => {
         return [lat, lon];
     }
 
-    map.on('moveend', () => updateVisibleMapMarkers());
+    map.on('moveend', () => {
+        saveMapViewToSession();
+        updateVisibleMapMarkers();
+    });
 
     function updateVisibleMapMarkers() {
         if (!allPoints || allPoints.length === 0) return;
         const visiblePoints = getVisiblePoints(allPoints);
         renderVisiblePoints(visiblePoints);
+    }
+
+    function addRecenterControl() {
+        const RecenterControl = L.Control.extend({
+            options: {
+                position: 'bottomright'
+            },
+            onAdd() {
+                const button = L.DomUtil.create('button', 'leaflet-bar leaflet-control');
+                button.type = 'button';
+                button.title = 'Centruj na mojej lokalizacji';
+                button.setAttribute('aria-label', 'Centruj na mojej lokalizacji');
+                button.textContent = '⌖';
+                button.style.width = '34px';
+                button.style.height = '34px';
+                button.style.fontSize = '20px';
+                button.style.lineHeight = '30px';
+                button.style.fontWeight = '700';
+                button.style.background = '#fff';
+                button.style.cursor = 'pointer';
+                button.style.border = 'none';
+
+                L.DomEvent.on(button, 'click', (event) => {
+                    L.DomEvent.stop(event);
+                    centerMapOnCurrentLocation();
+                });
+                L.DomEvent.disableClickPropagation(button);
+                return button;
+            }
+        });
+
+        map.addControl(new RecenterControl());
+    }
+
+    function initializeMapView() {
+        const restored = restoreMapViewFromSession();
+        if (restored) return;
+        setMapViewForLocation(DEFAULT_WARSAW_CENTER);
+        centerMapOnCurrentLocation({ useFallback: false });
+    }
+
+    function saveMapViewToSession() {
+        const center = map.getCenter();
+        const zoom = map.getZoom();
+        if (!Number.isFinite(center.lat) || !Number.isFinite(center.lng) || !Number.isFinite(zoom)) return;
+        const payload = {
+            lat: center.lat,
+            lng: center.lng,
+            zoom
+        };
+        localStorage.setItem(MAP_VIEW_SESSION_KEY, JSON.stringify(payload));
+    }
+
+    function restoreMapViewFromSession() {
+        const raw = localStorage.getItem(MAP_VIEW_SESSION_KEY);
+        if (!raw) return false;
+        try {
+            const parsed = JSON.parse(raw);
+            const { lat, lng, zoom } = parsed || {};
+            if (!Number.isFinite(lat) || !Number.isFinite(lng) || !Number.isFinite(zoom)) return false;
+            map.setView([lat, lng], zoom);
+            return true;
+        } catch {
+            return false;
+        }
+    }
+
+    async function centerMapOnCurrentLocation(options = {}) {
+        const { useFallback = false } = options;
+        const userCoords = await getCurrentPositionCoordinates();
+        if (userCoords) {
+            setMapViewForLocation(userCoords);
+            setUserLocationMarker(userCoords);
+            return;
+        }
+        if (useFallback) {
+            setMapViewForLocation(DEFAULT_WARSAW_CENTER);
+            if (userLocationMarker) {
+                map.removeLayer(userLocationMarker);
+                userLocationMarker = null;
+            }
+        }
+    }
+
+    function setMapViewForLocation(coords) {
+        const latLng = L.latLng(coords[0], coords[1]);
+        const bounds = latLng.toBounds(LOCATION_VIEW_RADIUS_M * 2);
+        map.fitBounds(bounds);
+    }
+
+    function setUserLocationMarker(coords) {
+        if (!userLocationMarker) {
+            userLocationMarker = L.circleMarker(coords, {
+                radius: 7,
+                color: '#1d4ed8',
+                weight: 2,
+                fillColor: '#3b82f6',
+                fillOpacity: 0.9
+            }).addTo(map);
+            return;
+        }
+        userLocationMarker.setLatLng(coords);
+        if (!map.hasLayer(userLocationMarker)) {
+            userLocationMarker.addTo(map);
+        }
+    }
+
+    function getCurrentPositionCoordinates() {
+        return new Promise((resolve) => {
+            if (!navigator.geolocation) {
+                resolve(null);
+                return;
+            }
+            navigator.geolocation.getCurrentPosition(
+                (position) => {
+                    const lat = Number(position?.coords?.latitude);
+                    const lng = Number(position?.coords?.longitude);
+                    if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
+                        resolve(null);
+                        return;
+                    }
+                    resolve([lat, lng]);
+                },
+                () => resolve(null),
+                {
+                    enableHighAccuracy: true,
+                    timeout: 10000,
+                    maximumAge: 60000
+                }
+            );
+        });
     }
 
     function getVisiblePoints(points) {
